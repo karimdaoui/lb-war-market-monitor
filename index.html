@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panic Selling — Lebanon</title>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#07070a;--s1:#0e0e13;--s2:#141419;--s3:#1a1a21;
+  --brd:#222230;--brd2:#2e2e3c;
+  --tx:#e4e4ec;--tx2:#9494a8;--tx3:#5c5c72;
+  --red:#ff2e2e;--red-d:#ff2e2e18;--red-b:#ff2e2e30;
+  --grn:#00d26a;--grn-d:#00d26a18;
+  --amb:#ffb020;--amb-d:#ffb02018;
+  --blu:#4488ff;--blu-d:#4488ff18;
+  --pur:#a855f7;--pur-d:#a855f718;
+  --cyn:#2dd4bf;--cyn-d:#2dd4bf18;
+  --pnk:#f472b6;--pnk-d:#f472b618;
+}
+body{font-family:'Instrument Sans',sans-serif;background:var(--bg);color:var(--tx);min-height:100vh;-webkit-font-smoothing:antialiased}
+body::after{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;opacity:.025;background:url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+.mono{font-family:'JetBrains Mono',monospace}
+.wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+
+header{padding:36px 0 28px;border-bottom:1px solid var(--brd)}
+.h-row{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.logo{font-family:'JetBrains Mono',monospace;font-size:26px;font-weight:700;letter-spacing:-.5px;display:flex;align-items:center;gap:10px}
+.logo .lbl{background:linear-gradient(135deg,var(--red),#cc2222);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.logo .sep{color:var(--tx3)}
+.tagline{color:var(--tx3);font-size:13px;margin-top:5px}
+.badge-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.live{display:inline-flex;align-items:center;gap:6px;background:var(--red-d);border:1px solid var(--red-b);padding:5px 14px;border-radius:20px;font:600 11px/1 'JetBrains Mono',monospace;color:var(--red);text-transform:uppercase;letter-spacing:.6px}
+.dot{width:6px;height:6px;background:var(--red);border-radius:50%;animation:blink 2s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.src-badge{font:500 11px/1 'JetBrains Mono',monospace;color:var(--tx3);background:var(--s2);border:1px solid var(--brd);padding:5px 12px;border-radius:20px;letter-spacing:.3px}
+
+.stats{display:grid;grid-template-columns:repeat(5,1fr);border-bottom:1px solid var(--brd);gap:1px;background:var(--brd)}
+.stat{background:var(--s1);padding:16px 18px;display:flex;flex-direction:column;gap:3px}
+.stat-l{font:600 10px/1 'JetBrains Mono',monospace;color:var(--tx3);text-transform:uppercase;letter-spacing:.8px}
+.stat-v{font:700 22px/1 'JetBrains Mono',monospace}
+.stat-v.r{color:var(--red)}.stat-v.g{color:var(--grn)}.stat-v.a{color:var(--amb)}.stat-v.b{color:var(--blu)}
+
+.how{padding:16px 0;border-bottom:1px solid var(--brd)}
+.how-btn{background:0;border:0;color:var(--tx3);font:500 12px/1 'JetBrains Mono',monospace;cursor:pointer;display:flex;align-items:center;gap:6px;padding:0}
+.how-btn:hover{color:var(--tx2)}
+.how-box{display:none;margin-top:14px;padding:16px 20px;background:var(--s1);border:1px solid var(--brd);border-radius:8px}
+.how-box.open{display:block}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.step{display:flex;gap:10px}
+.step-n{font:700 20px/1 'JetBrains Mono',monospace;color:var(--red);opacity:.5}
+.step-t{font-size:13px;color:var(--tx2);line-height:1.5}
+
+.toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid var(--brd);flex-wrap:wrap}
+.filters{display:flex;gap:5px;flex-wrap:wrap}
+.fbtn{background:var(--s2);border:1px solid var(--brd);color:var(--tx2);padding:6px 14px;border-radius:5px;font:500 12px/1 'Instrument Sans',sans-serif;cursor:pointer;transition:all .12s}
+.fbtn:hover{border-color:var(--brd2);color:var(--tx)}
+.fbtn.on{background:var(--tx);color:var(--bg);border-color:var(--tx)}
+.right-tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.sort-l{font:500 10px/1 'JetBrains Mono',monospace;color:var(--tx3);text-transform:uppercase;letter-spacing:.5px}
+.sbtn{background:0;border:1px solid var(--brd);color:var(--tx3);padding:5px 10px;border-radius:4px;font:500 11px/1 'JetBrains Mono',monospace;cursor:pointer;transition:all .12s}
+.sbtn:hover{color:var(--tx2);border-color:var(--brd2)}
+.sbtn.on{color:var(--red);border-color:var(--red);background:var(--red-d)}
+.curr{display:flex;background:var(--s2);border:1px solid var(--brd);border-radius:5px;overflow:hidden}
+.cbtn{padding:5px 12px;font:600 11px/1 'JetBrains Mono',monospace;border:0;background:0;color:var(--tx3);cursor:pointer;transition:all .12s}
+.cbtn.on{background:var(--tx);color:var(--bg)}
+.area-sel{background:var(--s2);border:1px solid var(--brd);color:var(--tx2);padding:6px 10px;border-radius:5px;font:500 12px/1 'Instrument Sans',sans-serif;cursor:pointer;outline:0}
+.area-sel option{background:var(--s2)}
+
+table{width:100%;border-collapse:collapse}
+thead th{padding:11px 14px;font:600 10px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.7px;color:var(--tx3);text-align:left;border-bottom:1px solid var(--brd);position:sticky;top:0;background:var(--bg);z-index:10}
+tbody tr{border-bottom:1px solid var(--brd);transition:background .08s;cursor:pointer}
+tbody tr:hover{background:var(--s1)}
+td{padding:13px 14px;font-size:14px;vertical-align:middle}
+.prop-name{font-weight:600;color:var(--tx);margin-bottom:2px;max-width:280px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.prop-loc{font-size:12px;color:var(--tx2)}
+.tbadge{display:inline-block;padding:3px 7px;border-radius:3px;font:600 10px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.3px}
+.t-apt{background:var(--blu-d);color:var(--blu);border:1px solid #4488ff28}
+.t-villa{background:var(--pur-d);color:var(--pur);border:1px solid #a855f728}
+.t-pent{background:var(--amb-d);color:var(--amb);border:1px solid #ffb02028}
+.t-dup{background:var(--cyn-d);color:var(--cyn);border:1px solid #2dd4bf28}
+.t-land{background:var(--grn-d);color:var(--grn);border:1px solid #00d26a28}
+.t-chal{background:var(--pnk-d);color:var(--pnk);border:1px solid #f472b628}
+.p-now{font:600 15px/1 'JetBrains Mono',monospace}
+.p-was{font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3);text-decoration:line-through}
+.drop{display:inline-flex;align-items:center;gap:4px;padding:3px 9px;border-radius:4px;font:600 13px/1 'JetBrains Mono',monospace}
+.drop-r{background:var(--red-d);color:var(--red);border:1px solid var(--red-b)}
+.drop-a{background:var(--amb-d);color:var(--amb);border:1px solid #ffb02030}
+.drop-amt{font:500 12px/1 'JetBrains Mono',monospace;color:var(--red)}
+.date{font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)}
+.link-btn{background:var(--s2);border:1px solid var(--brd);color:var(--tx2);width:30px;height:30px;border-radius:4px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .12s;font-size:13px;text-decoration:none}
+.link-btn:hover{border-color:var(--brd2);color:var(--tx)}
+
+.empty{text-align:center;padding:80px 20px;color:var(--tx3)}
+.empty-i{font-size:48px;margin-bottom:14px;opacity:.4}
+.empty h3{font-size:17px;color:var(--tx2);margin-bottom:6px}
+.empty p{font-size:13px;max-width:380px;margin:0 auto;line-height:1.6}
+
+footer{padding:24px 0 40px;border-top:1px solid var(--brd);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+footer span{font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)}
+
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--brd);border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:var(--brd2)}
+
+@media(max-width:900px){.stats{grid-template-columns:repeat(3,1fr)}.toolbar{flex-direction:column;align-items:flex-start}}
+@media(max-width:640px){.stats{grid-template-columns:repeat(2,1fr)}.h-row{flex-direction:column}td,th{padding:10px 8px;font-size:12px}.prop-name{max-width:160px}.hide-m{display:none}}
+
+tbody tr{animation:rowIn .3s ease both}
+@keyframes rowIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="h-row">
+    <div>
+      <div class="logo"><span>🇱🇧</span><span class="sep">/</span><span class="lbl">panic selling</span></div>
+      <div class="tagline">Tracking price drops on Lebanon real estate · OLX listings updated daily</div>
+    </div>
+    <div class="badge-row">
+      <span class="src-badge">source: olx.com.lb</span>
+      <span class="live"><span class="dot"></span> Tracking</span>
+    </div>
+  </div>
+</header>
+
+<div class="stats">
+  <div class="stat"><span class="stat-l">Tracked</span><span class="stat-v b" id="st-total">—</span></div>
+  <div class="stat"><span class="stat-l">Price Drops</span><span class="stat-v r" id="st-drops">—</span></div>
+  <div class="stat"><span class="stat-l">Avg Drop</span><span class="stat-v a" id="st-avg">—</span></div>
+  <div class="stat"><span class="stat-l">Biggest Drop</span><span class="stat-v r" id="st-max">—</span></div>
+  <div class="stat"><span class="stat-l">Drops Today</span><span class="stat-v g" id="st-today">—</span></div>
+</div>
+
+<div class="how">
+  <button class="how-btn" onclick="document.getElementById('howbox').classList.toggle('open')">▶ How it works</button>
+  <div class="how-box" id="howbox">
+    <div class="steps">
+      <div class="step"><span class="step-n">1</span><span class="step-t">Scraper runs daily, pulling every Beirut + Mount Lebanon listing from OLX</span></div>
+      <div class="step"><span class="step-n">2</span><span class="step-t">Prices are stored and compared against previous values each day</span></div>
+      <div class="step"><span class="step-n">3</span><span class="step-t">When a price drops — it appears here, ranked by discount size</span></div>
+      <div class="step"><span class="step-n">4</span><span class="step-t">Click any row to view the full listing on OLX</span></div>
+    </div>
+  </div>
+</div>
+
+<div class="toolbar">
+  <div class="filters" id="type-filters"></div>
+  <div class="right-tools">
+    <select class="area-sel" id="area-filter"><option value="all">All Areas</option></select>
+    <div>
+      <span class="sort-l">Sort: </span>
+      <button class="sbtn on" data-sort="pct" onclick="setSort('pct')">% Drop</button>
+      <button class="sbtn" data-sort="usd" onclick="setSort('usd')">$ Drop</button>
+      <button class="sbtn" data-sort="date" onclick="setSort('date')">Recent</button>
+      <button class="sbtn" data-sort="price" onclick="setSort('price')">Price ↓</button>
+    </div>
+    <div class="curr">
+      <button class="cbtn on" data-c="usd" onclick="setCurr('usd')">USD $</button>
+      <button class="cbtn" data-c="lbp" onclick="setCurr('lbp')">LBP ل.ل</button>
+    </div>
+  </div>
+</div>
+
+<table>
+  <thead><tr>
+    <th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Price</th><th>Was</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th>
+  </tr></thead>
+  <tbody id="tbody"></tbody>
+</table>
+
+<div class="empty" id="empty" style="display:none">
+  <div class="empty-i">📉</div>
+  <h3>No drops matching filters</h3>
+  <p>Try adjusting your filters or check back tomorrow for new price changes.</p>
+</div>
+
+<footer>
+  <span>Data from OLX Lebanon · Updated daily 08:00 AM</span>
+  <span>Built for 🇱🇧 real estate watchers</span>
+</footer>
+</div>
+
+<script>
+const LBP_RATE=89500;
+function todayStr(){return new Date().toISOString().slice(0,10)}
+function daysAgo(n){const d=new Date();d.setDate(d.getDate()-n);return d.toISOString().slice(0,10)}
+
+const SAMPLE={
+  generated_at:new Date().toISOString(),total_tracked:1847,total_drops:23,avg_drop_pct:17.1,biggest_drop_usd:220000,
+  drops:[
+    {id:"1",title:"Luxurious 280sqm Apartment - Achrafieh Sioufi",type:"Apartment",location:"Achrafieh, Beirut",sqm:280,original_price:420000,current_price:340000,drop_usd:80000,drop_pct:19.0,last_drop_date:todayStr(),url:"https://www.olx.com.lb/en/ad/luxurious-280sqm-apartment-achrafieh-sioufi-ID10001.html"},
+    {id:"2",title:"Sea View Villa 600sqm + Garden - Rabieh",type:"Villa",location:"Rabieh, Mount Lebanon",sqm:600,original_price:850000,current_price:755000,drop_usd:95000,drop_pct:11.2,last_drop_date:todayStr(),url:"https://www.olx.com.lb/en/ad/sea-view-villa-600sqm-garden-rabieh-ID10002.html"},
+    {id:"3",title:"3BR Renovated Apartment - Verdun",type:"Apartment",location:"Verdun, Beirut",sqm:210,original_price:310000,current_price:248000,drop_usd:62000,drop_pct:20.0,last_drop_date:daysAgo(1),url:"https://www.olx.com.lb/en/ad/3br-renovated-apartment-verdun-ID10003.html"},
+    {id:"4",title:"Penthouse Duplex 400sqm Panoramic View - Saifi Village",type:"Penthouse",location:"Saifi, Beirut",sqm:400,original_price:780000,current_price:650000,drop_usd:130000,drop_pct:16.7,last_drop_date:daysAgo(2),url:"https://www.olx.com.lb/en/ad/penthouse-duplex-400sqm-saifi-village-ID10004.html"},
+    {id:"5",title:"Modern 150sqm Near AUB - Hamra",type:"Apartment",location:"Hamra, Beirut",sqm:150,original_price:195000,current_price:165000,drop_usd:30000,drop_pct:15.4,last_drop_date:daysAgo(3),url:"https://www.olx.com.lb/en/ad/modern-150sqm-near-aub-hamra-ID10005.html"},
+    {id:"6",title:"500sqm Land Main Road - Baabda",type:"Land",location:"Baabda, Mount Lebanon",sqm:500,original_price:300000,current_price:240000,drop_usd:60000,drop_pct:20.0,last_drop_date:todayStr(),url:"https://www.olx.com.lb/en/ad/500sqm-land-main-road-baabda-ID10006.html"},
+    {id:"7",title:"Furnished Chalet 120sqm - Faraya Ski",type:"Chalet",location:"Faraya, Mount Lebanon",sqm:120,original_price:175000,current_price:139000,drop_usd:36000,drop_pct:20.6,last_drop_date:daysAgo(1),url:"https://www.olx.com.lb/en/ad/furnished-chalet-120sqm-faraya-ski-ID10007.html"},
+    {id:"8",title:"Heritage Apt 320sqm High Ceiling - Gemmayze",type:"Apartment",location:"Gemmayze, Beirut",sqm:320,original_price:290000,current_price:245000,drop_usd:45000,drop_pct:15.5,last_drop_date:daysAgo(4),url:"https://www.olx.com.lb/en/ad/heritage-apt-320sqm-gemmayze-ID10008.html"},
+    {id:"9",title:"Duplex 350sqm + Terrace Mountain View - Beit Mery",type:"Duplex",location:"Beit Mery, Mount Lebanon",sqm:350,original_price:480000,current_price:395000,drop_usd:85000,drop_pct:17.7,last_drop_date:daysAgo(2),url:"https://www.olx.com.lb/en/ad/duplex-350sqm-terrace-beit-mery-ID10009.html"},
+    {id:"10",title:"Studio 65sqm Renovated - Mar Mikhael",type:"Apartment",location:"Mar Mikhael, Beirut",sqm:65,original_price:85000,current_price:72000,drop_usd:13000,drop_pct:15.3,last_drop_date:daysAgo(5),url:"https://www.olx.com.lb/en/ad/studio-65sqm-renovated-mar-mikhael-ID10010.html"},
+    {id:"11",title:"4BR Villa + Pool 800sqm Land - Monteverde",type:"Villa",location:"Monteverde, Mount Lebanon",sqm:800,original_price:1200000,current_price:980000,drop_usd:220000,drop_pct:18.3,last_drop_date:daysAgo(1),url:"https://www.olx.com.lb/en/ad/4br-villa-pool-800sqm-monteverde-ID10011.html"},
+    {id:"12",title:"New Build 180sqm Open View - Hazmieh",type:"Apartment",location:"Hazmieh, Mount Lebanon",sqm:180,original_price:230000,current_price:198000,drop_usd:32000,drop_pct:13.9,last_drop_date:daysAgo(3),url:"https://www.olx.com.lb/en/ad/new-build-180sqm-hazmieh-ID10012.html"},
+    {id:"13",title:"Rooftop Apt 200sqm + Terrace - Badaro",type:"Apartment",location:"Badaro, Beirut",sqm:200,original_price:260000,current_price:215000,drop_usd:45000,drop_pct:17.3,last_drop_date:todayStr(),url:"https://www.olx.com.lb/en/ad/rooftop-apt-200sqm-terrace-badaro-ID10013.html"},
+    {id:"14",title:"Traditional Stone House 450sqm - Broummana",type:"Villa",location:"Broummana, Mount Lebanon",sqm:450,original_price:520000,current_price:430000,drop_usd:90000,drop_pct:17.3,last_drop_date:daysAgo(6),url:"https://www.olx.com.lb/en/ad/traditional-stone-house-broummana-ID10014.html"},
+    {id:"15",title:"Bright 2BR 140sqm - Clemenceau",type:"Apartment",location:"Clemenceau, Beirut",sqm:140,original_price:185000,current_price:160000,drop_usd:25000,drop_pct:13.5,last_drop_date:daysAgo(2),url:"https://www.olx.com.lb/en/ad/bright-2br-140sqm-clemenceau-ID10015.html"},
+    {id:"16",title:"Mountain Duplex 300sqm Garden - Aley",type:"Duplex",location:"Aley, Mount Lebanon",sqm:300,original_price:350000,current_price:280000,drop_usd:70000,drop_pct:20.0,last_drop_date:daysAgo(4),url:"https://www.olx.com.lb/en/ad/mountain-duplex-300sqm-aley-ID10016.html"},
+    {id:"17",title:"Prime 1100sqm Land - Dbayeh Highway",type:"Land",location:"Dbayeh, Mount Lebanon",sqm:1100,original_price:880000,current_price:750000,drop_usd:130000,drop_pct:14.8,last_drop_date:daysAgo(7),url:"https://www.olx.com.lb/en/ad/prime-1100sqm-land-dbayeh-ID10017.html"},
+    {id:"18",title:"Full Floor 500sqm - Downtown BCD",type:"Penthouse",location:"Downtown, Beirut",sqm:500,original_price:950000,current_price:760000,drop_usd:190000,drop_pct:20.0,last_drop_date:daysAgo(3),url:"https://www.olx.com.lb/en/ad/full-floor-500sqm-downtown-bcd-ID10018.html"},
+    {id:"19",title:"3BR New Finish 165sqm - Sin el Fil",type:"Apartment",location:"Sin el Fil, Mount Lebanon",sqm:165,original_price:155000,current_price:130000,drop_usd:25000,drop_pct:16.1,last_drop_date:daysAgo(1),url:"https://www.olx.com.lb/en/ad/3br-new-finish-sin-el-fil-ID10019.html"},
+    {id:"20",title:"Ski Chalet 90sqm Slopes Access - Kfardebian",type:"Chalet",location:"Kfardebian, Mount Lebanon",sqm:90,original_price:130000,current_price:105000,drop_usd:25000,drop_pct:19.2,last_drop_date:daysAgo(5),url:"https://www.olx.com.lb/en/ad/ski-chalet-90sqm-kfardebian-ID10020.html"},
+    {id:"21",title:"Open View 160sqm Apt - Antelias",type:"Apartment",location:"Antelias, Mount Lebanon",sqm:160,original_price:200000,current_price:172000,drop_usd:28000,drop_pct:14.0,last_drop_date:daysAgo(2),url:"https://www.olx.com.lb/en/ad/open-view-160sqm-antelias-ID10021.html"},
+    {id:"22",title:"Converted Loft 250sqm Industrial - Karantina",type:"Apartment",location:"Karantina, Beirut",sqm:250,original_price:220000,current_price:178000,drop_usd:42000,drop_pct:19.1,last_drop_date:todayStr(),url:"https://www.olx.com.lb/en/ad/converted-loft-250sqm-karantina-ID10022.html"},
+    {id:"23",title:"Villa 700sqm + Pool + View - Bsalim",type:"Villa",location:"Bsalim, Mount Lebanon",sqm:700,original_price:680000,current_price:570000,drop_usd:110000,drop_pct:16.2,last_drop_date:daysAgo(3),url:"https://www.olx.com.lb/en/ad/villa-700sqm-pool-view-bsalim-ID10023.html"},
+  ]
+};
+
+let data=SAMPLE, sortBy='pct', currency='usd', typeFilter='all', areaFilter='all';
+
+function fmtUSD(n){return '$'+n.toLocaleString('en-US')}
+function fmtLBP(n){return 'ل.ل '+(n*LBP_RATE/1000000).toFixed(1)+'B'}
+function fmtPrice(n){return currency==='usd'?fmtUSD(n):fmtLBP(n)}
+function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+function typeClass(t){return{Apartment:'apt',Villa:'villa',Penthouse:'pent',Duplex:'dup',Land:'land',Chalet:'chal'}[t]||'apt'}
+
+async function loadData(){
+  try{const r=await fetch('drops_feed.json');if(r.ok)data=await r.json()}catch(e){}
+  init();
+}
+
+function init(){renderStats();buildFilters();buildAreaFilter();render()}
+
+function renderStats(){
+  const today=todayStr();
+  const dropsToday=data.drops.filter(d=>d.last_drop_date===today).length;
+  const biggest=Math.max(...data.drops.map(d=>d.drop_usd),0);
+  document.getElementById('st-total').textContent=data.total_tracked.toLocaleString();
+  document.getElementById('st-drops').textContent=data.total_drops;
+  document.getElementById('st-avg').textContent=data.avg_drop_pct+'%';
+  document.getElementById('st-max').textContent=fmtPrice(biggest);
+  document.getElementById('st-today').textContent=dropsToday;
+}
+
+function buildFilters(){
+  const types=['all',...new Set(data.drops.map(d=>d.type))];
+  document.getElementById('type-filters').innerHTML=types.map(t=>`<button class="fbtn${t===typeFilter?' on':''}" onclick="setType('${t}')">${t==='all'?'All':t}</button>`).join('');
+}
+
+function buildAreaFilter(){
+  const areas=[...new Set(data.drops.map(d=>d.location))].sort();
+  const sel=document.getElementById('area-filter');
+  sel.innerHTML='<option value="all">All Areas</option>'+areas.map(a=>`<option value="${a}">${a}</option>`).join('');
+  sel.value=areaFilter;
+  sel.onchange=e=>{areaFilter=e.target.value;render()};
+}
+
+function setType(t){typeFilter=t;buildFilters();render()}
+function setSort(s){sortBy=s;document.querySelectorAll('.sbtn').forEach(b=>b.classList.toggle('on',b.dataset.sort===s));render()}
+function setCurr(c){currency=c;document.querySelectorAll('.cbtn').forEach(b=>b.classList.toggle('on',b.dataset.c===c));renderStats();render()}
+
+function render(){
+  let items=[...data.drops];
+  if(typeFilter!=='all')items=items.filter(d=>d.type===typeFilter);
+  if(areaFilter!=='all')items=items.filter(d=>d.location===areaFilter);
+  const sorters={pct:(a,b)=>b.drop_pct-a.drop_pct,usd:(a,b)=>b.drop_usd-a.drop_usd,date:(a,b)=>b.last_drop_date.localeCompare(a.last_drop_date),price:(a,b)=>b.current_price-a.current_price};
+  items.sort(sorters[sortBy]||sorters.pct);
+  const tbody=document.getElementById('tbody'),empty=document.getElementById('empty');
+  if(!items.length){tbody.innerHTML='';empty.style.display='block';return}
+  empty.style.display='none';
+  const today=todayStr();
+  tbody.innerHTML=items.map((d,i)=>{
+    const isToday=d.last_drop_date===today;
+    const dc=d.drop_pct>=15?'drop-r':'drop-a';
+    return`<tr style="animation-delay:${i*30}ms" onclick="window.open('${d.url}','_blank')">
+      <td><div class="prop-name">${esc(d.title)}</div><div class="prop-loc">${esc(d.location)}${d.sqm?' · '+d.sqm+'sqm':''}</div></td>
+      <td><span class="tbadge t-${typeClass(d.type)}">${d.type}</span></td>
+      <td class="hide-m" style="font-size:13px;color:var(--tx2)">${esc(d.location.split(',')[0])}</td>
+      <td><div class="p-now">${fmtPrice(d.current_price)}</div></td>
+      <td><div class="p-was">${fmtPrice(d.original_price)}</div></td>
+      <td><span class="drop ${dc}">↓ ${d.drop_pct}%</span></td>
+      <td><span class="drop-amt">-${fmtPrice(d.drop_usd)}</span></td>
+      <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date}</span></td>
+      <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">↗</a></td>
+    </tr>`}).join('');
+}
+
+loadData();
+</script>
+</body>
+</html>
