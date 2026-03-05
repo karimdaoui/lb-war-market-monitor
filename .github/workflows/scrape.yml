@@ -1,15 +1,6 @@
 # .github/workflows/scrape.yml
+# Wardrops — Lebanon Real Estate Price Tracker
 # Runs the OLX Lebanon scraper daily and deploys the dashboard to GitHub Pages
-#
-# SETUP:
-# 1. Create a private repo on GitHub
-# 2. Add these files to the repo root:
-#    - olx_scraper.py
-#    - lebanon-panic-selling.html (rename to index.html)
-#    - .github/workflows/scrape.yml (this file)
-# 3. Go to repo Settings → Pages → Source: "GitHub Actions"
-# 4. That's it — the scraper runs daily at 8AM Beirut time
-#    and the dashboard auto-deploys with fresh data
 
 name: Scrape & Deploy
 
