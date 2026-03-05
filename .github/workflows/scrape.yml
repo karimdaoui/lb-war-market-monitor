@@ -1,14 +1,16 @@
 # .github/workflows/scrape.yml
-# Wardrops — Lebanon Real Estate Price Tracker
-# Runs the OLX Lebanon scraper daily and deploys the dashboard to GitHub Pages
+# Wardrops — Lebanon Price Tracker (Real Estate + Cars)
+# Runs scrapers and deploys the dashboard to GitHub Pages
 
 name: Scrape & Deploy
 
 on:
   schedule:
-    # Run daily at 5:00 UTC (8:00 AM Beirut time, UTC+3)
+    # 8AM Beirut (5:00 UTC) — both scrapers
     - cron: '0 5 * * *'
-  workflow_dispatch:  # Allow manual trigger from GitHub UI
+    # 8PM Beirut (17:00 UTC) — both scrapers
+    - cron: '0 17 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -30,15 +32,18 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run scraper
+      - name: Run real estate scraper
         run: python olx_scraper.py
+
+      - name: Run car scraper
+        run: python olx_scraper_cars.py
 
       - name: Commit updated data
         run: |
           git config user.name "OLX Scraper Bot"
-          git config user.email "bot@panicselling.lb"
-          git add listings_db.json drops_feed.json
-          git diff --staged --quiet || git commit -m "📊 Daily scrape $(date +%Y-%m-%d)"
+          git config user.email "bot@wardrops.lb"
+          git add listings_db.json drops_feed.json listings_db_cars.json drops_feed_cars.json
+          git diff --staged --quiet || git commit -m "📊 Scrape $(date +%Y-%m-%d\ %H:%M)"
           git push
 
   deploy:
@@ -51,7 +56,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          ref: main  # Get the latest commit (after scrape)
+          ref: main
 
       - name: Pull latest data
         run: git pull origin main
@@ -60,9 +65,8 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html _site/
-          # Copy data files if they exist
           [ -f drops_feed.json ] && cp drops_feed.json _site/ || true
-          [ -f listings_db.json ] && cp listings_db.json _site/ || true
+          [ -f drops_feed_cars.json ] && cp drops_feed_cars.json _site/ || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

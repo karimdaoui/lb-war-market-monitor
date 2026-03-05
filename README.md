@@ -1,32 +1,35 @@
-# 🇱🇧 Wardrops — Lebanon Real Estate Price Tracker
+# 🇱🇧 Wardrops — Lebanon Price Tracker
 
-Tracks price drops on OLX Lebanon real estate listings since the start of the war (March 1, 2026).
+Tracks price drops on OLX Lebanon listings since the start of the war (March 1, 2026).
 
 **Live dashboard:** [karimdaoui.github.io/lb-real-estate](https://karimdaoui.github.io/lb-real-estate/)
 
+## What it tracks
+
+- **Real Estate** — Apartments, villas, land, chalets, commercial, buildings
+- **Cars** — All car listings on OLX Lebanon
+
+Both sections share the same dashboard with tabs to switch between them.
+
 ## How it works
 
-- **olx_scraper.py** crawls OLX Lebanon property listings daily (apartments, villas, land, chalets, commercial, buildings)
+- Scrapers run twice daily (8AM + 8PM Beirut time) via GitHub Actions
 - Baseline prices are locked from March 1, 2026 (start of the war)
-- Each day it compares current prices to the baseline → detects drops
-- Drops are written to `drops_feed.json`
-- **index.html** reads `drops_feed.json` and renders the dashboard
+- Each run compares current prices to the baseline and detects drops
+- Dashboard reads the drops feeds and renders them with filters and sorting
 
-## Setup
+## Files
 
-The scraper runs automatically every day at 8AM Beirut time via GitHub Actions.
+- `olx_scraper.py` — Real estate scraper
+- `olx_scraper_cars.py` — Car scraper
+- `index.html` — Dashboard with Real Estate / Cars tabs
+- `drops_feed.json` — Real estate price drops
+- `drops_feed_cars.json` — Car price drops
 
-To run manually: Go to **Actions** tab → "Scrape & Deploy" → **Run workflow**
+## Running locally
 
-## Scraper notes
-
-- OLX Lebanon serves data as JSON in `window.state` — no HTML parsing needed
-- To test locally: `pip install requests && python olx_scraper.py`
-- Rate limited to 2-4 seconds between requests
-- Covers all Lebanon: apartments, villas, land, chalets, commercial, buildings
-
-## Customization
-
-- **Scrape more pages:** Edit `MAX_PAGES_PER_CATEGORY` in the scraper
-- **Change LBP rate:** Update `LBP_RATE` in the HTML file
-- **Scrape frequency:** Edit the cron schedule in `scrape.yml`
+```
+pip install requests
+python olx_scraper.py
+python olx_scraper_cars.py
+```
