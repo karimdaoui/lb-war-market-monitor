@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-03-05T06:16:52.319796",
-  "total_tracked": 4642,
-  "total_drops": 1,
-  "avg_drop_pct": 2.9,
-  "biggest_drop_usd": 25000,
+  "generated_at": "2026-03-05T06:41:51.517318",
+  "total_tracked": 4795,
+  "total_drops": 2,
+  "avg_drop_pct": 6.5,
+  "biggest_drop_usd": 35000,
   "drops": [
+    {
+      "id": "116761869",
+      "title": "prime location, easy access ,Msaytbeh/مصيطبه REF#AO131928",
+      "url": "https://www.olx.com.lb/ad/prime-location-easy-access-msaytbehمصيطبه-refao131928-ID116761869.html",
+      "type": "Apartment",
+      "location": "Msaytbeh, Beirut",
+      "sqm": 500,
+      "original_price": 350000,
+      "current_price": 315000,
+      "drop_usd": 35000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-03-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 350000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 315000,
+          "date": "2026-03-05"
+        }
+      ]
+    },
     {
       "id": "116413658",
       "title": "RWK450CA - Land For Sale In Sahel Alma - أرض للبيع في ساحل علما",
