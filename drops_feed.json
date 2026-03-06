@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-06T05:58:27.604522",
-  "total_tracked": 5506,
-  "total_drops": 6,
-  "avg_drop_pct": 7.6,
+  "generated_at": "2026-03-06T17:45:47.328668",
+  "total_tracked": 6409,
+  "total_drops": 8,
+  "avg_drop_pct": 7.0,
   "biggest_drop_usd": 55000,
   "drops": [
     {
@@ -97,6 +97,54 @@
         },
         {
           "price": 65000,
+          "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116768778",
+      "title": "Factory for Sale/ Nahr El Mot/نهر الموت/REF#GN132163 !",
+      "url": "https://www.olx.com.lb/ad/factory-for-sale-nahr-el-motنهر-الموتrefgn132163-ID116768778.html",
+      "type": "Apartment",
+      "location": "Nahr El Mott, Metn",
+      "sqm": 575,
+      "original_price": 250000,
+      "current_price": 235000,
+      "drop_usd": 15000,
+      "drop_pct": 6.0,
+      "last_drop_date": "2026-03-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 235000,
+          "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116618242",
+      "title": "$630/sqm Rare Land in Naccache-أرض660 دولار للمتر المربع في النقاش",
+      "url": "https://www.olx.com.lb/ad/630sqm-rare-land-in-naccache-أرض660-دولار-للمتر-المربع-في-النقاش-ID116618242.html",
+      "type": "Land",
+      "location": "Naccache, Metn",
+      "sqm": 750,
+      "original_price": 495000,
+      "current_price": 475000,
+      "drop_usd": 20000,
+      "drop_pct": 4.0,
+      "last_drop_date": "2026-03-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 495000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 475000,
           "date": "2026-03-06"
         }
       ]
