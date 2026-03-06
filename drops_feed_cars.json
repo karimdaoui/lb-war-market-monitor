@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-05T18:56:26.698664",
-  "total_tracked": 1212,
-  "total_drops": 5,
-  "avg_drop_pct": 6.1,
-  "biggest_drop_usd": 1800,
+  "generated_at": "2026-03-06T06:00:19.353882",
+  "total_tracked": 1288,
+  "total_drops": 10,
+  "avg_drop_pct": 5.9,
+  "biggest_drop_usd": 2000,
   "drops": [
     {
       "id": "116810236",
@@ -30,6 +30,62 @@
         {
           "price": 6900,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116810108",
+      "title": "BMW 3-Series 2001",
+      "url": "https://www.olx.com.lb/ad/bmw-3-series-2001-ID116810108.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Convertible",
+      "year": 2001,
+      "mileage": 200000,
+      "transmission": "Manual",
+      "location": "Baskinta, Metn",
+      "original_price": 3000,
+      "current_price": 2500,
+      "drop_usd": 500,
+      "drop_pct": 16.7,
+      "last_drop_date": "2026-03-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 2500,
+          "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116690689",
+      "title": "Cayenne S 45000 miles!!!",
+      "url": "https://www.olx.com.lb/ad/cayenne-s-45000-miles-ID116690689.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 45000,
+      "transmission": "Steptronic",
+      "location": "Sodeco, Beirut",
+      "original_price": 34000,
+      "current_price": 32000,
+      "drop_usd": 2000,
+      "drop_pct": 5.9,
+      "last_drop_date": "2026-03-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 34000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 32000,
+          "date": "2026-03-06"
         }
       ]
     },
@@ -90,6 +146,34 @@
       ]
     },
     {
+      "id": "116806425",
+      "title": "MERCEDES E300 2018, LOCK ///AMG, super clean, full option, 81/882165",
+      "url": "https://www.olx.com.lb/ad/mercedes-e300-2018-lock-amg-super-clean-full-option-81882165-ID116806425.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Deir Al Zahrani, Nabatieh",
+      "original_price": 21700,
+      "current_price": 20800,
+      "drop_usd": 900,
+      "drop_pct": 4.1,
+      "last_drop_date": "2026-03-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 21700,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 20800,
+          "date": "2026-03-06"
+        }
+      ]
+    },
+    {
       "id": "116655740",
       "title": "2011 Hyundai Tucson 4WD  مصدر الشركة لبنان شبه جديدة",
       "url": "https://www.olx.com.lb/ad/hyundai-tucson-2011-4wd-مصدر-الشركة-لبنان-شبه-جديدة-ID116655740.html",
@@ -114,6 +198,62 @@
         {
           "price": 10999,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116789967",
+      "title": "Nissan Rogue 2015 awd",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2015-awd-ID116789967.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 130000,
+      "transmission": "Automatic",
+      "location": "Ain El Remmaneh, Beirut",
+      "original_price": 12000,
+      "current_price": 11900,
+      "drop_usd": 100,
+      "drop_pct": 0.8,
+      "last_drop_date": "2026-03-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 11900,
+          "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116793964",
+      "title": "Jetour T2 2025 TRAVELER PLUS TOP OF THE LINE BRAND NEW 0KM 8 SPEED !!",
+      "url": "https://www.olx.com.lb/ad/jetour-t2-2025-traveler-plus-top-of-the-line-brand-new-0km-8-speed-ID116793964.html",
+      "make": "Jetour",
+      "model": "T2",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 39000,
+      "current_price": 38800,
+      "drop_usd": 200,
+      "drop_pct": 0.5,
+      "last_drop_date": "2026-03-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 39000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 38800,
+          "date": "2026-03-06"
         }
       ]
     },

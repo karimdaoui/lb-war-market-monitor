@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-05T18:54:34.749117",
-  "total_tracked": 5365,
-  "total_drops": 5,
-  "avg_drop_pct": 7.7,
+  "generated_at": "2026-03-06T05:58:27.604522",
+  "total_tracked": 5506,
+  "total_drops": 6,
+  "avg_drop_pct": 7.6,
   "biggest_drop_usd": 55000,
   "drops": [
     {
@@ -74,6 +74,30 @@
         {
           "price": 315000,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116712563",
+      "title": "Ballouneh 70m2 | Studio | Well Maintained | Catch | TO |",
+      "url": "https://www.olx.com.lb/ad/ballouneh-70m2-studio-well-maintained-catch-to-ID116712563.html",
+      "type": "Apartment",
+      "location": "Ballouneh, Keserouan",
+      "sqm": 70,
+      "original_price": 70000,
+      "current_price": 65000,
+      "drop_usd": 5000,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-03-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 70000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 65000,
+          "date": "2026-03-06"
         }
       ]
     },
