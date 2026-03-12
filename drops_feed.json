@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-03-12T06:03:25.713784",
-  "total_tracked": 10703,
-  "total_drops": 37,
-  "avg_drop_pct": 6.1,
-  "biggest_drop_usd": 100000,
+  "generated_at": "2026-03-12T17:58:07.308457",
+  "total_tracked": 11392,
+  "total_drops": 44,
+  "avg_drop_pct": 6.6,
+  "biggest_drop_usd": 500000,
   "drops": [
+    {
+      "id": "116791260",
+      "title": "819m2 Prime land+mountain view 4sale in Ouyoun Broumana - برمانا",
+      "url": "https://www.olx.com.lb/ad/819m2-prime-landmountain-view-4sale-in-ouyoun-broumana-برمانا-ID116791260.html",
+      "type": "Land",
+      "location": "Broummana, Metn",
+      "sqm": 819,
+      "original_price": 500000,
+      "current_price": 350000,
+      "drop_usd": 150000,
+      "drop_pct": 30.0,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 500000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 350000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
     {
       "id": "116183677",
       "title": "DUPLEX SHOP FOR SALE IN ZALKA",
@@ -49,6 +73,30 @@
         },
         {
           "price": 342000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116773168",
+      "title": "Prime  Investment hotel ,Ain el mraisseh/عين المريسة REF#AU132350",
+      "url": "https://www.olx.com.lb/ad/prime-investment-hotel-ain-el-mraissehعين-المريسة-refau132350-ID116773168.html",
+      "type": "Apartment",
+      "location": "Ain Al Mraiseh, Beirut",
+      "sqm": 3000,
+      "original_price": 3500000,
+      "current_price": 3000000,
+      "drop_usd": 500000,
+      "drop_pct": 14.3,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3500000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 3000000,
           "date": "2026-03-12"
         }
       ]
@@ -322,6 +370,30 @@
       ]
     },
     {
+      "id": "116562798",
+      "title": "2980 SQM Land for Sale in Bkassine- Jezzine/بكاسين - جزين REF#DI125888",
+      "url": "https://www.olx.com.lb/ad/2980-sqm-land-for-sale-in-bkassine-jezzineبكاسين-جزين-refdi125888-ID116562798.html",
+      "type": "Land",
+      "location": "Other in Jezzine, Jezzine",
+      "sqm": 2980,
+      "original_price": 70000,
+      "current_price": 65000,
+      "drop_usd": 5000,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 70000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 65000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
       "id": "116763291",
       "title": "2 parking, maids room, elevator, concierge, Verdun/فردان  REF#MD131985",
       "url": "https://www.olx.com.lb/ad/2-parking-maids-room-elevator-concierge-verdunفردان-refmd131985-ID116763291.html",
@@ -366,6 +438,30 @@
         {
           "price": 205000,
           "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116675600",
+      "title": "FULLY FURNISHED APARTMENT FOR SALE IN ZALKA PRIME, (ZL-113)",
+      "url": "https://www.olx.com.lb/ad/fully-furnished-apartment-for-sale-in-zalka-prime-zl-113-ID116675600.html",
+      "type": "Apartment",
+      "location": "Zalka, Metn",
+      "sqm": 110,
+      "original_price": 150000,
+      "current_price": 140000,
+      "drop_usd": 10000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-03-12"
         }
       ]
     },
@@ -558,6 +654,30 @@
         {
           "price": 95000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116784045",
+      "title": "GMK160YA - Apartment For Sale In Sahel Alma - شقة للبيع في  ساحل علما",
+      "url": "https://www.olx.com.lb/ad/gmk160ya-apartment-for-sale-in-sahel-alma-شقة-للبيع-في-ساحل-علما-ID116784045.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 400,
+      "original_price": 310000,
+      "current_price": 295000,
+      "drop_usd": 15000,
+      "drop_pct": 4.8,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 310000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 295000,
+          "date": "2026-03-12"
         }
       ]
     },
@@ -782,6 +902,30 @@
       ]
     },
     {
+      "id": "116596420",
+      "title": "quiet neighborhood - overlooking the valley- ghirfine REF#YC126756",
+      "url": "https://www.olx.com.lb/ad/quiet-neighborhood-overlooking-the-valley-ghirfine-refyc126756-ID116596420.html",
+      "type": "Apartment",
+      "location": "Gherfine, Jbeil",
+      "sqm": 130,
+      "original_price": 120000,
+      "current_price": 117000,
+      "drop_usd": 3000,
+      "drop_pct": 2.5,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 120000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 117000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
       "id": "116808769",
       "title": "Apartment for sale Achrafieh Ref#RS107 شقة للبيع في الأشرفية",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-achrafieh-refrs107-شقة-للبيع-في-الأشرفية-ID116808769.html",
@@ -898,6 +1042,30 @@
         {
           "price": 495000,
           "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "115398036",
+      "title": "300Sq 3 BEDROOMS OPEN VIEW IN JAL EL DIB PRIME + TERRACE, (JD-175) R. N",
+      "url": "https://www.olx.com.lb/ad/300sq-3-bedrooms-open-view-in-jal-el-dib-prime-terrace-jd-175-r-n-ID115398036.html",
+      "type": "Apartment",
+      "location": "Jal El Dib, Metn",
+      "sqm": 300,
+      "original_price": 180000,
+      "current_price": 179000,
+      "drop_usd": 1000,
+      "drop_pct": 0.6,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 179000,
+          "date": "2026-03-12"
         }
       ]
     }
