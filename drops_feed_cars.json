@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-11T18:00:05.105733",
-  "total_tracked": 2493,
-  "total_drops": 96,
-  "avg_drop_pct": 4.9,
+  "generated_at": "2026-03-12T06:05:17.127040",
+  "total_tracked": 2534,
+  "total_drops": 98,
+  "avg_drop_pct": 4.8,
   "biggest_drop_usd": 5000,
   "drops": [
     {
@@ -2090,6 +2090,34 @@
       ]
     },
     {
+      "id": "116779527",
+      "title": "Wrangler Sport V6 76000km!! showroom condition",
+      "url": "https://www.olx.com.lb/ad/wrangler-sport-v6-2018-showroom-condition-ID116779527.html",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 38500,
+      "current_price": 37800,
+      "drop_usd": 700,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 38500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 37800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
       "id": "116812984",
       "title": "Mercedes-Benz GLC-Class 2019 AMG",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2019-amg-ID116812984.html",
@@ -2338,6 +2366,34 @@
         {
           "price": 34000,
           "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116812981",
+      "title": "Land Rover Range Rover 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-2018-ID116812981.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "Estate",
+      "year": 2018,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 36500,
+      "current_price": 36000,
+      "drop_usd": 500,
+      "drop_pct": 1.4,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 36500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 36000,
+          "date": "2026-03-12"
         }
       ]
     },
