@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T17:59:52.469161",
-  "total_tracked": 2650,
-  "total_drops": 105,
-  "avg_drop_pct": 4.7,
+  "generated_at": "2026-03-13T06:03:43.113453",
+  "total_tracked": 2705,
+  "total_drops": 107,
+  "avg_drop_pct": 4.8,
   "biggest_drop_usd": 5000,
   "drops": [
     {
@@ -318,6 +318,34 @@
       ]
     },
     {
+      "id": "116810005",
+      "title": "BMW X5 2008 (fe sot 2shour)",
+      "url": "https://www.olx.com.lb/ad/bmw-x5-2008-fe-sot-2shour-ID116810005.html",
+      "make": "BMW",
+      "model": "X5",
+      "body_type": "SUV",
+      "year": 2008,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 4900,
+      "current_price": 4400,
+      "drop_usd": 500,
+      "drop_pct": 10.2,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 4900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4400,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
       "id": "116810400",
       "title": "Maserati Levante 2017",
       "url": "https://www.olx.com.lb/ad/maserati-levante-2017-ID116810400.html",
@@ -514,6 +542,38 @@
         {
           "price": 33000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116815155",
+      "title": "Land Rover Range Rover Sport 2010",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2010-ID116815155.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2010,
+      "mileage": 202000,
+      "transmission": "Steptronic",
+      "location": "Other in Zgharta, Zgharta",
+      "original_price": 12000,
+      "current_price": 11000,
+      "drop_usd": 1000,
+      "drop_pct": 8.3,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 11500,
+          "date": "2026-03-12"
+        },
+        {
+          "price": 11000,
+          "date": "2026-03-13"
         }
       ]
     },
@@ -1238,6 +1298,34 @@
       ]
     },
     {
+      "id": "116815267",
+      "title": "مرسيدس بنز اس-كلاس 2017",
+      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-اس-كلاس-2017-ID116815267.html",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Minieh-Denniye, Minieh-Denniye",
+      "original_price": 45000,
+      "current_price": 43000,
+      "drop_usd": 2000,
+      "drop_pct": 4.4,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 45000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 43000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
       "id": "116732525",
       "title": "Toyota Prado 2016",
       "url": "https://www.olx.com.lb/ad/toyota-prado-2016-ID116732525.html",
@@ -1318,34 +1406,6 @@
         {
           "price": 23000,
           "date": "2026-03-07"
-        }
-      ]
-    },
-    {
-      "id": "116815155",
-      "title": "Land Rover Range Rover Sport 2010",
-      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2010-ID116815155.html",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "body_type": "SUV",
-      "year": 2010,
-      "mileage": 202000,
-      "transmission": "Steptronic",
-      "location": "Other in Zgharta, Zgharta",
-      "original_price": 12000,
-      "current_price": 11500,
-      "drop_usd": 500,
-      "drop_pct": 4.2,
-      "last_drop_date": "2026-03-12",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 12000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 11500,
-          "date": "2026-03-12"
         }
       ]
     },
@@ -2907,7 +2967,7 @@
     },
     {
       "id": "116810272",
-      "title": "GLC 300 2018 ! 4matic ! Clean Carfax ! Coming Soon !Arriving In 5 Days",
+      "title": "GLC 300 2018 ! 4matic ! Clean Carfax ! Coming Soon !",
       "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-altitude-2018-no-airbags-deployed-4x4-ID116810272.html",
       "make": "Jeep",
       "model": "Grand Cherokee",
