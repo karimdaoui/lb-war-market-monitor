@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T06:13:09.074122",
-  "total_tracked": 13932,
-  "total_drops": 60,
-  "avg_drop_pct": 7.0,
+  "generated_at": "2026-03-15T17:39:15.685743",
+  "total_tracked": 14243,
+  "total_drops": 64,
+  "avg_drop_pct": 6.8,
   "biggest_drop_usd": 900000,
   "drops": [
     {
@@ -798,6 +798,30 @@
       ]
     },
     {
+      "id": "116696768",
+      "title": "RWK519CA - for Sale in Kfour with an Amazing View!",
+      "url": "https://www.olx.com.lb/ad/rwk519ca-for-sale-in-kfour-with-an-amazing-view-ID116696768.html",
+      "type": "Apartment",
+      "location": "Kfour, Keserouan",
+      "sqm": 2720,
+      "original_price": 295000,
+      "current_price": 280000,
+      "drop_usd": 15000,
+      "drop_pct": 5.1,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 295000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 280000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
       "id": "116812626",
       "title": "265 SQM Apartment In Beit Mery With Panoramic View",
       "url": "https://www.olx.com.lb/ad/265-sqm-apartment-in-beit-mery-with-panoramic-view-ID116812626.html",
@@ -1218,6 +1242,30 @@
       ]
     },
     {
+      "id": "115730349",
+      "title": "High floor Sea View apartment for Sale in the heart of Downtown Beirut",
+      "url": "https://www.olx.com.lb/ad/high-floor-sea-view-apartment-for-sale-in-the-heart-of-downtown-beirut-ID115730349.html",
+      "type": "Apartment",
+      "location": "Downtown, Beirut",
+      "sqm": 210,
+      "original_price": 1950000,
+      "current_price": 1900000,
+      "drop_usd": 50000,
+      "drop_pct": 2.6,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1950000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1900000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
       "id": "116785515",
       "title": "High-End 70m2 apartment+moutain/sea view 4sale in Blat-شقة في بلاط",
       "url": "https://www.olx.com.lb/ad/high-end-70m2-apartmentmoutainsea-view-4sale-in-blat-شقة-في-بلاط-ID116785515.html",
@@ -1314,6 +1362,30 @@
       ]
     },
     {
+      "id": "116431225",
+      "title": "65m one bedroom apartment sale Ain remmane vs furn cheback beirut",
+      "url": "https://www.olx.com.lb/ad/65m-one-bedroom-apartment-sale-ain-remmane-vs-furn-cheback-beirut-ID116431225.html",
+      "type": "Apartment",
+      "location": "Chiyah, Beirut",
+      "sqm": 70,
+      "original_price": 69500,
+      "current_price": 68000,
+      "drop_usd": 1500,
+      "drop_pct": 2.2,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 69500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 68000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
       "id": "116808769",
       "title": "Apartment for sale Achrafieh Ref#RS107 شقة للبيع في الأشرفية",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-achrafieh-refrs107-شقة-للبيع-في-الأشرفية-ID116808769.html",
@@ -1334,6 +1406,30 @@
         {
           "price": 230000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116801147",
+      "title": "Aquamarina Seafront Bungalow - بنغلو بحري في أكوامارينا",
+      "url": "https://www.olx.com.lb/ad/aquamarina-seafront-bungalow-بنغلو-بحري-في-أكوامارينا-ID116801147.html",
+      "type": "Apartment",
+      "location": "Tabarja, Keserouan",
+      "sqm": 140,
+      "original_price": 950000,
+      "current_price": 930000,
+      "drop_usd": 20000,
+      "drop_pct": 2.1,
+      "last_drop_date": "2026-03-15",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 950000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 930000,
+          "date": "2026-03-15"
         }
       ]
     },
