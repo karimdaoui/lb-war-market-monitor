@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-17T18:07:57.569129",
-  "total_tracked": 16493,
-  "total_drops": 78,
+  "generated_at": "2026-03-18T06:12:57.894046",
+  "total_tracked": 16636,
+  "total_drops": 83,
   "avg_drop_pct": 7.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -198,6 +198,30 @@
         {
           "price": 3000000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116815796",
+      "title": "Apartment for Sale in Mar Elias شقة للبيع في مار الياس",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-mar-elias-شقة-للبيع-في-مار-الياس-ID116815796.html",
+      "type": "Apartment",
+      "location": "Mar Elias, Beirut",
+      "sqm": 326,
+      "original_price": 520000,
+      "current_price": 450000,
+      "drop_usd": 70000,
+      "drop_pct": 13.5,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 520000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 450000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -454,6 +478,30 @@
         {
           "price": 310000,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116795392",
+      "title": "Villa for Sale in Baysour,فيلا للبيع في بيصور",
+      "url": "https://www.olx.com.lb/ad/villa-for-sale-in-baysourفيلا-للبيع-في-بيصور-ID116795392.html",
+      "type": "Villa",
+      "location": "Baissour, Aley",
+      "sqm": 450,
+      "original_price": 298000,
+      "current_price": 270000,
+      "drop_usd": 28000,
+      "drop_pct": 9.4,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 298000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 270000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -770,6 +818,30 @@
       ]
     },
     {
+      "id": "116804550",
+      "title": "Parking, balcony, Easy Access, main road, Biaqout/بياقوت REF#BS133362",
+      "url": "https://www.olx.com.lb/ad/parking-balcony-easy-access-main-road-biaqoutبياقوت-refbs133362-ID116804550.html",
+      "type": "Apartment",
+      "location": "Biaqout, Metn",
+      "sqm": 110,
+      "original_price": 150000,
+      "current_price": 140000,
+      "drop_usd": 10000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
       "id": "116793778",
       "title": "أرض للبيع طبرجا  HOT DEAL Land for sale Tabarja seaside",
       "url": "https://www.olx.com.lb/ad/أرض-للبيع-طبرجا-land-for-sale-tabarja-seaside-ID116793778.html",
@@ -1006,6 +1078,30 @@
         {
           "price": 280000,
           "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116813046",
+      "title": "Office for sale in Antelias Ref#CA105 مكتب للبيع في أنطلياس",
+      "url": "https://www.olx.com.lb/ad/office-for-sale-in-antelias-refca105-مكتب-للبيع-في-أنطلياس-ID116813046.html",
+      "type": "Commercial",
+      "location": "Antelias, Metn",
+      "sqm": 67,
+      "original_price": 100000,
+      "current_price": 95000,
+      "drop_usd": 5000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 100000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 95000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -1762,6 +1858,30 @@
         {
           "price": 255000,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116797404",
+      "title": "apartments for sale in Hazmiyeh mar takla شقق للبيع في حازمية مارتقلا",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-hazmiyeh-mar-takla-شقق-للبيع-في-حازمية-مارتقلا-ID116797404.html",
+      "type": "Apartment",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 286,
+      "original_price": 558000,
+      "current_price": 548000,
+      "drop_usd": 10000,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 558000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 548000,
+          "date": "2026-03-18"
         }
       ]
     },

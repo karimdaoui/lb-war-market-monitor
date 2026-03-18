@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-17T18:09:46.452357",
-  "total_tracked": 3662,
-  "total_drops": 187,
+  "generated_at": "2026-03-18T06:14:54.625689",
+  "total_tracked": 3736,
+  "total_drops": 189,
   "avg_drop_pct": 6.2,
   "biggest_drop_usd": 99000,
   "drops": [
@@ -1438,6 +1438,34 @@
       ]
     },
     {
+      "id": "116807788",
+      "title": "HYUNDAI KONA 2018 SEL AWD 2.0 LUXURY EDITION MINT CONDITION",
+      "url": "https://www.olx.com.lb/ad/hyundai-kona-2018-sel-awd-20-luxury-edition-mint-condition-ID116807788.html",
+      "make": "Hyundai",
+      "model": "Kona",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Baouchriye, Metn",
+      "original_price": 18000,
+      "current_price": 17000,
+      "drop_usd": 1000,
+      "drop_pct": 5.6,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
       "id": "116814142",
       "title": "Nissan Pathfinder 1998",
       "url": "https://www.olx.com.lb/ad/nissan-pathfinder-1998-ID116814142.html",
@@ -2146,6 +2174,34 @@
         {
           "price": 22000,
           "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116683565",
+      "title": "Land Rover Range Rover Sport Dynamic 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-dynamic-2018-ID116683565.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 82000,
+      "transmission": "Steptronic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 46500,
+      "current_price": 44500,
+      "drop_usd": 2000,
+      "drop_pct": 4.3,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 46500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 44500,
+          "date": "2026-03-18"
         }
       ]
     },
