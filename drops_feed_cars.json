@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-21T17:38:11.334053",
-  "total_tracked": 4607,
-  "total_drops": 247,
+  "generated_at": "2026-03-22T06:05:49.884742",
+  "total_tracked": 4660,
+  "total_drops": 256,
   "avg_drop_pct": 5.6,
   "biggest_drop_usd": 99000,
   "drops": [
@@ -826,6 +826,34 @@
       ]
     },
     {
+      "id": "116827584",
+      "title": "هوندا أكورد 1989",
+      "url": "https://www.olx.com.lb/ad/هوندا-أكورد-1989-ID116827584.html",
+      "make": "Honda",
+      "model": "Accord",
+      "body_type": "Small city car",
+      "year": 1989,
+      "mileage": 42500,
+      "transmission": "Automatic",
+      "location": "Al Minie, Minieh-Denniye",
+      "original_price": 1500,
+      "current_price": 1350,
+      "drop_usd": 150,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1350,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
       "id": "116814458",
       "title": "Mercedes-Benz C-Class 2009",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2009-ID116814458.html",
@@ -994,6 +1022,34 @@
         {
           "price": 31000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116789247",
+      "title": "Fiat 500 Abarth 2015",
+      "url": "https://www.olx.com.lb/ad/fiat-500-abarth-2015-ID116789247.html",
+      "make": "Fiat",
+      "model": "500 Abarth",
+      "body_type": "Sports / Coupe",
+      "year": 2015,
+      "mileage": 156000,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 11800,
+      "current_price": 10800,
+      "drop_usd": 1000,
+      "drop_pct": 8.5,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 11800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 10800,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -1498,6 +1554,34 @@
       ]
     },
     {
+      "id": "116827371",
+      "title": "Chevrolet Cobalt 2016",
+      "url": "https://www.olx.com.lb/ad/chevrolet-cobalt-2016-ID116827371.html",
+      "make": "Chevrolet",
+      "model": "Cobalt",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 172000,
+      "transmission": "Automatic",
+      "location": "Ajaltoun, Keserouan",
+      "original_price": 6700,
+      "current_price": 6300,
+      "drop_usd": 400,
+      "drop_pct": 6.0,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 6700,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 6300,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
       "id": "116610277",
       "title": "Range Rover Velar P280 R-Dynamic 2019 Low Mileage مفول زوائد",
       "url": "https://www.olx.com.lb/ad/range-rover-velar-p280-r-dynamic-low-mileage-مفول-زوائد-ID116610277.html",
@@ -1870,6 +1954,34 @@
       ]
     },
     {
+      "id": "116827278",
+      "title": "Renault Duster 4x4",
+      "url": "https://www.olx.com.lb/ad/renault-duster-4x4-ID116827278.html",
+      "make": "Renault",
+      "model": "Duster",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 110000,
+      "transmission": "Steptronic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 12900,
+      "current_price": 12200,
+      "drop_usd": 700,
+      "drop_pct": 5.4,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12200,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
       "id": "116811091",
       "title": "Nissan Rogue 2018 SL 4wd super clean",
       "url": "https://www.olx.com.lb/ad/nissan-rogue-2018-sl-4wd-super-clean-ID116811091.html",
@@ -2022,6 +2134,34 @@
         {
           "price": 38000,
           "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116807758",
+      "title": "Mercedes-Benz C-Class 2012 c250 super clean car",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2012-c250-super-clean-car-ID116807758.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2012,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Hadath, Baabda",
+      "original_price": 11500,
+      "current_price": 10900,
+      "drop_usd": 600,
+      "drop_pct": 5.2,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 10900,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -2650,6 +2790,34 @@
         {
           "price": 44500,
           "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116827094",
+      "title": "Mercedes-Benz C-Class 2013",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2013-ID116827094.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2013,
+      "mileage": 155000,
+      "transmission": "Steptronic",
+      "location": "Chtoura, Zahle",
+      "original_price": 11500,
+      "current_price": 11000,
+      "drop_usd": 500,
+      "drop_pct": 4.3,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 11000,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -3722,6 +3890,34 @@
         {
           "price": 15200,
           "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116822749",
+      "title": "Mercedes-Benz S 550 Look ///AMG model 2007 super clean!!!",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-s-550-look-amg-model-2007-super-clean-ID116822749.html",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "body_type": "Sedan",
+      "year": 2007,
+      "mileage": 85000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 9300,
+      "current_price": 9000,
+      "drop_usd": 300,
+      "drop_pct": 3.2,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 9300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 9000,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -4954,6 +5150,34 @@
         {
           "price": 18300,
           "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116824810",
+      "title": "BMW 420i coupe sport Line model 2014 from company !!!",
+      "url": "https://www.olx.com.lb/ad/bmw-420i-coupe-sport-line-model-2014-from-company-ID116824810.html",
+      "make": "BMW",
+      "model": "4-Series",
+      "body_type": "Sports / Coupe",
+      "year": 2014,
+      "mileage": 132000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 14300,
+      "current_price": 13999,
+      "drop_usd": 301,
+      "drop_pct": 2.1,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 14300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 13999,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -6850,6 +7074,34 @@
         {
           "price": 16700,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116826168",
+      "title": "Chevrolet⁨ Camaro RS V6 2016 Original Stock",
+      "url": "https://www.olx.com.lb/ad/chevrolet-camaro-rs-v6-2016-original-stock-ID116826168.html",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "body_type": "Sports / Coupe",
+      "year": 2016,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Fanar, Metn",
+      "original_price": 15700,
+      "current_price": 15600,
+      "drop_usd": 100,
+      "drop_pct": 0.6,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15700,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 15600,
+          "date": "2026-03-22"
         }
       ]
     },
