@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T06:04:03.763034",
-  "total_tracked": 19813,
-  "total_drops": 114,
-  "avg_drop_pct": 8.9,
+  "generated_at": "2026-03-22T17:35:46.234430",
+  "total_tracked": 19927,
+  "total_drops": 118,
+  "avg_drop_pct": 8.8,
   "biggest_drop_usd": 900000,
   "drops": [
     {
@@ -474,6 +474,30 @@
         {
           "price": 3000000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116637683",
+      "title": "Land for Sale at Qanat Bakish",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-at-qanat-bakish-ID116637683.html",
+      "type": "Land",
+      "location": "Qanat Beqish, Metn",
+      "sqm": 916,
+      "original_price": 210000,
+      "current_price": 180000,
+      "drop_usd": 30000,
+      "drop_pct": 14.3,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 210000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -1066,6 +1090,30 @@
         {
           "price": 120000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116664232",
+      "title": "200SQ +120SQ TERRACE IN  ADMA PRIME WITH PANORAMIC VIEW . (AD-183)",
+      "url": "https://www.olx.com.lb/ad/200sq-120sq-terrace-in-adma-prime-with-panoramic-view-ad-183-ID116664232.html",
+      "type": "Apartment",
+      "location": "Adma w Dafnah, Keserouan",
+      "sqm": 280,
+      "original_price": 215000,
+      "current_price": 199000,
+      "drop_usd": 16000,
+      "drop_pct": 7.4,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 215000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 199000,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -2046,6 +2094,30 @@
       ]
     },
     {
+      "id": "116752747",
+      "title": "apartment with terrace for sale in baabda - baabda town",
+      "url": "https://www.olx.com.lb/ad/apartment-with-terrace-for-sale-in-baabda-baabda-town-ID116752747.html",
+      "type": "Apartment",
+      "location": "Baabda Town, Baabda",
+      "sqm": 260,
+      "original_price": 290000,
+      "current_price": 280000,
+      "drop_usd": 10000,
+      "drop_pct": 3.4,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 290000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 280000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
       "id": "116748995",
       "title": "3 bedroom apartment+terrace+sea view 4sale in Kfar Aabida - كفر عبيدة",
       "url": "https://www.olx.com.lb/ad/3-bedroom-apartmentterracesea-view-4sale-in-kfar-aabida-كفر-عبيدة-ID116748995.html",
@@ -2430,6 +2502,30 @@
         {
           "price": 215000,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116780812",
+      "title": "2 underground parking, Maids room, cabe, bsalim/بصاليم REF#MZ132540",
+      "url": "https://www.olx.com.lb/ad/2-underground-parking-maids-room-cabe-bsalimبصاليم-refmz132540-ID116780812.html",
+      "type": "Apartment",
+      "location": "Bsalim, Metn",
+      "sqm": 165,
+      "original_price": 230000,
+      "current_price": 225000,
+      "drop_usd": 5000,
+      "drop_pct": 2.2,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 230000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 225000,
+          "date": "2026-03-22"
         }
       ]
     },

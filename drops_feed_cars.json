@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-22T06:05:49.884742",
-  "total_tracked": 4660,
-  "total_drops": 256,
+  "generated_at": "2026-03-22T17:37:36.917031",
+  "total_tracked": 4776,
+  "total_drops": 258,
   "avg_drop_pct": 5.6,
   "biggest_drop_usd": 99000,
   "drops": [
@@ -409,7 +409,7 @@
       "transmission": "Automatic",
       "location": "Zouk Mikael, Keserouan",
       "original_price": 5100,
-      "current_price": 4400,
+      "current_price": 4800,
       "drop_usd": 700,
       "drop_pct": 13.7,
       "last_drop_date": "2026-03-21",
@@ -422,6 +422,10 @@
         {
           "price": 4400,
           "date": "2026-03-21"
+        },
+        {
+          "price": 4800,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -2194,6 +2198,34 @@
       ]
     },
     {
+      "id": "116706257",
+      "title": "Land Rover Velar 2019 MY  - P250 - R-Dynamic - CLEAN CARFAX !!",
+      "url": "https://www.olx.com.lb/ad/land-rover-velar-2019-my-p250-r-dynamic-clean-carfax-ID116706257.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 39000,
+      "current_price": 37000,
+      "drop_usd": 2000,
+      "drop_pct": 5.1,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 39000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 37000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
       "id": "116399094",
       "title": "Range Rover Sport 2016",
       "url": "https://www.olx.com.lb/ad/range-rover-sport-2017-ID116399094.html",
@@ -2478,6 +2510,34 @@
         {
           "price": 20800,
           "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116765575",
+      "title": "BRAND NEW 2025 BYD SEAGULL FLYING EDITION",
+      "url": "https://www.olx.com.lb/ad/brand-new-2025-byd-seagull-flying-edition-ID116765575.html",
+      "make": "BYD",
+      "model": "Seagull",
+      "body_type": "Small city car",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Other in West-Bekaa, West Bekaa",
+      "original_price": 15500,
+      "current_price": 14800,
+      "drop_usd": 700,
+      "drop_pct": 4.5,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 14800,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -5294,6 +5354,38 @@
       ]
     },
     {
+      "id": "116814235",
+      "title": "Range Rover Sport HSE dynamic 2018 Full Options",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-hse-2018-full-options-ID116814235.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 80000,
+      "transmission": "Steptronic",
+      "location": "Zalka, Metn",
+      "original_price": 39500,
+      "current_price": 38700,
+      "drop_usd": 800,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-03-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 39500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 38900,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 38700,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
       "id": "116776990",
       "title": "Nissan Rogue 2017",
       "url": "https://www.olx.com.lb/ad/nissan-rogue-2017-ID116776990.html",
@@ -6022,34 +6114,6 @@
         {
           "price": 32000,
           "date": "2026-03-17"
-        }
-      ]
-    },
-    {
-      "id": "116814235",
-      "title": "Range Rover Sport HSE 2018 Full Options",
-      "url": "https://www.olx.com.lb/ad/range-rover-sport-hse-2018-full-options-ID116814235.html",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 80000,
-      "transmission": "Steptronic",
-      "location": "Zalka, Metn",
-      "original_price": 39500,
-      "current_price": 38900,
-      "drop_usd": 600,
-      "drop_pct": 1.5,
-      "last_drop_date": "2026-03-19",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 39500,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 38900,
-          "date": "2026-03-19"
         }
       ]
     },
