@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-28T17:42:48.180846",
-  "total_tracked": 23729,
-  "total_drops": 194,
-  "avg_drop_pct": 8.5,
+  "generated_at": "2026-03-29T06:19:48.380677",
+  "total_tracked": 23865,
+  "total_drops": 199,
+  "avg_drop_pct": 8.4,
   "biggest_drop_usd": 900000,
   "drops": [
     {
@@ -522,6 +522,30 @@
         {
           "price": 125000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116832712",
+      "title": "80m2 store 4sale in Jal El Dib-Zalka Main Road - محل للبيع في جل الديب",
+      "url": "https://www.olx.com.lb/ad/80m2-store-4sale-in-jal-el-dib-zalka-main-road-محل-للبيع-في-جل-الديب-ID116832712.html",
+      "type": "Commercial",
+      "location": "Jal El Dib, Metn",
+      "sqm": 80,
+      "original_price": 150000,
+      "current_price": 125000,
+      "drop_usd": 25000,
+      "drop_pct": 16.7,
+      "last_drop_date": "2026-03-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 125000,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -2874,6 +2898,30 @@
       ]
     },
     {
+      "id": "116526190",
+      "title": "Luxury Apartment for Sale – Jnah (Near Spinneys)شقة فاخرة للبيع –",
+      "url": "https://www.olx.com.lb/ad/luxury-apartment-for-sale-jnah-near-spinneysشقة-فاخرة-للبيع-ID116526190.html",
+      "type": "Apartment",
+      "location": "Jnah, Beirut",
+      "sqm": 300,
+      "original_price": 1000000,
+      "current_price": 950000,
+      "drop_usd": 50000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-03-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1000000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 950000,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
       "id": "116785662",
       "title": "Furnished 200 SQM Apartment for Sale In Zouk Mosbeh شقة للبيع #RK12425",
       "url": "https://www.olx.com.lb/ad/furnished-200-sqm-apartment-for-sale-in-zouk-mosbeh-شقة-للبيع-rk12425-ID116785662.html",
@@ -2966,6 +3014,30 @@
         {
           "price": 295000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116814679",
+      "title": "RWK569CA -  Apartment for Sale in Sahel Alma with an Amazing View!",
+      "url": "https://www.olx.com.lb/ad/rwk569ca-apartment-for-sale-in-sahel-alma-with-an-amazing-view-ID116814679.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 400,
+      "original_price": 310000,
+      "current_price": 295000,
+      "drop_usd": 15000,
+      "drop_pct": 4.8,
+      "last_drop_date": "2026-03-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 310000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 295000,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -3110,6 +3182,30 @@
         {
           "price": 109900,
           "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116813543",
+      "title": "Apartment for sale iin Rabweh/ Amazing view",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-iin-rabweh-amazing-view-ID116813543.html",
+      "type": "Apartment",
+      "location": "Rabweh, Metn",
+      "sqm": 198,
+      "original_price": 450000,
+      "current_price": 430000,
+      "drop_usd": 20000,
+      "drop_pct": 4.4,
+      "last_drop_date": "2026-03-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 430000,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -3302,6 +3398,30 @@
         {
           "price": 475000,
           "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116801553",
+      "title": "sea, mountain view, pool, parking, Sahel Alma/ساحل علما REF#HN133247",
+      "url": "https://www.olx.com.lb/ad/sea-mountain-view-pool-parking-sahel-almaساحل-علما-refhn133247-ID116801553.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 230,
+      "original_price": 250000,
+      "current_price": 240000,
+      "drop_usd": 10000,
+      "drop_pct": 4.0,
+      "last_drop_date": "2026-03-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 240000,
+          "date": "2026-03-29"
         }
       ]
     },
