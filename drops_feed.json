@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-03-30T18:02:58.961097",
-  "total_tracked": 24887,
-  "total_drops": 221,
-  "avg_drop_pct": 8.4,
-  "biggest_drop_usd": 900000,
+  "generated_at": "2026-03-31T06:24:43.223452",
+  "total_tracked": 25050,
+  "total_drops": 228,
+  "avg_drop_pct": 8.8,
+  "biggest_drop_usd": 2114000,
   "drops": [
+    {
+      "id": "116831019",
+      "title": "للبيع مكتب مميز  /93 m² / طابق رابع منطقة الحازمية شارع اوتيل الحبتور",
+      "url": "https://www.olx.com.lb/ad/للبيع-مكتب-مميز-93-m2-طابق-رابع-منطقة-الحازمية-شارع-اوتيل-الحبتور-ID116831019.html",
+      "type": "Commercial",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 93,
+      "original_price": 2300000,
+      "current_price": 186000,
+      "drop_usd": 2114000,
+      "drop_pct": 91.9,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 2300000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 186000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
     {
       "id": "116824750",
       "title": "Land For Sale In Chabtine-Batroun For Sale - CPJGN21",
@@ -1018,6 +1042,30 @@
       ]
     },
     {
+      "id": "114655539",
+      "title": "Jeita 100m2 | Designer's Signature | Fully Furnished | New |",
+      "url": "https://www.olx.com.lb/ad/jeita-100m2-designers-signature-fully-furnished-new-ID114655539.html",
+      "type": "Apartment",
+      "location": "Jeita, Keserouan",
+      "sqm": 100,
+      "original_price": 115000,
+      "current_price": 100000,
+      "drop_usd": 15000,
+      "drop_pct": 13.0,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 115000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 100000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
       "id": "116802522",
       "title": "Prime Location Land In Bhamdoun For Sale / أرض مميزة في بحمدون للبيع",
       "url": "https://www.olx.com.lb/ad/prime-location-land-in-bhamdoun-for-sale-أرض-مميزة-في-بحمدون-للبيع-ID116802522.html",
@@ -1402,6 +1450,30 @@
       ]
     },
     {
+      "id": "116667476",
+      "title": "Prime Office For Sale in Dekwaneh | Sin-El-Fil | CPCC66",
+      "url": "https://www.olx.com.lb/ad/prime-office-for-sale-in-dekwaneh-sin-el-fil-cpcc66-ID116667476.html",
+      "type": "Commercial",
+      "location": "Dekwaneh, Metn",
+      "sqm": 165,
+      "original_price": 250000,
+      "current_price": 225000,
+      "drop_usd": 25000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 225000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
       "id": "116782227",
       "title": "Hot deal! super prime location shop for sale in Jdaide",
       "url": "https://www.olx.com.lb/ad/hot-deal-super-prime-location-shop-for-sale-in-jdaide-ID116782227.html",
@@ -1481,7 +1553,7 @@
       "location": "Hazmiyeh, Baabda",
       "sqm": 235,
       "original_price": 344000,
-      "current_price": 310000,
+      "current_price": 359000,
       "drop_usd": 34000,
       "drop_pct": 9.9,
       "last_drop_date": "2026-03-08",
@@ -1494,6 +1566,10 @@
         {
           "price": 310000,
           "date": "2026-03-08"
+        },
+        {
+          "price": 359000,
+          "date": "2026-03-31"
         }
       ]
     },
@@ -2178,6 +2254,30 @@
       ]
     },
     {
+      "id": "116824778",
+      "title": "2 BEDROOMS | OPEN VIEW | AWKAR PRIME | HIGH-END, (AW-127) R. G",
+      "url": "https://www.olx.com.lb/ad/2-bedrooms-open-view-awkar-prime-high-end-aw-127-r-g-ID116824778.html",
+      "type": "Apartment",
+      "location": "Awkar, Metn",
+      "sqm": 110,
+      "original_price": 139000,
+      "current_price": 128000,
+      "drop_usd": 11000,
+      "drop_pct": 7.9,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 139000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 128000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
       "id": "116783849",
       "title": "sea view, balcony,  Dawhet Aaramoun/دوحة عرمون REF#OR132692",
       "url": "https://www.olx.com.lb/ad/sea-view-balcony-dawhet-aaramounدوحة-عرمون-refor132692-ID116783849.html",
@@ -2558,6 +2658,30 @@
         {
           "price": 140000,
           "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116635326",
+      "title": "Bolonia | 80m² Flat + 120m² Garden-Terrace | Prime Airbnb Investment",
+      "url": "https://www.olx.com.lb/ad/bolonia-80m2-flat-120m2-garden-terrace-prime-airbnb-investment-ID116635326.html",
+      "type": "Apartment",
+      "location": "Bolonia, Metn",
+      "sqm": 200,
+      "original_price": 149900,
+      "current_price": 139900,
+      "drop_usd": 10000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 149900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 139900,
+          "date": "2026-03-31"
         }
       ]
     },
@@ -3038,6 +3162,30 @@
         {
           "price": 90000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116754108",
+      "title": "apartments for sale in Achrafieh شقق للبيع في الاشرفية",
+      "url": "https://www.olx.com.lb/ad/underconstruction-apartment-for-sale-in-achrafiehشقق-للبيع-في-الاشرفية-ID116754108.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 102,
+      "original_price": 304000,
+      "current_price": 288000,
+      "drop_usd": 16000,
+      "drop_pct": 5.3,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 304000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 288000,
+          "date": "2026-03-31"
         }
       ]
     },
@@ -5270,6 +5418,30 @@
         {
           "price": 99000,
           "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "115804529",
+      "title": "Sheileh 192m2 | Excellent Condition | Panoramic View | Luxurious | TO",
+      "url": "https://www.olx.com.lb/ad/sheileh-192m2-excellent-condition-panoramic-view-luxurious-to-ID115804529.html",
+      "type": "Apartment",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 192,
+      "original_price": 135000,
+      "current_price": 134000,
+      "drop_usd": 1000,
+      "drop_pct": 0.7,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 134000,
+          "date": "2026-03-31"
         }
       ]
     },
