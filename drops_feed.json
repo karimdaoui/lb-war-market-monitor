@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-03T06:21:09.131029",
-  "total_tracked": 27367,
-  "total_drops": 259,
+  "generated_at": "2026-04-03T17:45:00.330842",
+  "total_tracked": 27658,
+  "total_drops": 266,
   "avg_drop_pct": 9.0,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -518,6 +518,30 @@
       ]
     },
     {
+      "id": "116801766",
+      "title": "Land for Sale in Bhamdoun أرض للبيع في بحمدون",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-bhamdoun-أرض-للبيع-في-بحمدون-ID116801766.html",
+      "type": "Land",
+      "location": "Bhamdoun, Aley",
+      "sqm": 2674,
+      "original_price": 665000,
+      "current_price": 534800,
+      "drop_usd": 130200,
+      "drop_pct": 19.6,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 665000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 534800,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
       "id": "116815290",
       "title": "apartments for sale in furn el chebbak baabdaشقق للبيع في فرن شباك",
       "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-furn-el-chebbak-baabda-شقق-للبيع-في-فرن-شبك-ID116815290.html",
@@ -742,6 +766,30 @@
         {
           "price": 180000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116687648",
+      "title": "Apartment For Sale In chnaniir – CPJGK34",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-chnaniir-cpjgk34-ID116687648.html",
+      "type": "Apartment",
+      "location": "Chnaniir, Keserouan",
+      "sqm": 270,
+      "original_price": 190000,
+      "current_price": 160000,
+      "drop_usd": 30000,
+      "drop_pct": 15.8,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 190000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 160000,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -1118,6 +1166,30 @@
       ]
     },
     {
+      "id": "116630458",
+      "title": "Hot deal, lux 3 bedroom flat+134m2 garden + view 4 sale in Mansourieh",
+      "url": "https://www.olx.com.lb/ad/hot-deal-lux-3-bedroom-flat134m2-garden-view-4-sale-in-mansourieh-ID116630458.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 204,
+      "original_price": 230000,
+      "current_price": 199000,
+      "drop_usd": 31000,
+      "drop_pct": 13.5,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 230000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 199000,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
       "id": "116646554",
       "title": "Duplex Apartment for sale in Dik el Mehdi with lot of Sun and Light",
       "url": "https://www.olx.com.lb/ad/duplex-apartment-for-sale-in-dik-el-mehdu-with-lot-of-sun-and-light-ID116646554.html",
@@ -1438,6 +1510,30 @@
         {
           "price": 420000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116818374",
+      "title": "apartments for sale in Achrafieh Beirut شقق للبيع في الاشرفية بيروت",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-achrafieh-beirut-شقق-للبيع-في-الاشرفية-بيروت-ID116818374.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 130,
+      "original_price": 260000,
+      "current_price": 230000,
+      "drop_usd": 30000,
+      "drop_pct": 11.5,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 260000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 230000,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -3038,6 +3134,30 @@
       ]
     },
     {
+      "id": "116009616",
+      "title": "Ballouneh 150m2 | Excellent Condition | Impressive View | MY |",
+      "url": "https://www.olx.com.lb/ad/ballouneh-150m2-excellent-condition-impressive-view-my-ID116009616.html",
+      "type": "Apartment",
+      "location": "Ballouneh, Keserouan",
+      "sqm": 150,
+      "original_price": 150000,
+      "current_price": 140000,
+      "drop_usd": 10000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
       "id": "116675600",
       "title": "FULLY FURNISHED APARTMENT FOR SALE IN ZALKA PRIME, (ZL-113)",
       "url": "https://www.olx.com.lb/ad/fully-furnished-apartment-for-sale-in-zalka-prime-zl-113-ID116675600.html",
@@ -3346,6 +3466,30 @@
         {
           "price": 375000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116581920",
+      "title": "Apartment For Sale In Bouar – CPJGK06",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bouar-cpjgk06-ID116581920.html",
+      "type": "Apartment",
+      "location": "Bouar, Keserouan",
+      "sqm": 130,
+      "original_price": 165000,
+      "current_price": 155000,
+      "drop_usd": 10000,
+      "drop_pct": 6.1,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 165000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 155000,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -5410,6 +5554,30 @@
         {
           "price": 175000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116831293",
+      "title": "Bsalim | Prime Rental Investment | Panoramic Sea View | 3 Balconies",
+      "url": "https://www.olx.com.lb/ad/bsalim-prime-rental-investment-panoramic-sea-view-3-balconies-ID116831293.html",
+      "type": "Apartment",
+      "location": "Bsalim, Metn",
+      "sqm": 130,
+      "original_price": 149000,
+      "current_price": 144900,
+      "drop_usd": 4100,
+      "drop_pct": 2.8,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 149000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 144900,
+          "date": "2026-04-03"
         }
       ]
     },
