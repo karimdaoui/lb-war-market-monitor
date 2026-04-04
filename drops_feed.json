@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-04T06:08:23.776469",
-  "total_tracked": 27808,
-  "total_drops": 269,
+  "generated_at": "2026-04-04T17:43:12.869352",
+  "total_tracked": 28001,
+  "total_drops": 276,
   "avg_drop_pct": 9.0,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -1418,6 +1418,30 @@
       ]
     },
     {
+      "id": "116839627",
+      "title": "land for sale perfect for a bungalow",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-perfect-for-a-bungalow-ID116839627.html",
+      "type": "Land",
+      "location": "Other in Chouf, Chouf",
+      "sqm": 3213,
+      "original_price": 128520,
+      "current_price": 112455,
+      "drop_usd": 16065,
+      "drop_pct": 12.5,
+      "last_drop_date": "2026-04-04",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 128520,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 112455,
+          "date": "2026-04-04"
+        }
+      ]
+    },
+    {
       "id": "116788936",
       "title": "RWB198PK - Land for sale in Mechmech Jbeil ( HOT DEAL )",
       "url": "https://www.olx.com.lb/ad/rwb198pk-land-for-sale-in-mechmech-jbeil-ID116788936.html",
@@ -1774,6 +1798,30 @@
       ]
     },
     {
+      "id": "116645220",
+      "title": "550 Sqm Apartment in Rabieh",
+      "url": "https://www.olx.com.lb/ad/550-sqm-apartment-in-rabieh-ID116645220.html",
+      "type": "Apartment",
+      "location": "Rabieh, Metn",
+      "sqm": 550,
+      "original_price": 850000,
+      "current_price": 760000,
+      "drop_usd": 90000,
+      "drop_pct": 10.6,
+      "last_drop_date": "2026-04-04",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 850000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 760000,
+          "date": "2026-04-04"
+        }
+      ]
+    },
+    {
       "id": "116717523",
       "title": "230 sqm High-End Duplex With Panoramic View in MAR ROUKOZ",
       "url": "https://www.olx.com.lb/ad/230-sqm-high-end-duplex-with-panoramic-view-in-mar-roukoz-ID116717523.html",
@@ -1966,6 +2014,30 @@
         {
           "price": 315000,
           "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116607812",
+      "title": "Furnished & Decorated Apartment For Sale In Baabdatشقة للبيع في بعبدات",
+      "url": "https://www.olx.com.lb/ad/furnished-decorated-apartment-for-sale-in-baabdatشقة-للبيع-في-بعبدات-ID116607812.html",
+      "type": "Apartment",
+      "location": "Baabdat, Metn",
+      "sqm": 110,
+      "original_price": 200000,
+      "current_price": 180000,
+      "drop_usd": 20000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-04",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-04-04"
         }
       ]
     },
@@ -5242,6 +5314,30 @@
       ]
     },
     {
+      "id": "116738038",
+      "title": "Terrace | 100 sqm Cave in RWAYSAT SAWFAR/رويسات صوفر REF#OK131172",
+      "url": "https://www.olx.com.lb/ad/terrace-100-sqm-cave-in-rwaysat-sawfarرويسات-صوفر-refok131172-ID116738038.html",
+      "type": "Apartment",
+      "location": "Sawfar, Aley",
+      "sqm": 270,
+      "original_price": 150000,
+      "current_price": 145000,
+      "drop_usd": 5000,
+      "drop_pct": 3.3,
+      "last_drop_date": "2026-04-04",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 145000,
+          "date": "2026-04-04"
+        }
+      ]
+    },
+    {
       "id": "116748995",
       "title": "3 bedroom apartment+terrace+sea view 4sale in Kfar Aabida - كفر عبيدة",
       "url": "https://www.olx.com.lb/ad/3-bedroom-apartmentterracesea-view-4sale-in-kfar-aabida-كفر-عبيدة-ID116748995.html",
@@ -5314,6 +5410,30 @@
         {
           "price": 120000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116240240",
+      "title": "Furnished Apartment For Sale ain Rawche | شقة للبيع في الروشة",
+      "url": "https://www.olx.com.lb/ad/furnished-apartment-for-sale-ain-rawche-شقة-للبيع-في-الروشة-ID116240240.html",
+      "type": "Apartment",
+      "location": "Rawche, Beirut",
+      "sqm": 170,
+      "original_price": 465000,
+      "current_price": 450000,
+      "drop_usd": 15000,
+      "drop_pct": 3.2,
+      "last_drop_date": "2026-04-04",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 465000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 450000,
+          "date": "2026-04-04"
         }
       ]
     },
@@ -5894,6 +6014,30 @@
       ]
     },
     {
+      "id": "116597952",
+      "title": "HOT DEAL Industrial land Nahr el Mot HOT DEAL أرض صناعية نهر الموت",
+      "url": "https://www.olx.com.lb/ad/industrial-lnad-for-sale-in-nahr-el-mot-800m2-for-500000-ID116597952.html",
+      "type": "Land",
+      "location": "Nahr El Mott, Metn",
+      "sqm": 800,
+      "original_price": 440000,
+      "current_price": 430000,
+      "drop_usd": 10000,
+      "drop_pct": 2.3,
+      "last_drop_date": "2026-04-04",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 440000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 430000,
+          "date": "2026-04-04"
+        }
+      ]
+    },
+    {
       "id": "116749531",
       "title": "CORNET CHEHWAN | 3 BEDS | OPEN SEA VIEW , (CH-158) R. N",
       "url": "https://www.olx.com.lb/ad/cornet-chehwan-3-beds-open-sea-view-ch-158-r-n-ID116749531.html",
@@ -6226,6 +6370,30 @@
         {
           "price": 560000,
           "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116459762",
+      "title": "Shop 50sqm for sale in Zalka 111000$ محل للبيع في الزلقا",
+      "url": "https://www.olx.com.lb/ad/shop-50sqm-for-sale-in-zalka-111000-محل-للبيع-في-الزلقا-ID116459762.html",
+      "type": "Commercial",
+      "location": "Zalka, Metn",
+      "sqm": 40,
+      "original_price": 113000,
+      "current_price": 111000,
+      "drop_usd": 2000,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-04-04",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 113000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 111000,
+          "date": "2026-04-04"
         }
       ]
     },
