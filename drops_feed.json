@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-06T07:03:07.291154",
-  "total_tracked": 28297,
-  "total_drops": 290,
-  "avg_drop_pct": 8.9,
+  "generated_at": "2026-04-06T17:58:10.004274",
+  "total_tracked": 28456,
+  "total_drops": 299,
+  "avg_drop_pct": 9.0,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -122,6 +122,30 @@
         {
           "price": 55000,
           "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116840574",
+      "title": "land in ijdabra batroun",
+      "url": "https://www.olx.com.lb/ad/prime-land-in-ijdabra-batroun-ID116840574.html",
+      "type": "Land",
+      "location": "Ijdabra, Batroun",
+      "sqm": 9684,
+      "original_price": 1850000,
+      "current_price": 1250000,
+      "drop_usd": 600000,
+      "drop_pct": 32.4,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1850000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1250000,
+          "date": "2026-04-06"
         }
       ]
     },
@@ -866,6 +890,30 @@
         {
           "price": 380000,
           "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116725855",
+      "title": "Apartment For Sale In Halat - شقة للبيع في منطقة حالات",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-halat-شقة-للبيع-في-منطقة-حالات-ID116725855.html",
+      "type": "Apartment",
+      "location": "Halat, Jbeil",
+      "sqm": 220,
+      "original_price": 219000,
+      "current_price": 185000,
+      "drop_usd": 34000,
+      "drop_pct": 15.5,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 219000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 185000,
+          "date": "2026-04-06"
         }
       ]
     },
@@ -2214,6 +2262,30 @@
       ]
     },
     {
+      "id": "116697935",
+      "title": "Office for sale in Jounieh RB282 مكتب للبيع في جونيه",
+      "url": "https://www.olx.com.lb/ad/office-for-sale-in-jounieh-rb282-مكتب-للبيع-في-جونيه-ID116697935.html",
+      "type": "Commercial",
+      "location": "Jounieh, Keserouan",
+      "sqm": 65,
+      "original_price": 200000,
+      "current_price": 180000,
+      "drop_usd": 20000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-04-06"
+        }
+      ]
+    },
+    {
       "id": "116805886",
       "title": "apartments for sale in Hazmiyeh mar takla شقق للبيع في حازمية بعبدا",
       "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-hazmiyeh-mar-takla-شقق-للبيع-في-حازمية-بعبدا-ID116805886.html",
@@ -3374,6 +3446,30 @@
       ]
     },
     {
+      "id": "116605712",
+      "title": "Pool+Gym+View+Garden, Modern flat 4 Sale Yarze, Yarzeh للبيع في اليرزة",
+      "url": "https://www.olx.com.lb/ad/poolgymviewgarden-modern-flat-4-sale-yarze-yarzeh-للبيع-في-اليرزة-ID116605712.html",
+      "type": "Apartment",
+      "location": "Yarzeh, Baabda",
+      "sqm": 285,
+      "original_price": 750000,
+      "current_price": 699000,
+      "drop_usd": 51000,
+      "drop_pct": 6.8,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 750000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 699000,
+          "date": "2026-04-06"
+        }
+      ]
+    },
+    {
       "id": "116009616",
       "title": "Ballouneh 150m2 | Excellent Condition | Impressive View | MY |",
       "url": "https://www.olx.com.lb/ad/ballouneh-150m2-excellent-condition-impressive-view-my-ID116009616.html",
@@ -3442,6 +3538,30 @@
         {
           "price": 140000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116666585",
+      "title": "Groundfloor, GF flat +Pool+view sale Rihanieh, Baabda, Yarze Yarzeh",
+      "url": "https://www.olx.com.lb/ad/groundfloor-gf-flat-poolview-sale-rihanieh-baabda-yarze-yarzeh-ID116666585.html",
+      "type": "Apartment",
+      "location": "Yarzeh, Baabda",
+      "sqm": 300,
+      "original_price": 749000,
+      "current_price": 699000,
+      "drop_usd": 50000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 749000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 699000,
+          "date": "2026-04-06"
         }
       ]
     },
@@ -3538,6 +3658,30 @@
         {
           "price": 140000,
           "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116812699",
+      "title": "Achrafieh 3 Bdrm in Central Area",
+      "url": "https://www.olx.com.lb/ad/achrafieh-3-bdrm-in-central-area-ID116812699.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 200,
+      "original_price": 530000,
+      "current_price": 495000,
+      "drop_usd": 35000,
+      "drop_pct": 6.6,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 530000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 495000,
+          "date": "2026-04-06"
         }
       ]
     },
@@ -4330,6 +4474,30 @@
         {
           "price": 180000,
           "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116826335",
+      "title": "Cornet El Hamra | 799$/m² | Brand New 3 Bedrooms Apt + 25m² Terrace",
+      "url": "https://www.olx.com.lb/ad/cornet-el-hamra-799m2-brand-new-3-bedrooms-apt-25m2-terrace-ID116826335.html",
+      "type": "Apartment",
+      "location": "Cornet Chahwan, Metn",
+      "sqm": 165,
+      "original_price": 135000,
+      "current_price": 128000,
+      "drop_usd": 7000,
+      "drop_pct": 5.2,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 128000,
+          "date": "2026-04-06"
         }
       ]
     },
@@ -5134,6 +5302,30 @@
         {
           "price": 240000,
           "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116493270",
+      "title": "Exclusive Furnished Apartment for Sale in Elissarشقة مفروشة مميزة للبي",
+      "url": "https://www.olx.com.lb/ad/exclusive-furnished-apartment-for-sale-in-elissarشقة-مفروشة-مميزة-للبي-ID116493270.html",
+      "type": "Apartment",
+      "location": "Elissar, Metn",
+      "sqm": 170,
+      "original_price": 250000,
+      "current_price": 240000,
+      "drop_usd": 10000,
+      "drop_pct": 4.0,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 240000,
+          "date": "2026-04-06"
         }
       ]
     },
@@ -6926,6 +7118,30 @@
         {
           "price": 99000,
           "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116827341",
+      "title": "Jeita 120m2 | 40m2 Terrace | Well Maintained | Furnished | View |EL/TO",
+      "url": "https://www.olx.com.lb/ad/jeita-120m2-40m2-terrace-well-maintained-furnished-view-elto-ID116827341.html",
+      "type": "Apartment",
+      "location": "Jeita, Keserouan",
+      "sqm": 120,
+      "original_price": 120000,
+      "current_price": 119000,
+      "drop_usd": 1000,
+      "drop_pct": 0.8,
+      "last_drop_date": "2026-04-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 120000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 119000,
+          "date": "2026-04-06"
         }
       ]
     },
