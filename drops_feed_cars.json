@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-08T18:18:01.215556",
-  "total_tracked": 8030,
-  "total_drops": 651,
-  "avg_drop_pct": 6.5,
+  "generated_at": "2026-04-09T06:32:46.951259",
+  "total_tracked": 8064,
+  "total_drops": 657,
+  "avg_drop_pct": 6.4,
   "biggest_drop_usd": 184000,
   "drops": [
     {
@@ -6918,6 +6918,34 @@
       ]
     },
     {
+      "id": "116847328",
+      "title": "Kia Pride 1999",
+      "url": "https://www.olx.com.lb/ad/kia-pride-1999-ID116847328.html",
+      "make": "Kia",
+      "model": "Pride",
+      "body_type": "Hatchback",
+      "year": 1999,
+      "mileage": 1,
+      "transmission": "Manual",
+      "location": "Bsaba, Baabda",
+      "original_price": 1900,
+      "current_price": 1800,
+      "drop_usd": 100,
+      "drop_pct": 5.3,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1800,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
       "id": "116800870",
       "title": "Kia Sorento 2016 (4cylinder 7seats ) 4WDمصدر و صيانة لشركه مالك واحد",
       "url": "https://www.olx.com.lb/ad/kia-sorento-2016-4cylinder-7seats-مصدر-و-صيانة-لشركه-مالك-واحد-ID116800870.html",
@@ -12174,6 +12202,34 @@
       ]
     },
     {
+      "id": "116819555",
+      "title": "Land Rover Velar P250 SE R-Dynamic 2019 clean carfax 57k miles",
+      "url": "https://www.olx.com.lb/ad/land-rover-velar-r-dynamic-2019-clean-carfax-57k-miles-ID116819555.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 57000,
+      "transmission": "Automatic",
+      "location": "Dam wa Farz, Tripoli",
+      "original_price": 33000,
+      "current_price": 32000,
+      "drop_usd": 1000,
+      "drop_pct": 3.0,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 33000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 32000,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
       "id": "116829440",
       "title": "Kia Soul 2016",
       "url": "https://www.olx.com.lb/ad/kia-soul-2016-ID116829440.html",
@@ -12778,6 +12834,34 @@
         {
           "price": 33500,
           "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116846249",
+      "title": "Porsche Cayenne 2011",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-2011-ID116846249.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 200000,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 17500,
+      "current_price": 17000,
+      "drop_usd": 500,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17000,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -14318,6 +14402,34 @@
         {
           "price": 33200,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116845501",
+      "title": "Suzuki Vitara 2017",
+      "url": "https://www.olx.com.lb/ad/suzuki-vitara-2017-ID116845501.html",
+      "make": "Suzuki",
+      "model": "Vitara",
+      "body_type": "Other",
+      "year": 2017,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "Bsalim, Metn",
+      "original_price": 17000,
+      "current_price": 16600,
+      "drop_usd": 400,
+      "drop_pct": 2.4,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 16600,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -16818,6 +16930,34 @@
       ]
     },
     {
+      "id": "116815675",
+      "title": "2018 Range Rover Velar P380 SE R-Dynamic (CLEANCARFAX)",
+      "url": "https://www.olx.com.lb/ad/2018-range-rover-velar-p380-se-r-dynamic-cleancarfax-ID116815675.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 83000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 36500,
+      "current_price": 36000,
+      "drop_usd": 500,
+      "drop_pct": 1.4,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 36500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 36000,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
       "id": "116815883",
       "title": "Mercedes-Benz E-Class 2018",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2018-ID116815883.html",
@@ -17966,6 +18106,34 @@
         {
           "price": 4900,
           "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116815680",
+      "title": "2017 Range Rover Sport V8 Dynamic (CLEANCARFAX)",
+      "url": "https://www.olx.com.lb/ad/2017-range-rover-sport-v8-dynamic-cleancarfax-ID116815680.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 38400,
+      "current_price": 38000,
+      "drop_usd": 400,
+      "drop_pct": 1.0,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 38400,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 38000,
+          "date": "2026-04-09"
         }
       ]
     },
