@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-10T07:01:42.543452",
-  "total_tracked": 30392,
-  "total_drops": 384,
+  "generated_at": "2026-04-10T17:58:17.615094",
+  "total_tracked": 30672,
+  "total_drops": 394,
   "avg_drop_pct": 8.7,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -850,6 +850,30 @@
       ]
     },
     {
+      "id": "116827456",
+      "title": "Apartment for sale in Jbeil | CS",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-jbeil-cs-ID116827456.html",
+      "type": "Apartment",
+      "location": "Jbeil Town, Jbeil",
+      "sqm": 147,
+      "original_price": 115000,
+      "current_price": 95000,
+      "drop_usd": 20000,
+      "drop_pct": 17.4,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 115000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 95000,
+          "date": "2026-04-10"
+        }
+      ]
+    },
+    {
       "id": "116782363",
       "title": "GATED COMMUNITY IN ACHRAFIEH PRIME (165SQ) 2 MASTER BEDS , (AC-1108)",
       "url": "https://www.olx.com.lb/ad/gated-community-in-achrafieh-prime-165sq-2-master-beds-ac-1108-ID116782363.html",
@@ -990,6 +1014,30 @@
         {
           "price": 180000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116784302",
+      "title": "L20400 - Furnished Duplex For Sale in A Gated Community in Mar Roukoz",
+      "url": "https://www.olx.com.lb/ad/l20400-furnished-duplex-for-sale-in-a-gated-community-in-mar-roukoz-ID116784302.html",
+      "type": "Duplex",
+      "location": "Mar Roukoz, Metn",
+      "sqm": 250,
+      "original_price": 525000,
+      "current_price": 440000,
+      "drop_usd": 85000,
+      "drop_pct": 16.2,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 525000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 440000,
+          "date": "2026-04-10"
         }
       ]
     },
@@ -2878,6 +2926,30 @@
       ]
     },
     {
+      "id": "116828680",
+      "title": "Land for sale in Zarooun Metn Ref#BK122 أرض زرعون",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-zarooun-metn-refbk122-أرض-زرعون-ID116828680.html",
+      "type": "Land",
+      "location": "Other in Metn, Metn",
+      "sqm": 2400,
+      "original_price": 370000,
+      "current_price": 335000,
+      "drop_usd": 35000,
+      "drop_pct": 9.5,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 370000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 335000,
+          "date": "2026-04-10"
+        }
+      ]
+    },
+    {
       "id": "116833450",
       "title": "Spacious Apartment – Bright & Great Deal in Prime Location",
       "url": "https://www.olx.com.lb/ad/spacious-apartment-bright-great-deal-in-prime-location-ID116833450.html",
@@ -3722,6 +3794,30 @@
       ]
     },
     {
+      "id": "116817876",
+      "title": "Commercial Space for sale Baouchrieh Ref#PV103 تجاري للبيع في البوشرية",
+      "url": "https://www.olx.com.lb/ad/commercial-space-for-sale-baouchrieh-refpv103-تجاري-للبيع-في-البوشرية-ID116817876.html",
+      "type": "Commercial",
+      "location": "Baouchriye, Metn",
+      "sqm": 60,
+      "original_price": 125000,
+      "current_price": 115000,
+      "drop_usd": 10000,
+      "drop_pct": 8.0,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 125000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 115000,
+          "date": "2026-04-10"
+        }
+      ]
+    },
+    {
       "id": "116607679",
       "title": "120 sqm Apartment For Sale in Awkar عوكر with 30 sqm Terrace",
       "url": "https://www.olx.com.lb/ad/120-sqm-apartment-for-sale-in-awkar-عوكر-with-30-sqm-terrace-ID116607679.html",
@@ -3770,6 +3866,30 @@
         {
           "price": 24000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116820577",
+      "title": "Industrial / Central Kitchen for sale Mansourieh Ref#PV108 مطبخ صناعي",
+      "url": "https://www.olx.com.lb/ad/industrial-central-kitchen-for-sale-mansourieh-refpv108-مطبخ-صناعي-ID116820577.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 300,
+      "original_price": 250000,
+      "current_price": 230000,
+      "drop_usd": 20000,
+      "drop_pct": 8.0,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 230000,
+          "date": "2026-04-10"
         }
       ]
     },
@@ -4182,6 +4302,30 @@
       ]
     },
     {
+      "id": "116772090",
+      "title": "Loft For Sale in Achrafieh - شقة للبيع في الأشرفية",
+      "url": "https://www.olx.com.lb/ad/loft-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID116772090.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 400,
+      "original_price": 1400000,
+      "current_price": 1300000,
+      "drop_usd": 100000,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1400000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1300000,
+          "date": "2026-04-10"
+        }
+      ]
+    },
+    {
       "id": "116558632",
       "title": "NEW BUILDING IN ACHRAFIEH PRIME (130SQ) 2 BEDROOMS , (AC-514)",
       "url": "https://www.olx.com.lb/ad/new-building-in-achrafieh-prime-130sq-2-bedrooms-ac-514-ID116558632.html",
@@ -4226,6 +4370,30 @@
         {
           "price": 130000,
           "date": "2026-04-09"
+        }
+      ]
+    },
+    {
+      "id": "116778784",
+      "title": "Duplex with Terrace For SALE In Bouar دوبلكس للبيع #ES",
+      "url": "https://www.olx.com.lb/ad/duplex-with-terrace-for-sale-in-bouar-دوبلكس-للبيع-es-ID116778784.html",
+      "type": "Duplex",
+      "location": "Bouar, Keserouan",
+      "sqm": 225,
+      "original_price": 284999,
+      "current_price": 264999,
+      "drop_usd": 20000,
+      "drop_pct": 7.0,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 284999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 264999,
+          "date": "2026-04-10"
         }
       ]
     },
@@ -5218,6 +5386,30 @@
       ]
     },
     {
+      "id": "116816471",
+      "title": "Apartment For Sale in Dbayeh 165000$ شقة للبيع في ضبية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dbayeh-165000-شقة-للبيع-في-ضبية-ID116816471.html",
+      "type": "Apartment",
+      "location": "Dbaye, Metn",
+      "sqm": 160,
+      "original_price": 175000,
+      "current_price": 165000,
+      "drop_usd": 10000,
+      "drop_pct": 5.7,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 175000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 165000,
+          "date": "2026-04-10"
+        }
+      ]
+    },
+    {
       "id": "116620432",
       "title": "160 SQM Apartment in Dbayeh, Metn with a Breathtaking Sea View",
       "url": "https://www.olx.com.lb/ad/160-sqm-apartment-in-dbayeh-metn-with-a-breathtaking-sea-view-ID116620432.html",
@@ -6070,6 +6262,30 @@
       ]
     },
     {
+      "id": "116823300",
+      "title": "130 SQM Apartment For Sale In Amchit شقة للبيع #CM234128",
+      "url": "https://www.olx.com.lb/ad/130-sqm-apartment-for-sale-in-amchit-شقة-للبيع-cm234128-ID116823300.html",
+      "type": "Apartment",
+      "location": "Aamchit, Jbeil",
+      "sqm": 130,
+      "original_price": 100000,
+      "current_price": 95000,
+      "drop_usd": 5000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 100000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 95000,
+          "date": "2026-04-10"
+        }
+      ]
+    },
+    {
       "id": "116737915",
       "title": "Apartment for Sale in Acharfieh - شقة للبيع في الأشرفية",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-acharfieh-شقة-للبيع-في-الأشرفية-ID116737915.html",
@@ -6906,6 +7122,30 @@
         {
           "price": 375000,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116778732",
+      "title": "Land for Sale in Batroun أرض للبيع في البترون",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-batroun-أرض-للبيع-في-البترون-ID116778732.html",
+      "type": "Land",
+      "location": "Other in Batroun, Batroun",
+      "sqm": 1899,
+      "original_price": 80000,
+      "current_price": 77000,
+      "drop_usd": 3000,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 80000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 77000,
+          "date": "2026-04-10"
         }
       ]
     },
@@ -8790,6 +9030,34 @@
       ]
     },
     {
+      "id": "116704240",
+      "title": "Brand New Duplex | Baabdat | Qennabet Baabdat REF#KR130284",
+      "url": "https://www.olx.com.lb/ad/brand-new-duplex-baabdat-qennabet-baabdat-refkr130284-ID116704240.html",
+      "type": "Duplex",
+      "location": "Baabdat, Metn",
+      "sqm": 495,
+      "original_price": 559000,
+      "current_price": 550000,
+      "drop_usd": 9000,
+      "drop_pct": 1.6,
+      "last_drop_date": "2026-04-10",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 559000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 555000,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 550000,
+          "date": "2026-04-10"
+        }
+      ]
+    },
+    {
       "id": "116761820",
       "title": "Apartment for sale in Sahel Alma شقة للبيع في ساحل علما",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sahel-alma-شقة-للبيع-في-ساحل-علما-ID116761820.html",
@@ -9174,30 +9442,6 @@
         {
           "price": 134000,
           "date": "2026-03-31"
-        }
-      ]
-    },
-    {
-      "id": "116704240",
-      "title": "Brand New Duplex | Baabdat | Qennabet Baabdat REF#KR130284",
-      "url": "https://www.olx.com.lb/ad/brand-new-duplex-baabdat-qennabet-baabdat-refkr130284-ID116704240.html",
-      "type": "Duplex",
-      "location": "Baabdat, Metn",
-      "sqm": 495,
-      "original_price": 559000,
-      "current_price": 555000,
-      "drop_usd": 4000,
-      "drop_pct": 0.7,
-      "last_drop_date": "2026-03-23",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 559000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 555000,
-          "date": "2026-03-23"
         }
       ]
     },
