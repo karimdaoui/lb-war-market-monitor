@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-10T18:00:12.469682",
-  "total_tracked": 8306,
-  "total_drops": 706,
+  "generated_at": "2026-04-11T06:12:59.350347",
+  "total_tracked": 8338,
+  "total_drops": 712,
   "avg_drop_pct": 6.5,
   "biggest_drop_usd": 184000,
   "drops": [
@@ -533,7 +533,7 @@
       "transmission": "Manual",
       "location": "Azmi, Tripoli",
       "original_price": 4700,
-      "current_price": 3700,
+      "current_price": 5000,
       "drop_usd": 1000,
       "drop_pct": 21.3,
       "last_drop_date": "2026-04-10",
@@ -546,6 +546,10 @@
         {
           "price": 3700,
           "date": "2026-04-10"
+        },
+        {
+          "price": 5000,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -1402,6 +1406,34 @@
         {
           "price": 5900,
           "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116767754",
+      "title": "مرسيدس بنز سي-كلاس 2002",
+      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-سي-كلاس-2005-ID116767754.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2005,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Halba, Akkar",
+      "original_price": 5400,
+      "current_price": 4700,
+      "drop_usd": 700,
+      "drop_pct": 13.0,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 5400,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4700,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -2418,6 +2450,38 @@
         {
           "price": 9900,
           "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116813273",
+      "title": "Hyundai Tucson 2018",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2018-ID116813273.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 83000,
+      "transmission": "Automatic",
+      "location": "Mazraa, Beirut",
+      "original_price": 15000,
+      "current_price": 13500,
+      "drop_usd": 1500,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 14000,
+          "date": "2026-04-08"
+        },
+        {
+          "price": 13500,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -4894,34 +4958,6 @@
         {
           "price": 5500,
           "date": "2026-04-02"
-        }
-      ]
-    },
-    {
-      "id": "116813273",
-      "title": "Hyundai Tucson 2018",
-      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2018-ID116813273.html",
-      "make": "Hyundai",
-      "model": "Tucson",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 83000,
-      "transmission": "Automatic",
-      "location": "Mazraa, Beirut",
-      "original_price": 15000,
-      "current_price": 14000,
-      "drop_usd": 1000,
-      "drop_pct": 6.7,
-      "last_drop_date": "2026-04-08",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 15000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 14000,
-          "date": "2026-04-08"
         }
       ]
     },
@@ -8178,6 +8214,34 @@
         {
           "price": 7600,
           "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116195083",
+      "title": "Jeep Grand Cherokee 2018. . . ((Special Price))",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-ID116195083.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 102000,
+      "transmission": "Automatic",
+      "location": "Corniche El Baher, Saida",
+      "original_price": 19900,
+      "current_price": 18900,
+      "drop_usd": 1000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 19900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 18900,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -16710,6 +16774,34 @@
       ]
     },
     {
+      "id": "116538596",
+      "title": "Range Rover Vogue V6 HSE 2018 black on black clean carfax-65000 miles",
+      "url": "https://www.olx.com.lb/ad/range-rover-vogue-v6-hse-2018-black-on-black-clean-carfax-65000-miles-ID116538596.html",
+      "make": "Land Rover",
+      "model": "Vogue",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 65000,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 49000,
+      "current_price": 48000,
+      "drop_usd": 1000,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 49000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 48000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116817806",
       "title": "XPENG G6 also available in grey Brand New!!",
       "url": "https://www.olx.com.lb/ad/xpeng-g6-also-available-in-grey-brand-new-ID116817806.html",
@@ -16938,6 +17030,34 @@
         {
           "price": 15200,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116813229",
+      "title": "Audi Q8 Quattro S-line 2019 gray on black (clean carfax)",
+      "url": "https://www.olx.com.lb/ad/audi-q8-quattro-s-line-2019-gray-on-black-clean-carfax-ID116813229.html",
+      "make": "Audi",
+      "model": "Q8",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 80000,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 52000,
+      "current_price": 51000,
+      "drop_usd": 1000,
+      "drop_pct": 1.9,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 52000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 51000,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -18034,6 +18154,34 @@
         {
           "price": 13300,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116624719",
+      "title": "Mercedes GLC 300 4matic 2020 black on black (clean carfax)",
+      "url": "https://www.olx.com.lb/ad/mercedes-glc-300-4matic-2020-black-on-black-clean-carfax-ID116624719.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 89000,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 36500,
+      "current_price": 36000,
+      "drop_usd": 500,
+      "drop_pct": 1.4,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 36500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 36000,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -19250,6 +19398,34 @@
         {
           "price": 26500,
           "date": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "id": "116776224",
+      "title": "Range Rover Sport V6 HSE 2019 gray on black (clean carfax)",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-v6-hse-2019-gray-on-black-clean-carfax-ID116776224.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 91000,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 43500,
+      "current_price": 43000,
+      "drop_usd": 500,
+      "drop_pct": 1.1,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 43500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 43000,
+          "date": "2026-04-11"
         }
       ]
     },

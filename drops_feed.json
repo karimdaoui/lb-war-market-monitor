@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-10T17:58:17.615094",
-  "total_tracked": 30672,
-  "total_drops": 394,
+  "generated_at": "2026-04-11T06:11:03.292406",
+  "total_tracked": 30710,
+  "total_drops": 395,
   "avg_drop_pct": 8.7,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -4470,6 +4470,30 @@
         {
           "price": 270000,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116513375",
+      "title": "Ghadir 155m2 | Panoramic View | Calm Location | EH/RA |",
+      "url": "https://www.olx.com.lb/ad/ghadir-155m2-panoramic-view-calm-location-ehra-ID116513375.html",
+      "type": "Apartment",
+      "location": "Ghadir, Keserouan",
+      "sqm": 155,
+      "original_price": 145000,
+      "current_price": 135000,
+      "drop_usd": 10000,
+      "drop_pct": 6.9,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 145000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 135000,
+          "date": "2026-04-11"
         }
       ]
     },
