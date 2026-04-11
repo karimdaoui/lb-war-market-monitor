@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-11T06:11:03.292406",
-  "total_tracked": 30710,
-  "total_drops": 395,
+  "generated_at": "2026-04-11T17:43:04.557638",
+  "total_tracked": 30883,
+  "total_drops": 402,
   "avg_drop_pct": 8.7,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -570,6 +570,38 @@
       ]
     },
     {
+      "id": "116775870",
+      "title": "Commercial for sale Ref#JF103  تجاري للبيع",
+      "url": "https://www.olx.com.lb/ad/commercial-for-sale-refjf103-تجاري-للبيع-ID116775870.html",
+      "type": "Commercial",
+      "location": "Dbaye, Metn",
+      "sqm": 88,
+      "original_price": 95000,
+      "current_price": 75000,
+      "drop_usd": 20000,
+      "drop_pct": 21.1,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 95000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 92000,
+          "date": "2026-03-14"
+        },
+        {
+          "price": 80000,
+          "date": "2026-03-26"
+        },
+        {
+          "price": 75000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116821636",
       "title": "Land for Sale | Ornet El Ham #ED301071",
       "url": "https://www.olx.com.lb/ad/land-for-sale-ornet-el-ham-ID116821636.html",
@@ -1062,34 +1094,6 @@
         {
           "price": 160000,
           "date": "2026-04-03"
-        }
-      ]
-    },
-    {
-      "id": "116775870",
-      "title": "Commercial for sale Ref#JF103  تجاري للبيع",
-      "url": "https://www.olx.com.lb/ad/commercial-for-sale-refjf103-تجاري-للبيع-ID116775870.html",
-      "type": "Commercial",
-      "location": "Dbaye, Metn",
-      "sqm": 88,
-      "original_price": 95000,
-      "current_price": 80000,
-      "drop_usd": 15000,
-      "drop_pct": 15.8,
-      "last_drop_date": "2026-03-26",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 95000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 92000,
-          "date": "2026-03-14"
-        },
-        {
-          "price": 80000,
-          "date": "2026-03-26"
         }
       ]
     },
@@ -1846,6 +1850,30 @@
       ]
     },
     {
+      "id": "116848929",
+      "title": "للبيع مخزن ارضي يمكن استعماله محل /بقاع الوسط محيط طليا شارع داخلي",
+      "url": "https://www.olx.com.lb/ad/للبيع-مخزن-مساحة-٥٠-متر-يمكن-استعماله-محل-في-البقاع-الوسط-بيت-شاما-ID116848929.html",
+      "type": "Villa",
+      "location": "Other in West-Bekaa, West Bekaa",
+      "sqm": 50,
+      "original_price": 10000,
+      "current_price": 8700,
+      "drop_usd": 1300,
+      "drop_pct": 13.0,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 8700,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116802522",
       "title": "Prime Location Land In Bhamdoun For Sale / أرض مميزة في بحمدون للبيع",
       "url": "https://www.olx.com.lb/ad/prime-location-land-in-bhamdoun-for-sale-أرض-مميزة-في-بحمدون-للبيع-ID116802522.html",
@@ -2002,6 +2030,30 @@
       ]
     },
     {
+      "id": "116821634",
+      "title": "Apartment for sale in Ain Saadeh 250,000$ شقة للبيع في عين سعادة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-ain-saadeh-285000-شقة-للبيع-في-عين-سعادة-ID116821634.html",
+      "type": "Apartment",
+      "location": "Ain Saadeh, Metn",
+      "sqm": 160,
+      "original_price": 285000,
+      "current_price": 250000,
+      "drop_usd": 35000,
+      "drop_pct": 12.3,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 285000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 250000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116788936",
       "title": "RWB198PK - Land for sale in Mechmech Jbeil ( HOT DEAL )",
       "url": "https://www.olx.com.lb/ad/rwb198pk-land-for-sale-in-mechmech-jbeil-ID116788936.html",
@@ -2122,6 +2174,30 @@
         {
           "price": 238000,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116804678",
+      "title": "Apartment for sale in Tarik EL JDideh ML548 شقة  للبيع في طريق الجديدة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-tarik-el-jdideh-ml548-شقة-للبيع-في-طريق-الجديدة-ID116804678.html",
+      "type": "Apartment",
+      "location": "Tariq el Jdideh, Beirut",
+      "sqm": 80,
+      "original_price": 85000,
+      "current_price": 75000,
+      "drop_usd": 10000,
+      "drop_pct": 11.8,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 75000,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -2798,6 +2874,30 @@
         {
           "price": 180000,
           "date": "2026-04-06"
+        }
+      ]
+    },
+    {
+      "id": "116842853",
+      "title": "Halba town Property for Sale:",
+      "url": "https://www.olx.com.lb/ad/halba-town-property-ID116842853.html",
+      "type": "Apartment",
+      "location": "Halba, Akkar",
+      "sqm": 234,
+      "original_price": 50000,
+      "current_price": 45000,
+      "drop_usd": 5000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 50000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 45000,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -6718,6 +6818,30 @@
       ]
     },
     {
+      "id": "116685376",
+      "title": "apartment For sale in rabweh شقة للبيع في الربوة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-rabweh-شقة-للبيع-في-الربوة-ID116685376.html",
+      "type": "Apartment",
+      "location": "Rabweh, Metn",
+      "sqm": 200,
+      "original_price": 450000,
+      "current_price": 430000,
+      "drop_usd": 20000,
+      "drop_pct": 4.4,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 430000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116777867",
       "title": "Land for sale in Monteverde Ref#JF104 أرض للبيع في مونتفردي",
       "url": "https://www.olx.com.lb/ad/land-for-sale-in-monteverde-refjf104-أرض-للبيع-في-مونتفردي-ID116777867.html",
@@ -7050,6 +7174,30 @@
         {
           "price": 168000,
           "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "115859216",
+      "title": "Land For Sale In Lehfed | Villa Zone | أرض للبيع | PLS 26003",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-lehfed-villa-zone-أرض-للبيع-pls-26003-ID115859216.html",
+      "type": "Villa",
+      "location": "Lehfed, Jbeil",
+      "sqm": 3650,
+      "original_price": 273750,
+      "current_price": 263000,
+      "drop_usd": 10750,
+      "drop_pct": 3.9,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 273750,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 263000,
+          "date": "2026-04-11"
         }
       ]
     },
@@ -9054,6 +9202,34 @@
       ]
     },
     {
+      "id": "116827341",
+      "title": "Jeita 120m2 | 40m2 Terrace | Well Maintained | Furnished | View |EL/TO",
+      "url": "https://www.olx.com.lb/ad/jeita-120m2-40m2-terrace-well-maintained-furnished-view-elto-ID116827341.html",
+      "type": "Apartment",
+      "location": "Jeita, Keserouan",
+      "sqm": 120,
+      "original_price": 120000,
+      "current_price": 118000,
+      "drop_usd": 2000,
+      "drop_pct": 1.7,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 120000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 119000,
+          "date": "2026-04-06"
+        },
+        {
+          "price": 118000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116704240",
       "title": "Brand New Duplex | Baabdat | Qennabet Baabdat REF#KR130284",
       "url": "https://www.olx.com.lb/ad/brand-new-duplex-baabdat-qennabet-baabdat-refkr130284-ID116704240.html",
@@ -9226,6 +9402,30 @@
       ]
     },
     {
+      "id": "116849219",
+      "title": "Apartments for sale Downtown+pool. شقق للبيع وسط المدينة +مسبح",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-downtownpool-شقق-للبيع-وسط-المدينة-مسبح-ID116849219.html",
+      "type": "Apartment",
+      "location": "Downtown, Beirut",
+      "sqm": 1000,
+      "original_price": 7500000,
+      "current_price": 7400000,
+      "drop_usd": 100000,
+      "drop_pct": 1.3,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 7500000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 7400000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116815566",
       "title": "Apartment for sale in BLAT JBEIL شقة للبيع في بلاط - جبيل",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-blat-jbeil-شقة-للبيع-في-بلاط-جبيل-ID116815566.html",
@@ -9394,30 +9594,6 @@
         {
           "price": 98000,
           "date": "2026-04-08"
-        }
-      ]
-    },
-    {
-      "id": "116827341",
-      "title": "Jeita 120m2 | 40m2 Terrace | Well Maintained | Furnished | View |EL/TO",
-      "url": "https://www.olx.com.lb/ad/jeita-120m2-40m2-terrace-well-maintained-furnished-view-elto-ID116827341.html",
-      "type": "Apartment",
-      "location": "Jeita, Keserouan",
-      "sqm": 120,
-      "original_price": 120000,
-      "current_price": 119000,
-      "drop_usd": 1000,
-      "drop_pct": 0.8,
-      "last_drop_date": "2026-04-06",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 120000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 119000,
-          "date": "2026-04-06"
         }
       ]
     },
