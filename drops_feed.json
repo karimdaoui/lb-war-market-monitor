@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-12T17:45:53.712553",
-  "total_tracked": 31076,
-  "total_drops": 408,
+  "generated_at": "2026-04-13T07:24:23.274729",
+  "total_tracked": 31454,
+  "total_drops": 415,
   "avg_drop_pct": 8.7,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -398,6 +398,30 @@
         {
           "price": 80000,
           "date": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "id": "116413865",
+      "title": "Land for sale in Feytroun EA177 أرض  للبيع في فيطرون",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-feytroun-ea177-أرض-للبيع-في-فيطرون-ID116413865.html",
+      "type": "Land",
+      "location": "Faitroun, Keserouan",
+      "sqm": 5850,
+      "original_price": 5000000,
+      "current_price": 3700000,
+      "drop_usd": 1300000,
+      "drop_pct": 26.0,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 5000000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 3700000,
+          "date": "2026-04-13"
         }
       ]
     },
@@ -2558,6 +2582,30 @@
       ]
     },
     {
+      "id": "116780907",
+      "title": "Duplex shop, Seconds fromhighway,Nahr Ibrahim/نهر إبراهيم REF#YH132548",
+      "url": "https://www.olx.com.lb/ad/duplex-shop-seconds-fromhighwaynahr-ibrahimنهر-إبراهيم-refyh132548-ID116780907.html",
+      "type": "Duplex",
+      "location": "Nahr Ibrahim, Jbeil",
+      "sqm": 70,
+      "original_price": 69000,
+      "current_price": 62000,
+      "drop_usd": 7000,
+      "drop_pct": 10.1,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 69000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 62000,
+          "date": "2026-04-13"
+        }
+      ]
+    },
+    {
       "id": "116768544",
       "title": "LAND/for Sale | Sawfar/صوفر ! REF#OK132141",
       "url": "https://www.olx.com.lb/ad/landfor-sale-sawfarصوفر-refok132141-ID116768544.html",
@@ -3502,6 +3550,30 @@
         {
           "price": 1500000,
           "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116816984",
+      "title": "serene, picturesque setting, zakroun, koura/زكرون، كورة REF#BR133816",
+      "url": "https://www.olx.com.lb/ad/serene-picturesque-setting-zakroun-kouraزكرون-كورة-refbr133816-ID116816984.html",
+      "type": "Apartment",
+      "location": "Other in Koura, Koura",
+      "sqm": 4132,
+      "original_price": 165000,
+      "current_price": 150000,
+      "drop_usd": 15000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 165000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 150000,
+          "date": "2026-04-13"
         }
       ]
     },
@@ -8378,6 +8450,30 @@
       ]
     },
     {
+      "id": "116816506",
+      "title": "205 SQM Apartment in Kfarhbab with a Breathtaking Open Sea View",
+      "url": "https://www.olx.com.lb/ad/205-sqm-apartment-in-kfarhbab-with-a-breathtaking-open-sea-view-ID116816506.html",
+      "type": "Apartment",
+      "location": "Kfar Hbab, Keserouan",
+      "sqm": 205,
+      "original_price": 205000,
+      "current_price": 199000,
+      "drop_usd": 6000,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 205000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 199000,
+          "date": "2026-04-13"
+        }
+      ]
+    },
+    {
       "id": "116771636",
       "title": "UNDER CONSTRUCTION 3 YEARS PAYMENT PLAN IN ZALKA PRIME, (ZL-196) E. H",
       "url": "https://www.olx.com.lb/ad/under-construction-3-years-payment-plan-in-zalka-prime-zl-196-e-h-ID116771636.html",
@@ -8694,6 +8790,30 @@
       ]
     },
     {
+      "id": "116808969",
+      "title": "Excellent as an investment, prime area, Batroun /البترون  REF#YC133471",
+      "url": "https://www.olx.com.lb/ad/excellent-as-an-investment-prime-area-batroun-البترون-refyc133471-ID116808969.html",
+      "type": "Apartment",
+      "location": "Batroun Town, Batroun",
+      "sqm": 80,
+      "original_price": 80000,
+      "current_price": 78000,
+      "drop_usd": 2000,
+      "drop_pct": 2.5,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 80000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 78000,
+          "date": "2026-04-13"
+        }
+      ]
+    },
+    {
       "id": "116697148",
       "title": "prime location - 2 min from the highway -HAZMIEH REF#JS130004",
       "url": "https://www.olx.com.lb/ad/prime-location-2-min-from-the-highway-hazmieh-refjs130004-ID116697148.html",
@@ -8810,6 +8930,30 @@
         {
           "price": 83000,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116728224",
+      "title": "Land, Open Mountain View -Prime Location BAABDAT BREF#KR130908",
+      "url": "https://www.olx.com.lb/ad/land-open-mountain-view-prime-location-baabdat-brefkr130908-ID116728224.html",
+      "type": "Land",
+      "location": "Baabdat, Metn",
+      "sqm": 5100,
+      "original_price": 2100000,
+      "current_price": 2050000,
+      "drop_usd": 50000,
+      "drop_pct": 2.4,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 2100000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 2050000,
+          "date": "2026-04-13"
         }
       ]
     },
@@ -9174,6 +9318,30 @@
         {
           "price": 245000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116470058",
+      "title": "RWB157CC - Villa for sale in Nakhleh - Koura",
+      "url": "https://www.olx.com.lb/ad/rwb157cc-villa-for-sale-in-nakhleh-koura-ID116470058.html",
+      "type": "Villa",
+      "location": "Nakhleh, Koura",
+      "sqm": 420,
+      "original_price": 500000,
+      "current_price": 490000,
+      "drop_usd": 10000,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 500000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 490000,
+          "date": "2026-04-13"
         }
       ]
     },
