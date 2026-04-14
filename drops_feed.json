@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-13T18:12:53.763195",
-  "total_tracked": 31661,
-  "total_drops": 431,
-  "avg_drop_pct": 8.8,
+  "generated_at": "2026-04-14T07:01:37.844367",
+  "total_tracked": 31957,
+  "total_drops": 435,
+  "avg_drop_pct": 8.7,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -3774,6 +3774,30 @@
       ]
     },
     {
+      "id": "116648088",
+      "title": "Apartment for Sale in Burj Abi Haydar - #R2949",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-burj-abi-haydar-r2949-ID116648088.html",
+      "type": "Apartment",
+      "location": "Burj Abi Haidar, Beirut",
+      "sqm": 110,
+      "original_price": 220000,
+      "current_price": 200000,
+      "drop_usd": 20000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-04-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 220000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 200000,
+          "date": "2026-04-14"
+        }
+      ]
+    },
+    {
       "id": "116816984",
       "title": "serene, picturesque setting, zakroun, koura/زكرون، كورة REF#BR133816",
       "url": "https://www.olx.com.lb/ad/serene-picturesque-setting-zakroun-kouraزكرون-كورة-refbr133816-ID116816984.html",
@@ -6258,6 +6282,30 @@
       ]
     },
     {
+      "id": "116414570",
+      "title": "Apartment for sale in Klayaat, Kesserwan شقة للبيع في منطقة قليعات",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-klayaat-kesserwan-شقة-للبيع-في-منطقة-قليعات-ID116414570.html",
+      "type": "Apartment",
+      "location": "Klayaat, Keserouan",
+      "sqm": 150,
+      "original_price": 127000,
+      "current_price": 120000,
+      "drop_usd": 7000,
+      "drop_pct": 5.5,
+      "last_drop_date": "2026-04-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 127000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 120000,
+          "date": "2026-04-14"
+        }
+      ]
+    },
+    {
       "id": "116768236",
       "title": "Terrace, Swimming Pool,Sea View, Rmeileh/الرميلة  REF#DI132116",
       "url": "https://www.olx.com.lb/ad/terrace-swimming-poolsea-view-rmeilehالرميلة-refdi132116-ID116768236.html",
@@ -7686,6 +7734,30 @@
       ]
     },
     {
+      "id": "116820265",
+      "title": "Apartment with Sea View For SALE In Beit Meri شقة للبيع #GS",
+      "url": "https://www.olx.com.lb/ad/apartment-with-sea-view-for-sale-in-beit-meri-شقة-للبيع-gs-ID116820265.html",
+      "type": "Apartment",
+      "location": "Beit Mery, Metn",
+      "sqm": 300,
+      "original_price": 499999,
+      "current_price": 479999,
+      "drop_usd": 20000,
+      "drop_pct": 4.0,
+      "last_drop_date": "2026-04-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 499999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 479999,
+          "date": "2026-04-14"
+        }
+      ]
+    },
+    {
       "id": "115859216",
       "title": "Land For Sale In Lehfed | Villa Zone | أرض للبيع | PLS 26003",
       "url": "https://www.olx.com.lb/ad/land-for-sale-in-lehfed-villa-zone-أرض-للبيع-pls-26003-ID115859216.html",
@@ -7898,6 +7970,30 @@
         {
           "price": 125000,
           "date": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "id": "116236827",
+      "title": "RAO26-4983 Warehouse 1200m2 for sale in Baabda, $ 1,300,000 cash",
+      "url": "https://www.olx.com.lb/ad/rao26-4983-warehouse-1200m2-for-sale-in-baabda-1300000-cash-ID116236827.html",
+      "type": "Villa",
+      "location": "Baabda Town, Baabda",
+      "sqm": 1200,
+      "original_price": 1350000,
+      "current_price": 1300000,
+      "drop_usd": 50000,
+      "drop_pct": 3.7,
+      "last_drop_date": "2026-04-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1350000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1300000,
+          "date": "2026-04-14"
         }
       ]
     },
