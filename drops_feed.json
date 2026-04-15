@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-14T18:13:56.345555",
-  "total_tracked": 32232,
-  "total_drops": 449,
+  "generated_at": "2026-04-15T07:03:13.574587",
+  "total_tracked": 32315,
+  "total_drops": 452,
   "avg_drop_pct": 8.6,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -2950,6 +2950,30 @@
       ]
     },
     {
+      "id": "116799624",
+      "title": "Stunning 200 SQM Penthouse for SALE in Rabweh!",
+      "url": "https://www.olx.com.lb/ad/stunning-200-sqm-penthouse-for-sale-in-rabweh-ID116799624.html",
+      "type": "Villa",
+      "location": "Rabweh, Metn",
+      "sqm": 200,
+      "original_price": 200000,
+      "current_price": 180000,
+      "drop_usd": 20000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-15",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-04-15"
+        }
+      ]
+    },
+    {
       "id": "116724203",
       "title": "lands for sale in Arz-tannourine أرض \"لقطة\" بمجمع سياحي فوق أرز تنورين",
       "url": "https://www.olx.com.lb/ad/lands-for-sale-in-arz-tannourine-أرض-لقطة-بمجمع-سياحي-فوق-أرز-تنورين-ID116724203.html",
@@ -4282,6 +4306,30 @@
       ]
     },
     {
+      "id": "116813335",
+      "title": "For Sale Land in Gharzouz 1083m² ONLY for 138K للبيع أرض في غرزوز",
+      "url": "https://www.olx.com.lb/ad/for-sale-land-in-gharzouz-1083m2-only-for-138k-للبيع-أرض-في-غرزوز-ID116813335.html",
+      "type": "Land",
+      "location": "Gharzouz, Jbeil",
+      "sqm": 1083,
+      "original_price": 150000,
+      "current_price": 138000,
+      "drop_usd": 12000,
+      "drop_pct": 8.0,
+      "last_drop_date": "2026-04-15",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 138000,
+          "date": "2026-04-15"
+        }
+      ]
+    },
+    {
       "id": "116723025",
       "title": "Great deal, prime area, sea view, jbeil, blat/بلاط  REF#EK130867",
       "url": "https://www.olx.com.lb/ad/great-deal-prime-area-sea-view-jbeil-blatبلاط-refek130867-ID116723025.html",
@@ -5582,6 +5630,30 @@
         {
           "price": 430000,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116840725",
+      "title": "Apartment for sale in Sarba شقة للبيع في صربا",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sarba-شقة-للبيع-في-صربا-ID116840725.html",
+      "type": "Apartment",
+      "location": "Sarba, Keserouan",
+      "sqm": 145,
+      "original_price": 139000,
+      "current_price": 130000,
+      "drop_usd": 9000,
+      "drop_pct": 6.5,
+      "last_drop_date": "2026-04-15",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 139000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 130000,
+          "date": "2026-04-15"
         }
       ]
     },
