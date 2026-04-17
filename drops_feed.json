@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-16T18:16:53.836622",
-  "total_tracked": 32908,
-  "total_drops": 485,
+  "generated_at": "2026-04-17T07:05:49.955303",
+  "total_tracked": 33011,
+  "total_drops": 489,
   "avg_drop_pct": 8.8,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -2698,6 +2698,30 @@
       ]
     },
     {
+      "id": "112675144",
+      "title": "1360 Sqm | Land For sale in Mtein | Mountain view | Calm area |",
+      "url": "https://www.olx.com.lb/ad/1360-sqm-land-for-sale-in-mtein-mountain-view-calm-area-ID112675144.html",
+      "type": "Land",
+      "location": "El Mtein, Metn",
+      "sqm": 1360,
+      "original_price": 250000,
+      "current_price": 220000,
+      "drop_usd": 30000,
+      "drop_pct": 12.0,
+      "last_drop_date": "2026-04-17",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 220000,
+          "date": "2026-04-17"
+        }
+      ]
+    },
+    {
       "id": "116738172",
       "title": "Unobstructed mountain and sea view IN Qornet El Hamra REF#OU131184 !",
       "url": "https://www.olx.com.lb/ad/unobstructed-mountain-and-sea-view-in-qornet-el-hamra-refou131184-ID116738172.html",
@@ -4782,6 +4806,34 @@
       ]
     },
     {
+      "id": "116828941",
+      "title": "Modern chalet , kfardebien -Tilal Al Aasal / تلال العسل  REF#ML134170",
+      "url": "https://www.olx.com.lb/ad/modern-chalet-kfardebien-tilal-al-aasal-تلال-العسل-refml134170-ID116828941.html",
+      "type": "Chalet",
+      "location": "Kfardebian, Keserouan",
+      "sqm": 200,
+      "original_price": 430000,
+      "current_price": 395000,
+      "drop_usd": 35000,
+      "drop_pct": 8.1,
+      "last_drop_date": "2026-04-17",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 430000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 410000,
+          "date": "2026-03-26"
+        },
+        {
+          "price": 395000,
+          "date": "2026-04-17"
+        }
+      ]
+    },
+    {
       "id": "116813335",
       "title": "For Sale Land in Gharzouz 1083m² ONLY for 138K للبيع أرض في غرزوز",
       "url": "https://www.olx.com.lb/ad/for-sale-land-in-gharzouz-1083m2-only-for-138k-للبيع-أرض-في-غرزوز-ID116813335.html",
@@ -5726,6 +5778,30 @@
         {
           "price": 135000,
           "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116826254",
+      "title": "Apartment for sale in bsalim شقة للبيع في بصاليم",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bsalim-شقة-للبيع-في-بصاليم-ID116826254.html",
+      "type": "Apartment",
+      "location": "Bsalim, Metn",
+      "sqm": 250,
+      "original_price": 145000,
+      "current_price": 135000,
+      "drop_usd": 10000,
+      "drop_pct": 6.9,
+      "last_drop_date": "2026-04-17",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 145000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 135000,
+          "date": "2026-04-17"
         }
       ]
     },
@@ -6758,6 +6834,30 @@
         {
           "price": 113000,
           "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116809667",
+      "title": "Prime Location, 1 minute from highway, Yarzeh/ يرزه REF#JS133522",
+      "url": "https://www.olx.com.lb/ad/prime-location-1-minute-from-highway-yarzeh-يرزه-refjs133522-ID116809667.html",
+      "type": "Apartment",
+      "location": "Yarzeh, Baabda",
+      "sqm": 830,
+      "original_price": 600000,
+      "current_price": 565000,
+      "drop_usd": 35000,
+      "drop_pct": 5.8,
+      "last_drop_date": "2026-04-17",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 600000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 565000,
+          "date": "2026-04-17"
         }
       ]
     },
@@ -7922,30 +8022,6 @@
         {
           "price": 157000,
           "date": "2026-04-13"
-        }
-      ]
-    },
-    {
-      "id": "116828941",
-      "title": "Modern chalet , kfardebien -Tilal Al Aasal / تلال العسل  REF#ML134170",
-      "url": "https://www.olx.com.lb/ad/modern-chalet-kfardebien-tilal-al-aasal-تلال-العسل-refml134170-ID116828941.html",
-      "type": "Chalet",
-      "location": "Kfardebian, Keserouan",
-      "sqm": 200,
-      "original_price": 430000,
-      "current_price": 410000,
-      "drop_usd": 20000,
-      "drop_pct": 4.7,
-      "last_drop_date": "2026-03-26",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 430000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 410000,
-          "date": "2026-03-26"
         }
       ]
     },
@@ -10590,6 +10666,30 @@
         {
           "price": 215000,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116810675",
+      "title": "Villa for sale saifi hot deal",
+      "url": "https://www.olx.com.lb/ad/villa-for-sale-medawar-hot-deal-ID116810675.html",
+      "type": "Villa",
+      "location": "Medawar, Beirut",
+      "sqm": 400,
+      "original_price": 430000,
+      "current_price": 420000,
+      "drop_usd": 10000,
+      "drop_pct": 2.3,
+      "last_drop_date": "2026-04-17",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 430000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 420000,
+          "date": "2026-04-17"
         }
       ]
     },
