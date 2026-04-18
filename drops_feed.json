@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T06:21:41.518842",
-  "total_tracked": 33480,
-  "total_drops": 511,
-  "avg_drop_pct": 9.0,
+  "generated_at": "2026-04-18T17:46:41.782530",
+  "total_tracked": 33610,
+  "total_drops": 520,
+  "avg_drop_pct": 9.2,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -50,6 +50,30 @@
         {
           "price": 100000,
           "date": "2026-04-17"
+        }
+      ]
+    },
+    {
+      "id": "116816807",
+      "title": "Modern Villas Under Construction  Batrounمشروع فيلال قيد إنشاء",
+      "url": "https://www.olx.com.lb/ad/modern-villas-under-construction-batrounمشروع-فيلال-قيد-إنشاء-ID116816807.html",
+      "type": "Villa",
+      "location": "Other in Batroun, Batroun",
+      "sqm": 115,
+      "original_price": 125000,
+      "current_price": 15000,
+      "drop_usd": 110000,
+      "drop_pct": 88.0,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 125000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 15000,
+          "date": "2026-04-18"
         }
       ]
     },
@@ -2766,6 +2790,30 @@
       ]
     },
     {
+      "id": "116838646",
+      "title": "Shop for Sale in Msaytbeh محل تجاري للبيع في المصيطبة",
+      "url": "https://www.olx.com.lb/ad/shop-for-sale-in-msaytbeh-محل-تجاري-للبيع-في-المصيطبة-ID116838646.html",
+      "type": "Commercial",
+      "location": "Msaytbeh, Beirut",
+      "sqm": 104,
+      "original_price": 325000,
+      "current_price": 285000,
+      "drop_usd": 40000,
+      "drop_pct": 12.3,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 325000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 285000,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
       "id": "116788936",
       "title": "RWB198PK - Land for sale in Mechmech Jbeil ( HOT DEAL )",
       "url": "https://www.olx.com.lb/ad/rwb198pk-land-for-sale-in-mechmech-jbeil-ID116788936.html",
@@ -3190,6 +3238,30 @@
         {
           "price": 80000,
           "date": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "id": "116687438",
+      "title": "Kfaryasine Apartment For Sale شقة للبيع في كفرياسين – وحدة سكنية فاخرة",
+      "url": "https://www.olx.com.lb/ad/kfaryasine-apartment-for-sale-شقة-للبيع-في-كفرياسين-وحدة-سكنية-فاخرة-ID116687438.html",
+      "type": "Apartment",
+      "location": "Kfaryassine, Keserouan",
+      "sqm": 165,
+      "original_price": 135000,
+      "current_price": 120000,
+      "drop_usd": 15000,
+      "drop_pct": 11.1,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 120000,
+          "date": "2026-04-18"
         }
       ]
     },
@@ -4738,6 +4810,30 @@
       ]
     },
     {
+      "id": "116710321",
+      "title": "duplex apartments for sale in  monteverde metn شقق للبيع في مونتيفيردي",
+      "url": "https://www.olx.com.lb/ad/duplex-apartments-for-sale-in-monteverde-metn-شقق-للبيع-في-مونتيفيردي-ID116710321.html",
+      "type": "Duplex",
+      "location": "Monteverde, Metn",
+      "sqm": 320,
+      "original_price": 478000,
+      "current_price": 436000,
+      "drop_usd": 42000,
+      "drop_pct": 8.8,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 478000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 436000,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
       "id": "116838114",
       "title": "Open View,Landscaped Plot, Jbeil - Monsef/المنصف – جبيل  REF#DC134476",
       "url": "https://www.olx.com.lb/ad/open-viewlandscaped-plot-jbeil-monsefالمنصف-جبيل-refdc134476-ID116838114.html",
@@ -4758,6 +4854,30 @@
         {
           "price": 310000,
           "date": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "id": "116555126",
+      "title": "Apartment for Sale in Bellevue Beit El Chaar شقة للبيع في بيت الشعار",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bellevue-beit-el-chaar-شقة-للبيع-في-بيت-الشعار-ID116555126.html",
+      "type": "Villa",
+      "location": "Beit El Chaar, Metn",
+      "sqm": 190,
+      "original_price": 230000,
+      "current_price": 210000,
+      "drop_usd": 20000,
+      "drop_pct": 8.7,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 230000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 210000,
+          "date": "2026-04-18"
         }
       ]
     },
@@ -6482,6 +6602,30 @@
       ]
     },
     {
+      "id": "116779081",
+      "title": "WaterfrontCity Dbayeh Apartment for Sale  شقة للبيع في ضبية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-waterfront-city-dbayeh-شقة-للبيع-في-ضبية-ID116779081.html",
+      "type": "Apartment",
+      "location": "Dbaye, Metn",
+      "sqm": 130,
+      "original_price": 450000,
+      "current_price": 420000,
+      "drop_usd": 30000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 420000,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
       "id": "116833834",
       "title": "gated community,covered parking,chimney,Faitroun,SatellityREF#ML134360",
       "url": "https://www.olx.com.lb/ad/gated-communitycovered-parkingchimneyfaitrounsatellityrefml134360-ID116833834.html",
@@ -6502,6 +6646,30 @@
         {
           "price": 140000,
           "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116847994",
+      "title": "JC-4473 / Apartment for Sale in Zouk Mosbeh, شقة للبيع في زوق مصبح",
+      "url": "https://www.olx.com.lb/ad/jc-4473-apartment-for-sale-in-zouk-mosbeh-شقة-للبيع-في-زوق-مصبح-ID116847994.html",
+      "type": "Apartment",
+      "location": "Zouk Mosbeh, Keserouan",
+      "sqm": 188,
+      "original_price": 150000,
+      "current_price": 140000,
+      "drop_usd": 10000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-04-18"
         }
       ]
     },
@@ -6694,6 +6862,30 @@
         {
           "price": 449999,
           "date": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "id": "116746448",
+      "title": "RWK252RM - Warehouse for Sale in Sehayleh",
+      "url": "https://www.olx.com.lb/ad/rwk252rm-warehouse-for-sale-in-sehayleh-ID116746448.html",
+      "type": "Villa",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 110,
+      "original_price": 80000,
+      "current_price": 75000,
+      "drop_usd": 5000,
+      "drop_pct": 6.2,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 80000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 75000,
+          "date": "2026-04-18"
         }
       ]
     },
@@ -8174,6 +8366,30 @@
       ]
     },
     {
+      "id": "116844479",
+      "title": "Apartment for sale in jouret el ballout شقة للبيع في جورة البلوط",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-jouret-el-ballout-شقة-للبيع-في-جورة-البلوط-ID116844479.html",
+      "type": "Apartment",
+      "location": "Jouret Al Ballout, Metn",
+      "sqm": 200,
+      "original_price": 200000,
+      "current_price": 190000,
+      "drop_usd": 10000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 190000,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
       "id": "116853781",
       "title": "apartments for sale in Sioufi achrafieh شقق للبيع في اشرفية بيروت",
       "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-sioufi-achrafieh-شقق-للبيع-في-اشرفية-بيروت-ID116853781.html",
@@ -8794,6 +9010,34 @@
         {
           "price": 220000,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116697148",
+      "title": "prime location - 2 min from the highway -HAZMIEH REF#JS130004",
+      "url": "https://www.olx.com.lb/ad/prime-location-2-min-from-the-highway-hazmieh-refjs130004-ID116697148.html",
+      "type": "Apartment",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 187,
+      "original_price": 277000,
+      "current_price": 265000,
+      "drop_usd": 12000,
+      "drop_pct": 4.3,
+      "last_drop_date": "2026-04-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 277000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 270000,
+          "date": "2026-03-25"
+        },
+        {
+          "price": 265000,
+          "date": "2026-04-18"
         }
       ]
     },
@@ -10906,30 +11150,6 @@
         {
           "price": 78000,
           "date": "2026-04-13"
-        }
-      ]
-    },
-    {
-      "id": "116697148",
-      "title": "prime location - 2 min from the highway -HAZMIEH REF#JS130004",
-      "url": "https://www.olx.com.lb/ad/prime-location-2-min-from-the-highway-hazmieh-refjs130004-ID116697148.html",
-      "type": "Apartment",
-      "location": "Hazmiyeh, Baabda",
-      "sqm": 187,
-      "original_price": 277000,
-      "current_price": 270000,
-      "drop_usd": 7000,
-      "drop_pct": 2.5,
-      "last_drop_date": "2026-03-25",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 277000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 270000,
-          "date": "2026-03-25"
         }
       ]
     },
