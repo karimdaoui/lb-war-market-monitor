@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-21T07:06:14.941520",
-  "total_tracked": 34522,
-  "total_drops": 561,
-  "avg_drop_pct": 9.2,
+  "generated_at": "2026-04-21T18:07:38.408440",
+  "total_tracked": 34765,
+  "total_drops": 565,
+  "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -102,6 +102,30 @@
         {
           "price": 75000,
           "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116542907",
+      "title": "PRIME 600SQ SHOWROOM FOR SALE IN JANH SPINNEYS WITH 2 FACADES (JN-656)",
+      "url": "https://www.olx.com.lb/ad/prime-600sq-showroom-for-sale-in-janh-spinneys-with-2-facades-jn-656-ID116542907.html",
+      "type": "Apartment",
+      "location": "Jnah, Beirut",
+      "sqm": 600,
+      "original_price": 3500000,
+      "current_price": 1700000,
+      "drop_usd": 1800000,
+      "drop_pct": 51.4,
+      "last_drop_date": "2026-04-21",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3500000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1700000,
+          "date": "2026-04-21"
         }
       ]
     },
@@ -838,6 +862,30 @@
       ]
     },
     {
+      "id": "116285857",
+      "title": "Land For Sale In Chikhane | Unblockable View | أرض للبيع | PLS 26264",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-chikhane-unblockable-view-أرض-للبيع-pls-26264-ID116285857.html",
+      "type": "Land",
+      "location": "Chikhane, Jbeil",
+      "sqm": 5734,
+      "original_price": 800000,
+      "current_price": 630000,
+      "drop_usd": 170000,
+      "drop_pct": 21.2,
+      "last_drop_date": "2026-04-21",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 800000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 630000,
+          "date": "2026-04-21"
+        }
+      ]
+    },
+    {
       "id": "116775870",
       "title": "Commercial for sale Ref#JF103  تجاري للبيع",
       "url": "https://www.olx.com.lb/ad/commercial-for-sale-refjf103-تجاري-للبيع-ID116775870.html",
@@ -1374,6 +1422,34 @@
       ]
     },
     {
+      "id": "116804678",
+      "title": "Apartment for sale in Tarik EL JDideh ML548 شقة  للبيع في طريق الجديدة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-tarik-el-jdideh-ml548-شقة-للبيع-في-طريق-الجديدة-ID116804678.html",
+      "type": "Apartment",
+      "location": "Tariq el Jdideh, Beirut",
+      "sqm": 80,
+      "original_price": 85000,
+      "current_price": 70000,
+      "drop_usd": 15000,
+      "drop_pct": 17.6,
+      "last_drop_date": "2026-04-21",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 75000,
+          "date": "2026-04-11"
+        },
+        {
+          "price": 70000,
+          "date": "2026-04-21"
+        }
+      ]
+    },
+    {
       "id": "116815880",
       "title": "VILLA/GARDEN/TERRACE/BALCONY/MANSOURIEH/منصورية/REF#PH133755 !",
       "url": "https://www.olx.com.lb/ad/villagardenterracebalconymansouriehمنصوريةrefph133755-ID116815880.html",
@@ -1837,7 +1913,7 @@
       "location": "Zoukak al Blat, Beirut",
       "sqm": 115,
       "original_price": 130000,
-      "current_price": 110000,
+      "current_price": 125000,
       "drop_usd": 20000,
       "drop_pct": 15.4,
       "last_drop_date": "2026-04-13",
@@ -1850,6 +1926,10 @@
         {
           "price": 110000,
           "date": "2026-04-13"
+        },
+        {
+          "price": 125000,
+          "date": "2026-04-21"
         }
       ]
     },
@@ -3178,30 +3258,6 @@
         {
           "price": 238000,
           "date": "2026-03-13"
-        }
-      ]
-    },
-    {
-      "id": "116804678",
-      "title": "Apartment for sale in Tarik EL JDideh ML548 شقة  للبيع في طريق الجديدة",
-      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-tarik-el-jdideh-ml548-شقة-للبيع-في-طريق-الجديدة-ID116804678.html",
-      "type": "Apartment",
-      "location": "Tariq el Jdideh, Beirut",
-      "sqm": 80,
-      "original_price": 85000,
-      "current_price": 75000,
-      "drop_usd": 10000,
-      "drop_pct": 11.8,
-      "last_drop_date": "2026-04-11",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 85000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 75000,
-          "date": "2026-04-11"
         }
       ]
     },
@@ -10342,6 +10398,30 @@
       ]
     },
     {
+      "id": "115942630",
+      "title": "Tabarja/Aqua 1   70m2 | Furnished-Equipped Chalet | Sea View | IV |",
+      "url": "https://www.olx.com.lb/ad/tabarjaaqua-1-70m2-furnished-equipped-chalet-sea-view-iv-ID115942630.html",
+      "type": "Chalet",
+      "location": "Tabarja, Keserouan",
+      "sqm": 70,
+      "original_price": 385000,
+      "current_price": 370000,
+      "drop_usd": 15000,
+      "drop_pct": 3.9,
+      "last_drop_date": "2026-04-21",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 385000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 370000,
+          "date": "2026-04-21"
+        }
+      ]
+    },
+    {
       "id": "116807355",
       "title": "شقة للبيع في صيدا اطلالة بحرية - Apartment for Sale in Saida Sea View",
       "url": "https://www.olx.com.lb/ad/شقة-للبيع-في-صيدا-اطلالة-بحرية-apartment-for-sale-in-saida-sea-view-ID116807355.html",
@@ -11265,7 +11345,7 @@
       "location": "Rawche, Beirut",
       "sqm": 170,
       "original_price": 465000,
-      "current_price": 450000,
+      "current_price": 470000,
       "drop_usd": 15000,
       "drop_pct": 3.2,
       "last_drop_date": "2026-04-04",
@@ -11278,6 +11358,10 @@
         {
           "price": 450000,
           "date": "2026-04-04"
+        },
+        {
+          "price": 470000,
+          "date": "2026-04-21"
         }
       ]
     },
@@ -13582,6 +13666,30 @@
         {
           "price": 179000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116821795",
+      "title": "Quiet & Serene Location , Mansourieh/ المنصورية REF#GA133950",
+      "url": "https://www.olx.com.lb/ad/quiet-serene-location-mansourieh-المنصورية-refga133950-ID116821795.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 160,
+      "original_price": 180000,
+      "current_price": 178999,
+      "drop_usd": 1001,
+      "drop_pct": 0.6,
+      "last_drop_date": "2026-04-21",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 178999,
+          "date": "2026-04-21"
         }
       ]
     },
