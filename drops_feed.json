@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-21T18:07:38.408440",
-  "total_tracked": 34765,
-  "total_drops": 565,
+  "generated_at": "2026-04-22T07:05:29.964013",
+  "total_tracked": 34864,
+  "total_drops": 571,
   "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -1642,6 +1642,30 @@
       ]
     },
     {
+      "id": "116844369",
+      "title": "Renovated 2 bedroom apartment 4sale in Ain El Remmaneh - عين الرمانة",
+      "url": "https://www.olx.com.lb/ad/renovated-2-bedroom-apartment-4sale-in-ain-el-remmaneh-عين-الرمانة-ID116844369.html",
+      "type": "Apartment",
+      "location": "Verdun, Beirut",
+      "sqm": 103,
+      "original_price": 150000,
+      "current_price": 125000,
+      "drop_usd": 25000,
+      "drop_pct": 16.7,
+      "last_drop_date": "2026-04-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 125000,
+          "date": "2026-04-22"
+        }
+      ]
+    },
+    {
       "id": "116819150",
       "title": "Pickup Entrance,industrial opportunity, Baouchriye/بوشرية REF#RE133922",
       "url": "https://www.olx.com.lb/ad/pickup-entranceindustrial-opportunity-baouchriyeبوشرية-refre133922-ID116819150.html",
@@ -2806,6 +2830,30 @@
         {
           "price": 200000,
           "date": "2026-04-06"
+        }
+      ]
+    },
+    {
+      "id": "116717266",
+      "title": "Apartment with Garden in Mansourieh for sale شقة وحديقة في المنصورية",
+      "url": "https://www.olx.com.lb/ad/apartment-with-garden-in-mansourieh-for-sale-شقة-وحديقة-في-المنصورية-ID116717266.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 200,
+      "original_price": 230000,
+      "current_price": 200000,
+      "drop_usd": 30000,
+      "drop_pct": 13.0,
+      "last_drop_date": "2026-04-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 230000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 200000,
+          "date": "2026-04-22"
         }
       ]
     },
@@ -7238,6 +7286,30 @@
       ]
     },
     {
+      "id": "116834843",
+      "title": "Duplex for sale in Beit Mery Ref#BK125 دوبلكس للبيع في بيت مري",
+      "url": "https://www.olx.com.lb/ad/duplex-for-sale-in-beit-mery-refbk125-دوبلكس-للبيع-في-بيت-مري-ID116834843.html",
+      "type": "Villa",
+      "location": "Beit Mery, Metn",
+      "sqm": 566,
+      "original_price": 750000,
+      "current_price": 700000,
+      "drop_usd": 50000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 750000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 700000,
+          "date": "2026-04-22"
+        }
+      ]
+    },
+    {
       "id": "116847994",
       "title": "JC-4473 / Apartment for Sale in Zouk Mosbeh, شقة للبيع في زوق مصبح",
       "url": "https://www.olx.com.lb/ad/jc-4473-apartment-for-sale-in-zouk-mosbeh-شقة-للبيع-في-زوق-مصبح-ID116847994.html",
@@ -8462,6 +8534,30 @@
       ]
     },
     {
+      "id": "116779136",
+      "title": "DY3221 - Kfardebian Tilal el Asal Triplex Chalet for Sale or Rent!",
+      "url": "https://www.olx.com.lb/ad/dy3221-kfardebian-tilal-el-asal-triplex-chalet-for-sale-or-rent-ID116779136.html",
+      "type": "Chalet",
+      "location": "Kfardebian, Keserouan",
+      "sqm": 160,
+      "original_price": 280000,
+      "current_price": 265000,
+      "drop_usd": 15000,
+      "drop_pct": 5.4,
+      "last_drop_date": "2026-04-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 280000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 265000,
+          "date": "2026-04-22"
+        }
+      ]
+    },
+    {
       "id": "116765196",
       "title": "HOT Property - Apartment for sale in Bsalim - CPSK01",
       "url": "https://www.olx.com.lb/ad/hot-property-apartment-for-sale-in-bsalim-cpsk01-ID116765196.html",
@@ -9578,6 +9674,30 @@
       ]
     },
     {
+      "id": "116785738",
+      "title": "apartments for sale in Hazmiyeh baabda شقق للبيع في حازمية بعبدا",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-hazmiyeh-baabda-شقق-للبيع-في-حازمية-بعبدا-ID116785738.html",
+      "type": "Apartment",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 180,
+      "original_price": 398000,
+      "current_price": 380000,
+      "drop_usd": 18000,
+      "drop_pct": 4.5,
+      "last_drop_date": "2026-04-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 398000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 380000,
+          "date": "2026-04-22"
+        }
+      ]
+    },
+    {
       "id": "116772886",
       "title": "Ghadir | Panoramic Sea View | 3 Bedrooms Ap | Great Building Condition",
       "url": "https://www.olx.com.lb/ad/ghadir-panoramic-sea-view-3-bedrooms-ap-great-building-condition-ID116772886.html",
@@ -9723,8 +9843,8 @@
     },
     {
       "id": "116823059",
-      "title": "LAND/ Smar Jbeil/ سمار جبيل/Zoning: 20/40/REF#YC134013 !",
-      "url": "https://www.olx.com.lb/ad/land-smar-jbeil-سمار-جبيلzoning-2040refyc134013-ID116823059.html",
+      "title": "LAND BATROUN/ Smar Jbeil/ سمار جبيل/Zoning: 20/40/REF#YC134013 !",
+      "url": "https://www.olx.com.lb/ad/land-batroun-smar-jbeil-سمار-جبيلzoning-2040refyc134013-ID116823059.html",
       "type": "Land",
       "location": "Other in Jbeil, Jbeil",
       "sqm": 1630,
@@ -11626,6 +11746,30 @@
         {
           "price": 160000,
           "date": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "116715203",
+      "title": "Apartment for sale in Baabdat SM169 شقة مفروشة للبيع في بعبدات",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-baabdat-sm169-شقة-مفروشة-للبيع-في-بعبدات-ID116715203.html",
+      "type": "Apartment",
+      "location": "Baabdat, Metn",
+      "sqm": 193,
+      "original_price": 330000,
+      "current_price": 320000,
+      "drop_usd": 10000,
+      "drop_pct": 3.0,
+      "last_drop_date": "2026-04-22",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 330000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 320000,
+          "date": "2026-04-22"
         }
       ]
     },
