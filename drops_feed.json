@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T07:09:15.478360",
-  "total_tracked": 35273,
-  "total_drops": 597,
-  "avg_drop_pct": 9.4,
+  "generated_at": "2026-04-23T18:15:02.809139",
+  "total_tracked": 35520,
+  "total_drops": 606,
+  "avg_drop_pct": 9.5,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -526,6 +526,30 @@
       ]
     },
     {
+      "id": "116500115",
+      "title": "\"LUX\" 260m2 Apartment+Sea View 4sale in Dawhet el hossدوحة الحص",
+      "url": "https://www.olx.com.lb/ad/lux-260m2-apartmentsea-view-4sale-in-dawhet-el-hossدوحة-الحص-ID116500115.html",
+      "type": "Apartment",
+      "location": "Adma w Dafnah, Keserouan",
+      "sqm": 260,
+      "original_price": 499000,
+      "current_price": 350000,
+      "drop_usd": 149000,
+      "drop_pct": 29.9,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 499000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 350000,
+          "date": "2026-04-23"
+        }
+      ]
+    },
+    {
       "id": "116526482",
       "title": "500 SQM Land for SALE in Miyasse-Bikfaya!",
       "url": "https://www.olx.com.lb/ad/500-sqm-land-for-sale-in-miyasse-bikfaya-ID116526482.html",
@@ -886,6 +910,30 @@
       ]
     },
     {
+      "id": "116616284",
+      "title": "RWB171RH - Land for sale in Abdelli Batroun",
+      "url": "https://www.olx.com.lb/ad/rwb171rh-land-for-sale-in-abdelli-batroun-ID116616284.html",
+      "type": "Land",
+      "location": "Other in Batroun, Batroun",
+      "sqm": 1604,
+      "original_price": 96999,
+      "current_price": 75000,
+      "drop_usd": 21999,
+      "drop_pct": 22.7,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 96999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 75000,
+          "date": "2026-04-23"
+        }
+      ]
+    },
+    {
       "id": "116687132",
       "title": "Land For SALE In Halat أرض للبيع #ES",
       "url": "https://www.olx.com.lb/ad/land-for-sale-in-halat-أرض-للبيع-es-ID116687132.html",
@@ -991,8 +1039,8 @@
     },
     {
       "id": "116821636",
-      "title": "Land for Sale | Ornet El Ham #ED301071",
-      "url": "https://www.olx.com.lb/ad/land-for-sale-ornet-el-ham-ID116821636.html",
+      "title": "Land for Sale | Ornet El Hamra #ED301071",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-ornet-el-hamra-ed301071-ID116821636.html",
       "type": "Land",
       "location": "Qornet El Hamra, Metn",
       "sqm": 1380,
@@ -1266,6 +1314,30 @@
         {
           "price": 600000,
           "date": "2026-04-18"
+        }
+      ]
+    },
+    {
+      "id": "116750514",
+      "title": "Warehouse for sale in Jounieh RB302 مستودع  للبيع في جونيه",
+      "url": "https://www.olx.com.lb/ad/warehouse-for-sale-in-jounieh-rb302-مستودع-للبيع-في-جونيه-ID116750514.html",
+      "type": "Villa",
+      "location": "Jounieh, Keserouan",
+      "sqm": 310,
+      "original_price": 125000,
+      "current_price": 100000,
+      "drop_usd": 25000,
+      "drop_pct": 20.0,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 125000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 100000,
+          "date": "2026-04-23"
         }
       ]
     },
@@ -1830,6 +1902,30 @@
         {
           "price": 440000,
           "date": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "116693823",
+      "title": "Portemilio / 2 Bedrooms / Open Sea View REF#CE129818",
+      "url": "https://www.olx.com.lb/ad/portemilio-2-bedrooms-open-sea-view-refce129818-ID116693823.html",
+      "type": "Apartment",
+      "location": "Kaslik, Keserouan",
+      "sqm": 105,
+      "original_price": 465000,
+      "current_price": 390000,
+      "drop_usd": 75000,
+      "drop_pct": 16.1,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 465000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 390000,
+          "date": "2026-04-23"
         }
       ]
     },
@@ -2858,6 +2954,30 @@
       ]
     },
     {
+      "id": "116375756",
+      "title": "Commercial Store For Sale In The Heart Of Achrafieh",
+      "url": "https://www.olx.com.lb/ad/commercial-store-for-sale-in-the-heart-of-achrafieh-ID116375756.html",
+      "type": "Commercial",
+      "location": "Achrafieh, Beirut",
+      "sqm": 205,
+      "original_price": 450000,
+      "current_price": 390000,
+      "drop_usd": 60000,
+      "drop_pct": 13.3,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 390000,
+          "date": "2026-04-23"
+        }
+      ]
+    },
+    {
       "id": "116833549",
       "title": "lands for sale in Douma أرض للبيع في دوما",
       "url": "https://www.olx.com.lb/ad/lands-for-sale-in-douma-أرض-للبيع-في-دوما-ID116833549.html",
@@ -3450,6 +3570,30 @@
         {
           "price": 220000,
           "date": "2026-04-17"
+        }
+      ]
+    },
+    {
+      "id": "116668337",
+      "title": "Land for sale in Chabtin RC27 أرض للبيع في شبطين",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-chabtin-rc27-أرض-للبيع-في-شبطين-ID116668337.html",
+      "type": "Land",
+      "location": "Batroun Town, Batroun",
+      "sqm": 1538,
+      "original_price": 108000,
+      "current_price": 95000,
+      "drop_usd": 13000,
+      "drop_pct": 12.0,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 108000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 95000,
+          "date": "2026-04-23"
         }
       ]
     },
@@ -5422,6 +5566,30 @@
         {
           "price": 200000,
           "date": "2026-04-14"
+        }
+      ]
+    },
+    {
+      "id": "116535059",
+      "title": "Land for Sale",
+      "url": "https://www.olx.com.lb/ad/8000-sqm-land-lot-ajaltoun-ID116535059.html",
+      "type": "Land",
+      "location": "Ajaltoun, Keserouan",
+      "sqm": 8000,
+      "original_price": 2200000,
+      "current_price": 2000000,
+      "drop_usd": 200000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 2200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 2000000,
+          "date": "2026-04-23"
         }
       ]
     },
@@ -12042,6 +12210,30 @@
       ]
     },
     {
+      "id": "116690071",
+      "title": "traditional house in mechmech/مشمشREF#RS108251",
+      "url": "https://www.olx.com.lb/ad/traditional-house-in-mechmechمشمشrefrs108251-ID116690071.html",
+      "type": "Villa",
+      "location": "Mechmech, Jbeil",
+      "sqm": 200,
+      "original_price": 310000,
+      "current_price": 300000,
+      "drop_usd": 10000,
+      "drop_pct": 3.2,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 310000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 300000,
+          "date": "2026-04-23"
+        }
+      ]
+    },
+    {
       "id": "116811210",
       "title": "Unique Investment Opportunity | Apartment For Sale In Achrafieh",
       "url": "https://www.olx.com.lb/ad/unique-investment-opportunity-apartment-for-sale-in-achrafieh-ID116811210.html",
@@ -12206,6 +12398,30 @@
         {
           "price": 160000,
           "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "112049905",
+      "title": "Qsaybeh Land for sale (Beautiful mountain and pine view )",
+      "url": "https://www.olx.com.lb/ad/qsaybeh-land-for-sale-beautiful-mountain-and-pine-view-ID112049905.html",
+      "type": "Land",
+      "location": "Qsaybeh, Baabda",
+      "sqm": 1300,
+      "original_price": 165000,
+      "current_price": 160000,
+      "drop_usd": 5000,
+      "drop_pct": 3.0,
+      "last_drop_date": "2026-04-23",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 165000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 160000,
+          "date": "2026-04-23"
         }
       ]
     },
