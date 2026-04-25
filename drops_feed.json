@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-25T06:28:37.931164",
-  "total_tracked": 36306,
-  "total_drops": 628,
-  "avg_drop_pct": 9.5,
+  "generated_at": "2026-04-25T17:47:40.098846",
+  "total_tracked": 36471,
+  "total_drops": 632,
+  "avg_drop_pct": 9.6,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -1030,6 +1030,30 @@
       ]
     },
     {
+      "id": "116844921",
+      "title": "فرصة استثمارية نادرة- شقة ٣٠٠ م طريق عام سليم سلام ٢٦٠،٠٠٠$",
+      "url": "https://www.olx.com.lb/ad/للبيع-شقة-١٦٠-م-راس-النبع-شارع-محمد-الحوت-ID116844921.html",
+      "type": "Apartment",
+      "location": "Ras Al Nabaa, Beirut",
+      "sqm": 160,
+      "original_price": 330000,
+      "current_price": 260000,
+      "drop_usd": 70000,
+      "drop_pct": 21.2,
+      "last_drop_date": "2026-04-25",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 330000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 260000,
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
       "id": "116775870",
       "title": "Commercial for sale Ref#JF103  تجاري للبيع",
       "url": "https://www.olx.com.lb/ad/commercial-for-sale-refjf103-تجاري-للبيع-ID116775870.html",
@@ -1978,6 +2002,34 @@
         {
           "price": 180000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116790499",
+      "title": "FULLY FURNISHED APARTMENT FOR SALE IN MANSOURIEH PRIME, (MA-480)",
+      "url": "https://www.olx.com.lb/ad/fully-furnished-apartment-for-sale-in-mansourieh-prime-ma-480-ID116790499.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 170,
+      "original_price": 190000,
+      "current_price": 159000,
+      "drop_usd": 31000,
+      "drop_pct": 16.3,
+      "last_drop_date": "2026-04-25",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 190000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 185000,
+          "date": "2026-03-24"
+        },
+        {
+          "price": 159000,
+          "date": "2026-04-25"
         }
       ]
     },
@@ -4006,6 +4058,30 @@
       ]
     },
     {
+      "id": "116723051",
+      "title": "Brand New Duplex -  Balamand area, North ! REF#AS130873 !",
+      "url": "https://www.olx.com.lb/ad/brand-new-duplex-balamand-area-north-refas130873-ID116723051.html",
+      "type": "Duplex",
+      "location": "Other in Koura, Koura",
+      "sqm": 390,
+      "original_price": 450000,
+      "current_price": 400000,
+      "drop_usd": 50000,
+      "drop_pct": 11.1,
+      "last_drop_date": "2026-04-25",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 400000,
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
       "id": "116731538",
       "title": "Apartment + 500sqm garden & 60sqm terrace for Sale in Blat - CPJRK333",
       "url": "https://www.olx.com.lb/ad/apartment-500sqm-garden-60sqm-terrace-for-sale-in-blat-cpjrk333-ID116731538.html",
@@ -4502,6 +4578,34 @@
         {
           "price": 1350000,
           "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116779421",
+      "title": "Land for sale in Deir Qoubel, Aley أرض مميزة للبيع في دير قوبل",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-deir-qoubel-aley-أرض-مميزة-للبيع-في-دير-قوبل-ID116779421.html",
+      "type": "Land",
+      "location": "Deir Qoubel, Aley",
+      "sqm": 1400,
+      "original_price": 150000,
+      "current_price": 135000,
+      "drop_usd": 15000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-25",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-03-30"
+        },
+        {
+          "price": 135000,
+          "date": "2026-04-25"
         }
       ]
     },
@@ -7442,6 +7546,30 @@
       ]
     },
     {
+      "id": "116023599",
+      "title": "Achkout 244m2 | 133m2 Terrace | Rooftop | Brand New | View | DA |",
+      "url": "https://www.olx.com.lb/ad/achkout-244m2-133m2-terrace-rooftop-brand-new-view-da-ID116023599.html",
+      "type": "Apartment",
+      "location": "Aachqout, Keserouan",
+      "sqm": 244,
+      "original_price": 280000,
+      "current_price": 260000,
+      "drop_usd": 20000,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-04-25",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 280000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 260000,
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
       "id": "116833912",
       "title": "calm area, Beit El Kiko, Cornet Chahwan/ بيت الكيكو REF#PB134377",
       "url": "https://www.olx.com.lb/ad/calm-area-beit-el-kiko-cornet-chahwan-بيت-الكيكو-refpb134377-ID116833912.html",
@@ -7922,30 +8050,6 @@
         {
           "price": 140000,
           "date": "2026-03-12"
-        }
-      ]
-    },
-    {
-      "id": "116779421",
-      "title": "Land for sale in Deir Qoubel, Aley أرض مميزة للبيع في دير قوبل",
-      "url": "https://www.olx.com.lb/ad/land-for-sale-in-deir-qoubel-aley-أرض-مميزة-للبيع-في-دير-قوبل-ID116779421.html",
-      "type": "Land",
-      "location": "Deir Qoubel, Aley",
-      "sqm": 1400,
-      "original_price": 150000,
-      "current_price": 140000,
-      "drop_usd": 10000,
-      "drop_pct": 6.7,
-      "last_drop_date": "2026-03-30",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 150000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 140000,
-          "date": "2026-03-30"
         }
       ]
     },
@@ -11782,6 +11886,30 @@
       ]
     },
     {
+      "id": "116763397",
+      "title": "Unique view, Ac, 2 covered parking, Baabda Town/بعبدا REF#NL131994",
+      "url": "https://www.olx.com.lb/ad/unique-view-ac-2-covered-parking-baabda-townبعبدا-refnl131994-ID116763397.html",
+      "type": "Apartment",
+      "location": "Baabda Town, Baabda",
+      "sqm": 230,
+      "original_price": 400000,
+      "current_price": 385000,
+      "drop_usd": 15000,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-04-25",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 400000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 385000,
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
       "id": "116816327",
       "title": "Chalet/Zouk Mosbeh/ذوق مصبح/SEA&MOUNTAIN VIEW ! REF#EW133794 !",
       "url": "https://www.olx.com.lb/ad/chaletzouk-mosbehذوق-مصبحseamountain-view-refew133794-ID116816327.html",
@@ -13442,30 +13570,6 @@
         {
           "price": 380000,
           "date": "2026-04-07"
-        }
-      ]
-    },
-    {
-      "id": "116790499",
-      "title": "FULLY FURNISHED APARTMENT FOR SALE IN MANSOURIEH PRIME, (MA-480)",
-      "url": "https://www.olx.com.lb/ad/fully-furnished-apartment-for-sale-in-mansourieh-prime-ma-480-ID116790499.html",
-      "type": "Apartment",
-      "location": "Mansourieh, Metn",
-      "sqm": 170,
-      "original_price": 190000,
-      "current_price": 185000,
-      "drop_usd": 5000,
-      "drop_pct": 2.6,
-      "last_drop_date": "2026-03-24",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 190000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 185000,
-          "date": "2026-03-24"
         }
       ]
     },
