@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-26T07:07:06.030277",
-  "total_tracked": 36506,
-  "total_drops": 635,
+  "generated_at": "2026-04-26T17:49:16.595137",
+  "total_tracked": 36626,
+  "total_drops": 639,
   "avg_drop_pct": 9.5,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -3798,6 +3798,30 @@
         {
           "price": 75000,
           "date": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "116333177",
+      "title": "40 SQM Shop/Office in Zalka, Metn",
+      "url": "https://www.olx.com.lb/ad/40-sqm-shopoffice-in-zalka-metn-ID116333177.html",
+      "type": "Commercial",
+      "location": "Zalka, Metn",
+      "sqm": 40,
+      "original_price": 85000,
+      "current_price": 75000,
+      "drop_usd": 10000,
+      "drop_pct": 11.8,
+      "last_drop_date": "2026-04-26",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 75000,
+          "date": "2026-04-26"
         }
       ]
     },
@@ -8013,7 +8037,7 @@
       "location": "Mar Mkhayel, Beirut",
       "sqm": 140,
       "original_price": 220000,
-      "current_price": 205000,
+      "current_price": 220000,
       "drop_usd": 15000,
       "drop_pct": 6.8,
       "last_drop_date": "2026-04-24",
@@ -8026,6 +8050,10 @@
         {
           "price": 205000,
           "date": "2026-04-24"
+        },
+        {
+          "price": 220000,
+          "date": "2026-04-26"
         }
       ]
     },
@@ -8578,6 +8606,30 @@
         {
           "price": 220000,
           "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116758578",
+      "title": "DUPLEX APARTMENT FOR SALE IN HBOUB",
+      "url": "https://www.olx.com.lb/ad/duplex-apartment-for-sale-in-hboub-ID116758578.html",
+      "type": "Duplex",
+      "location": "Hboub, Jbeil",
+      "sqm": 200,
+      "original_price": 110000,
+      "current_price": 103000,
+      "drop_usd": 7000,
+      "drop_pct": 6.4,
+      "last_drop_date": "2026-04-26",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 110000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 103000,
+          "date": "2026-04-26"
         }
       ]
     },
@@ -10077,7 +10129,7 @@
       "location": "Hazmiyeh, Baabda",
       "sqm": 150,
       "original_price": 290000,
-      "current_price": 275000,
+      "current_price": 285000,
       "drop_usd": 15000,
       "drop_pct": 5.2,
       "last_drop_date": "2026-04-22",
@@ -10090,6 +10142,10 @@
         {
           "price": 275000,
           "date": "2026-04-22"
+        },
+        {
+          "price": 285000,
+          "date": "2026-04-26"
         }
       ]
     },
@@ -10942,6 +10998,30 @@
         {
           "price": 105000,
           "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116674287",
+      "title": "LUXURIOUS APARTMENT FOR SALE IN SAHEL ALMA PRIME,3 BEDROOMS . (SAL-172)",
+      "url": "https://www.olx.com.lb/ad/luxurious-apartment-for-sale-in-sahel-alma-prime3-bedrooms-sal-172-ID116674287.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 210,
+      "original_price": 267000,
+      "current_price": 255000,
+      "drop_usd": 12000,
+      "drop_pct": 4.5,
+      "last_drop_date": "2026-04-26",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 267000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 255000,
+          "date": "2026-04-26"
         }
       ]
     },
@@ -13474,6 +13554,30 @@
         {
           "price": 144900,
           "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116768313",
+      "title": "UNDER CONSTRUCTION APARTMENTS IN ZALKA 25% DOWN PAYMENT , (ZL-197) R. G",
+      "url": "https://www.olx.com.lb/ad/under-construction-apartments-in-zalka-25-down-payment-zl-197-r-g-ID116768313.html",
+      "type": "Apartment",
+      "location": "Zalka, Metn",
+      "sqm": 120,
+      "original_price": 184000,
+      "current_price": 179000,
+      "drop_usd": 5000,
+      "drop_pct": 2.7,
+      "last_drop_date": "2026-04-26",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 184000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 179000,
+          "date": "2026-04-26"
         }
       ]
     },
