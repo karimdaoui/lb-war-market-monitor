@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-27T07:45:12.700019",
-  "total_tracked": 10931,
-  "total_drops": 1227,
+  "generated_at": "2026-04-27T18:14:41.652541",
+  "total_tracked": 11060,
+  "total_drops": 1253,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 184000,
   "drops": [
@@ -201,7 +201,7 @@
       "transmission": "Steptronic",
       "location": "Mansourieh, Metn",
       "original_price": 12345,
-      "current_price": 1111,
+      "current_price": 25000,
       "drop_usd": 11234,
       "drop_pct": 91.0,
       "last_drop_date": "2026-04-17",
@@ -214,6 +214,10 @@
         {
           "price": 1111,
           "date": "2026-04-17"
+        },
+        {
+          "price": 25000,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -502,6 +506,34 @@
         {
           "price": 4500,
           "date": "2026-04-14"
+        }
+      ]
+    },
+    {
+      "id": "116724202",
+      "title": "Land Rover Lr4 2010 luxury super clean services done",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2018-hse-luxury-package-clean-carfax-ajnabieh-ID116724202.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 73000,
+      "transmission": "Steptronic",
+      "location": "Mkalles, Metn",
+      "original_price": 27999,
+      "current_price": 11999,
+      "drop_usd": 16000,
+      "drop_pct": 57.1,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 27999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 11999,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -1298,6 +1330,38 @@
       ]
     },
     {
+      "id": "116800176",
+      "title": "بي ام دبليو الفئة 3 2011",
+      "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-3-2011-ID116800176.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 63000,
+      "transmission": "Automatic",
+      "location": "Rawche, Beirut",
+      "original_price": 9800,
+      "current_price": 8250,
+      "drop_usd": 1550,
+      "drop_pct": 15.8,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 9800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 8800,
+          "date": "2026-03-29"
+        },
+        {
+          "price": 8250,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116757662",
       "title": "Grand Cherokee Summit 2017",
       "url": "https://www.olx.com.lb/ad/grand-cherokee-summit-2017-ID116757662.html",
@@ -1918,6 +1982,34 @@
       ]
     },
     {
+      "id": "116869915",
+      "title": "Infiniti G-Series 2008",
+      "url": "https://www.olx.com.lb/ad/infiniti-g-series-2008-ID116869915.html",
+      "make": "Infiniti",
+      "model": "G-Series",
+      "body_type": "Sports / Coupe",
+      "year": 2008,
+      "mileage": 170000,
+      "transmission": "Steptronic",
+      "location": "Hadath, Baabda",
+      "original_price": 7900,
+      "current_price": 6800,
+      "drop_usd": 1100,
+      "drop_pct": 13.9,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 7900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 6800,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116811562",
       "title": "Citroen C3 2013",
       "url": "https://www.olx.com.lb/ad/citroen-c3-2013-ID116811562.html",
@@ -2362,6 +2454,34 @@
         {
           "price": 6800,
           "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116738290",
+      "title": "Cadillac STS 2005",
+      "url": "https://www.olx.com.lb/ad/cadillac-sts-2005-ID116738290.html",
+      "make": "Cadillac",
+      "model": "STS",
+      "body_type": "Sedan",
+      "year": 2005,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 5500,
+      "current_price": 4800,
+      "drop_usd": 700,
+      "drop_pct": 12.7,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4800,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -3222,6 +3342,38 @@
       ]
     },
     {
+      "id": "116493860",
+      "title": "Land Rover Discovery Sport 2017",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-sport-2017-ID116493860.html",
+      "make": "Land Rover",
+      "model": "Discovery Sport",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 180000,
+      "transmission": "Automatic",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 18000,
+      "current_price": 16000,
+      "drop_usd": 2000,
+      "drop_pct": 11.1,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17500,
+          "date": "2026-03-14"
+        },
+        {
+          "price": 16000,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116815379",
       "title": "Jeep Cherokee 1990",
       "url": "https://www.olx.com.lb/ad/jeep-cherokee-1990-ID116815379.html",
@@ -3506,6 +3658,34 @@
         {
           "price": 11500,
           "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116861655",
+      "title": "Nissan Sunny 2013 71337814",
+      "url": "https://www.olx.com.lb/ad/nissan-sunny-2013-ID116861655.html",
+      "make": "Nissan",
+      "model": "Sunny",
+      "body_type": "Small city car",
+      "year": 2013,
+      "mileage": 220000,
+      "transmission": "Automatic",
+      "location": "Hamra, Beirut",
+      "original_price": 5500,
+      "current_price": 4900,
+      "drop_usd": 600,
+      "drop_pct": 10.9,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4900,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -3878,34 +4058,6 @@
         {
           "price": 16700,
           "date": "2026-04-24"
-        }
-      ]
-    },
-    {
-      "id": "116800176",
-      "title": "بي ام دبليو الفئة 3 2011",
-      "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-3-2011-ID116800176.html",
-      "make": "BMW",
-      "model": "3-Series",
-      "body_type": "Sedan",
-      "year": 2011,
-      "mileage": 63000,
-      "transmission": "Automatic",
-      "location": "Rawche, Beirut",
-      "original_price": 9800,
-      "current_price": 8800,
-      "drop_usd": 1000,
-      "drop_pct": 10.2,
-      "last_drop_date": "2026-03-29",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 9800,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 8800,
-          "date": "2026-03-29"
         }
       ]
     },
@@ -6298,6 +6450,34 @@
       ]
     },
     {
+      "id": "116871313",
+      "title": "Honda Civic 1992",
+      "url": "https://www.olx.com.lb/ad/honda-civic-1992-ID116871313.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Hatchback",
+      "year": 1992,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Sayroubiyeh, Saida",
+      "original_price": 2400,
+      "current_price": 2200,
+      "drop_usd": 200,
+      "drop_pct": 8.3,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 2400,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 2200,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116810839",
       "title": "Jaguar XF 2009 V8",
       "url": "https://www.olx.com.lb/ad/jaguar-xf-2009-v8-ID116810839.html",
@@ -6538,6 +6718,38 @@
         {
           "price": 45000,
           "date": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "id": "116866777",
+      "title": "All new Peugeot 301 2019 excellent condition سعر مغر",
+      "url": "https://www.olx.com.lb/ad/all-new-peugeot-301-2019-excellent-condition-سعر-مغر-ID116866777.html",
+      "make": "Peugeot",
+      "model": "301",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 71000,
+      "transmission": "Automatic",
+      "location": "Verdun, Beirut",
+      "original_price": 7300,
+      "current_price": 6700,
+      "drop_usd": 600,
+      "drop_pct": 8.2,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 7300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 6900,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 6700,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -9358,6 +9570,34 @@
       ]
     },
     {
+      "id": "116827070",
+      "title": "Mercedes-Benz GLC-Class 2019 Amg package Ajnabieh",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2019-amg-package-ajnabieh-ID116827070.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 30000,
+      "transmission": "Steptronic",
+      "location": "Mkalles, Metn",
+      "original_price": 29999,
+      "current_price": 27999,
+      "drop_usd": 2000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 29999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 27999,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116791526",
       "title": "Hyundai Genesis 2.0T 2011",
       "url": "https://www.olx.com.lb/ad/hyundai-genesis-20t-2011-ID116791526.html",
@@ -9506,6 +9746,34 @@
       ]
     },
     {
+      "id": "116838793",
+      "title": "Lamborghini Urus 2025 SE",
+      "url": "https://www.olx.com.lb/ad/lamborghini-urus-2025-se-ID116838793.html",
+      "make": "Lamborghini",
+      "model": "Urus",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 2800,
+      "transmission": "Automatic",
+      "location": "Medawar, Beirut",
+      "original_price": 450000,
+      "current_price": 420000,
+      "drop_usd": 30000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 420000,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116842920",
       "title": "نوع أخر أخرى 2001",
       "url": "https://www.olx.com.lb/ad/نوع-أخر-أخرى-2001-ID116842920.html",
@@ -9573,7 +9841,7 @@
       "transmission": "Steptronic",
       "location": "Mkalles, Metn",
       "original_price": 29999,
-      "current_price": 27999,
+      "current_price": 28999,
       "drop_usd": 2000,
       "drop_pct": 6.7,
       "last_drop_date": "2026-04-17",
@@ -9586,6 +9854,10 @@
         {
           "price": 27999,
           "date": "2026-04-17"
+        },
+        {
+          "price": 28999,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -12318,6 +12590,34 @@
       ]
     },
     {
+      "id": "116869316",
+      "title": "BMW X5 2005",
+      "url": "https://www.olx.com.lb/ad/bmw-x5-2005-ID116869316.html",
+      "make": "BMW",
+      "model": "X5",
+      "body_type": "Estate",
+      "year": 2005,
+      "mileage": 250000,
+      "transmission": "Steptronic",
+      "location": "Ain Ed Delb, Saida",
+      "original_price": 5300,
+      "current_price": 5000,
+      "drop_usd": 300,
+      "drop_pct": 5.7,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 5300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 5000,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116800912",
       "title": "Maserati Levante SQ4 Carbon Package",
       "url": "https://www.olx.com.lb/ad/maserati-levante-sq4-carbon-package-ID116800912.html",
@@ -12622,6 +12922,34 @@
         {
           "price": 17000,
           "date": "2026-04-25"
+        }
+      ]
+    },
+    {
+      "id": "116802398",
+      "title": "FIAT  500X 4x4 TgF gargour source",
+      "url": "https://www.olx.com.lb/ad/fiat-500x-4x4-tgf-gargour-source-ID116802398.html",
+      "make": "Fiat",
+      "model": "500X",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 110000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 12500,
+      "current_price": 11800,
+      "drop_usd": 700,
+      "drop_pct": 5.6,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 11800,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -12974,34 +13302,6 @@
       ]
     },
     {
-      "id": "116866777",
-      "title": "All new Peugeot 301 2019 excellent condition سعر مغر",
-      "url": "https://www.olx.com.lb/ad/all-new-peugeot-301-2019-excellent-condition-سعر-مغر-ID116866777.html",
-      "make": "Peugeot",
-      "model": "301",
-      "body_type": "Sedan",
-      "year": 2019,
-      "mileage": 71000,
-      "transmission": "Automatic",
-      "location": "Verdun, Beirut",
-      "original_price": 7300,
-      "current_price": 6900,
-      "drop_usd": 400,
-      "drop_pct": 5.5,
-      "last_drop_date": "2026-04-25",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 7300,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 6900,
-          "date": "2026-04-25"
-        }
-      ]
-    },
-    {
       "id": "116507474",
       "title": "Jeep Grand Cherokee 2017",
       "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-ID116507474.html",
@@ -13041,10 +13341,10 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 25800,
-      "current_price": 24500,
+      "current_price": 24400,
       "drop_usd": 1400,
       "drop_pct": 5.4,
-      "last_drop_date": "2026-04-15",
+      "last_drop_date": "2026-04-27",
       "first_seen": "2026-03-01",
       "price_history": [
         {
@@ -13070,6 +13370,10 @@
         {
           "price": 24500,
           "date": "2026-04-16"
+        },
+        {
+          "price": 24400,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -13102,6 +13406,42 @@
         {
           "price": 35000,
           "date": "2026-04-06"
+        }
+      ]
+    },
+    {
+      "id": "116745100",
+      "title": "Land Rover Range Rover Sport 2018 HSE very clean car fax V6",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-hse-very-clean-v6-ID116745100.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 38900,
+      "current_price": 36800,
+      "drop_usd": 2100,
+      "drop_pct": 5.4,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 38900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 38500,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 36900,
+          "date": "2026-04-26"
+        },
+        {
+          "price": 36800,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -13358,6 +13698,46 @@
         {
           "price": 53900,
           "date": "2026-04-23"
+        }
+      ]
+    },
+    {
+      "id": "116754756",
+      "title": "Mercedes-Benz E-Class 2017 E 400  4 matic V6 clean car fax",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-e-400-4-matic-v6-clean-car-fax-ID116754756.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 110000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 29500,
+      "current_price": 27900,
+      "drop_usd": 1600,
+      "drop_pct": 5.4,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 29500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 27500,
+          "date": "2026-04-03"
+        },
+        {
+          "price": 28800,
+          "date": "2026-04-09"
+        },
+        {
+          "price": 28500,
+          "date": "2026-04-16"
+        },
+        {
+          "price": 27900,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -14210,38 +14590,6 @@
       ]
     },
     {
-      "id": "116745100",
-      "title": "Land Rover Range Rover Sport 2018 HSE very clean car fax V6",
-      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-hse-very-clean-v6-ID116745100.html",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 70000,
-      "transmission": "Steptronic",
-      "location": "Sin El Fil, Metn",
-      "original_price": 38900,
-      "current_price": 36900,
-      "drop_usd": 2000,
-      "drop_pct": 5.1,
-      "last_drop_date": "2026-04-26",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 38900,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 38500,
-          "date": "2026-03-23"
-        },
-        {
-          "price": 36900,
-          "date": "2026-04-26"
-        }
-      ]
-    },
-    {
       "id": "116706257",
       "title": "Land Rover Velar 2019 MY  - P250 - R-Dynamic - CLEAN CARFAX !!",
       "url": "https://www.olx.com.lb/ad/land-rover-velar-2019-my-p250-r-dynamic-clean-carfax-ID116706257.html",
@@ -14786,6 +15134,42 @@
       ]
     },
     {
+      "id": "116819132",
+      "title": "Renault 5 Gtx model 1988  ( 3850 $ ] فيتاس عادي",
+      "url": "https://www.olx.com.lb/ad/renault-5-gtx-model-1988-4000-ID116819132.html",
+      "make": "Renault",
+      "model": "5",
+      "body_type": "Hatchback",
+      "year": 1988,
+      "mileage": 145000,
+      "transmission": "Manual",
+      "location": "Furn El Chebbak, Baabda",
+      "original_price": 3999,
+      "current_price": 3800,
+      "drop_usd": 199,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 3990,
+          "date": "2026-04-16"
+        },
+        {
+          "price": 3850,
+          "date": "2026-04-23"
+        },
+        {
+          "price": 3800,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116737375",
       "title": "Hyundai Sonata 2017",
       "url": "https://www.olx.com.lb/ad/hyundai-sonata-2017-ID116737375.html",
@@ -15102,6 +15486,34 @@
         {
           "price": 19500,
           "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116815477",
+      "title": "MINI Cooper S 2016",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-2016-ID116815477.html",
+      "make": "MINI",
+      "model": "Cooper S",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 50000,
+      "transmission": "Automatic",
+      "location": "Ras Beirut, Beirut",
+      "original_price": 20499,
+      "current_price": 19499,
+      "drop_usd": 1000,
+      "drop_pct": 4.9,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 20499,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 19499,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -17445,10 +17857,10 @@
       "transmission": "Automatic",
       "location": "Zgharta Town, Zgharta",
       "original_price": 23000,
-      "current_price": 23000,
+      "current_price": 22000,
       "drop_usd": 1000,
       "drop_pct": 4.3,
-      "last_drop_date": "2026-04-09",
+      "last_drop_date": "2026-04-27",
       "first_seen": "2026-03-01",
       "price_history": [
         {
@@ -17462,6 +17874,10 @@
         {
           "price": 23000,
           "date": "2026-04-14"
+        },
+        {
+          "price": 22000,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -17586,6 +18002,34 @@
       ]
     },
     {
+      "id": "116853645",
+      "title": "Land Rover Range Rover Sport 2014",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2014-ID116853645.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 160000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 23000,
+      "current_price": 22000,
+      "drop_usd": 1000,
+      "drop_pct": 4.3,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 22000,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116860508",
       "title": "Seat Ibiza 2013",
       "url": "https://www.olx.com.lb/ad/seat-ibiza-2013-ID116860508.html",
@@ -17694,6 +18138,34 @@
         {
           "price": 22900,
           "date": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "id": "116807038",
+      "title": "2016 RANGE ROVER SVR Carbon Edition CLEAN CARFAX HISTORY 72k Miles",
+      "url": "https://www.olx.com.lb/ad/2016-range-rover-svr-carbon-edition-clean-carfax-history-72k-miles-ID116807038.html",
+      "make": "Land Rover",
+      "model": "Range Rover SVR",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 72000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 47500,
+      "current_price": 45500,
+      "drop_usd": 2000,
+      "drop_pct": 4.2,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 47500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 45500,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -18662,6 +19134,42 @@
         {
           "price": 59500,
           "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116733567",
+      "title": "Kia Sportage model 2020 4wd super clean",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-model-2020-4wd-super-clean-ID116733567.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Other in Zgharta, Zgharta",
+      "original_price": 17300,
+      "current_price": 16600,
+      "drop_usd": 700,
+      "drop_pct": 4.0,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17000,
+          "date": "2026-03-29"
+        },
+        {
+          "price": 16900,
+          "date": "2026-04-05"
+        },
+        {
+          "price": 16600,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -20010,6 +20518,34 @@
       ]
     },
     {
+      "id": "116871163",
+      "title": "Jeep Cherokee 2013",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2013-ID116871163.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 124000,
+      "transmission": "Steptronic",
+      "location": "Blat, Jbeil",
+      "original_price": 13200,
+      "current_price": 12700,
+      "drop_usd": 500,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13200,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12700,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116806883",
       "title": "MITSUBISHI LANCER EX GLS 1.6 2009 COMPANY SOURCE PERFECT CONDITION",
       "url": "https://www.olx.com.lb/ad/mitsubishi-lancer-ex-gls-16-2009-company-source-perfect-condition-ID116806883.html",
@@ -20266,38 +20802,6 @@
       ]
     },
     {
-      "id": "116819132",
-      "title": "Renault 5 Gtx model 1988  ( 3850 $ ] فيتاس عادي",
-      "url": "https://www.olx.com.lb/ad/renault-5-gtx-model-1988-4000-ID116819132.html",
-      "make": "Renault",
-      "model": "5",
-      "body_type": "Hatchback",
-      "year": 1988,
-      "mileage": 145000,
-      "transmission": "Manual",
-      "location": "Furn El Chebbak, Baabda",
-      "original_price": 3999,
-      "current_price": 3850,
-      "drop_usd": 149,
-      "drop_pct": 3.7,
-      "last_drop_date": "2026-04-23",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 3999,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 3990,
-          "date": "2026-04-16"
-        },
-        {
-          "price": 3850,
-          "date": "2026-04-23"
-        }
-      ]
-    },
-    {
       "id": "115454478",
       "title": "Mitsubishi outlander se 2020",
       "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-se-2020-ID115454478.html",
@@ -20506,6 +21010,34 @@
         {
           "price": 12999,
           "date": "2026-04-18"
+        }
+      ]
+    },
+    {
+      "id": "116833189",
+      "title": "MERCEDES-BENZ GLC 2017 4MATIC AMG !! CLEAN CARFAX 59,000 MILES!",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-2017-4matic-amg-clean-carfax-59000-miles-ID116833189.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 26900,
+      "current_price": 25900,
+      "drop_usd": 1000,
+      "drop_pct": 3.7,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 26900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 25900,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -21286,6 +21818,34 @@
         {
           "price": 28800,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116811878",
+      "title": "MINI Cooper S 2008",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-2008-ID116811878.html",
+      "make": "MINI",
+      "model": "Cooper S",
+      "body_type": "Sports / Coupe",
+      "year": 2008,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 5700,
+      "current_price": 5500,
+      "drop_usd": 200,
+      "drop_pct": 3.5,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 5700,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 5500,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -22314,38 +22874,30 @@
       ]
     },
     {
-      "id": "116754756",
-      "title": "Mercedes-Benz E-Class 2017 E 400  4 matic V6 clean car fax",
-      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-e-400-4-matic-v6-clean-car-fax-ID116754756.html",
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "body_type": "Sedan",
-      "year": 2017,
-      "mileage": 110000,
-      "transmission": "Steptronic",
-      "location": "Sin El Fil, Metn",
-      "original_price": 29500,
-      "current_price": 28500,
-      "drop_usd": 1000,
+      "id": "116835299",
+      "title": "هوندا أكورد 2015",
+      "url": "https://www.olx.com.lb/ad/هوندا-أكورد-2015-ID116835299.html",
+      "make": "Honda",
+      "model": "Accord",
+      "body_type": "Other",
+      "year": 2015,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Jezzine Town, Jezzine",
+      "original_price": 11900,
+      "current_price": 11500,
+      "drop_usd": 400,
       "drop_pct": 3.4,
-      "last_drop_date": "2026-04-16",
+      "last_drop_date": "2026-04-27",
       "first_seen": "2026-03-01",
       "price_history": [
         {
-          "price": 29500,
+          "price": 11900,
           "date": "2026-03-01"
         },
         {
-          "price": 27500,
-          "date": "2026-04-03"
-        },
-        {
-          "price": 28800,
-          "date": "2026-04-09"
-        },
-        {
-          "price": 28500,
-          "date": "2026-04-16"
+          "price": 11500,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -22846,6 +23398,38 @@
         {
           "price": 1450,
           "date": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "116857700",
+      "title": "Hyundai Santa Fe 2018 limited",
+      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2018-ID116857700.html",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 50,
+      "transmission": "Automatic",
+      "location": "Ras Al Nabaa, Beirut",
+      "original_price": 15200,
+      "current_price": 14700,
+      "drop_usd": 500,
+      "drop_pct": 3.3,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15200,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 14800,
+          "date": "2026-04-23"
+        },
+        {
+          "price": 14700,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -24422,6 +25006,34 @@
       ]
     },
     {
+      "id": "116870182",
+      "title": "Porsche 911 2010",
+      "url": "https://www.olx.com.lb/ad/porsche-911-2010-ID116870182.html",
+      "make": "Porsche",
+      "model": "911",
+      "body_type": "Sports / Coupe",
+      "year": 2010,
+      "mileage": 58000,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 67000,
+      "current_price": 65000,
+      "drop_usd": 2000,
+      "drop_pct": 3.0,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 67000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 65000,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116666459",
       "title": "Mercedes-Benz C-Class 2017",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116666459.html",
@@ -24682,6 +25294,38 @@
       ]
     },
     {
+      "id": "116813638",
+      "title": "Nissan Rogue model 2019 4wd Panoramic super clean",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-model-2019-4wd-panoramic-super-clean-ID116813638.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 17000,
+      "current_price": 16500,
+      "drop_usd": 500,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 16800,
+          "date": "2026-03-16"
+        },
+        {
+          "price": 16500,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116711431",
       "title": "Porsche Macan S - 2018 MY -  Full Carbon Fiber Interior - 360 Cameras",
       "url": "https://www.olx.com.lb/ad/porsche-macan-s-2018-my-full-carbon-fiber-interior-360-cameras-ID116711431.html",
@@ -24734,6 +25378,34 @@
         {
           "price": 34000,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116816168",
+      "title": "Subaru XV Crosstrek 2018",
+      "url": "https://www.olx.com.lb/ad/subaru-xv-crosstrek-2018-ID116816168.html",
+      "make": "Subaru",
+      "model": "XV Crosstrek",
+      "body_type": "Hatchback",
+      "year": 2018,
+      "mileage": 114000,
+      "transmission": "Automatic",
+      "location": "Halat, Jbeil",
+      "original_price": 17500,
+      "current_price": 17000,
+      "drop_usd": 500,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17000,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -25342,34 +26014,6 @@
       ]
     },
     {
-      "id": "116493860",
-      "title": "Land Rover Discovery Sport 2017",
-      "url": "https://www.olx.com.lb/ad/land-rover-discovery-sport-2017-ID116493860.html",
-      "make": "Land Rover",
-      "model": "Discovery Sport",
-      "body_type": "SUV",
-      "year": 2017,
-      "mileage": 180000,
-      "transmission": "Automatic",
-      "location": "Jbeil Town, Jbeil",
-      "original_price": 18000,
-      "current_price": 17500,
-      "drop_usd": 500,
-      "drop_pct": 2.8,
-      "last_drop_date": "2026-03-14",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 18000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 17500,
-          "date": "2026-03-14"
-        }
-      ]
-    },
-    {
       "id": "116729095",
       "title": "Land Rover Discovery HSE MY 2017 From tewtel 100000 km",
       "url": "https://www.olx.com.lb/ad/land-rover-discovery-hse-my-2017-from-tewtel-100000-km-ID116729095.html",
@@ -25646,6 +26290,34 @@
         {
           "price": 10500,
           "date": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "id": "116804321",
+      "title": "Infiniti Q series 2017",
+      "url": "https://www.olx.com.lb/ad/infiniti-q-series-2018-ID116804321.html",
+      "make": "Infiniti",
+      "model": "Q series",
+      "body_type": "Hatchback",
+      "year": 2018,
+      "mileage": 82500,
+      "transmission": "Steptronic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 18000,
+      "current_price": 17500,
+      "drop_usd": 500,
+      "drop_pct": 2.8,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17500,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -26874,34 +27546,6 @@
       ]
     },
     {
-      "id": "116857700",
-      "title": "Hyundai Santa Fe 2018 limited",
-      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2018-ID116857700.html",
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 50,
-      "transmission": "Automatic",
-      "location": "Ras Al Nabaa, Beirut",
-      "original_price": 15200,
-      "current_price": 14800,
-      "drop_usd": 400,
-      "drop_pct": 2.6,
-      "last_drop_date": "2026-04-23",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 15200,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 14800,
-          "date": "2026-04-23"
-        }
-      ]
-    },
-    {
       "id": "116603512",
       "title": "Jeep Grand Cherokee 2017",
       "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-ID116603512.html",
@@ -27446,6 +28090,34 @@
       ]
     },
     {
+      "id": "116767426",
+      "title": "Jaguar F-Type 2017",
+      "url": "https://www.olx.com.lb/ad/jaguar-f-type-2017-ID116767426.html",
+      "make": "Jaguar",
+      "model": "F-Type",
+      "body_type": "Sports / Coupe",
+      "year": 2017,
+      "mileage": 28000,
+      "transmission": "Automatic",
+      "location": "Other in Keserouan, Keserouan",
+      "original_price": 40500,
+      "current_price": 39500,
+      "drop_usd": 1000,
+      "drop_pct": 2.5,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 40500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 39500,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116731183",
       "title": "Land Rover Range Rover Sport 2025",
       "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2025-ID116731183.html",
@@ -27731,7 +28403,7 @@
     },
     {
       "id": "116778863",
-      "title": "GMC Terrain AWD 2019",
+      "title": "GMC Terrain RYMCO",
       "url": "https://www.olx.com.lb/ad/gmc-terrain-awd-2019-ID116778863.html",
       "make": "GMC",
       "model": "Terrain",
@@ -27954,38 +28626,6 @@
         {
           "price": 29500,
           "date": "2026-04-01"
-        }
-      ]
-    },
-    {
-      "id": "116733567",
-      "title": "Kia Sportage model 2020 4wd super clean",
-      "url": "https://www.olx.com.lb/ad/kia-sportage-model-2020-4wd-super-clean-ID116733567.html",
-      "make": "Kia",
-      "model": "Sportage",
-      "body_type": "SUV",
-      "year": 2020,
-      "mileage": 0,
-      "transmission": "Steptronic",
-      "location": "Other in Zgharta, Zgharta",
-      "original_price": 17300,
-      "current_price": 16900,
-      "drop_usd": 400,
-      "drop_pct": 2.3,
-      "last_drop_date": "2026-04-05",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 17300,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 17000,
-          "date": "2026-03-29"
-        },
-        {
-          "price": 16900,
-          "date": "2026-04-05"
         }
       ]
     },
@@ -29154,6 +29794,38 @@
       ]
     },
     {
+      "id": "116811044",
+      "title": "Nissan Rogue 2018 SV 4wd 75000 miles super clean",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2018-sv-4wd-75000-miles-super-clean-ID116811044.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Other in Zgharta, Zgharta",
+      "original_price": 15000,
+      "current_price": 14700,
+      "drop_usd": 300,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 14900,
+          "date": "2026-04-13"
+        },
+        {
+          "price": 14700,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116767701",
       "title": "بي ام دبليو الفئة 3 2017",
       "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-3-2017-ID116767701.html",
@@ -29526,6 +30198,34 @@
         {
           "price": 14700,
           "date": "2026-04-16"
+        }
+      ]
+    },
+    {
+      "id": "116685940",
+      "title": "Mercedes-Benz E-Class 2012",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2012-ID116685940.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2012,
+      "mileage": 78000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 12250,
+      "current_price": 12000,
+      "drop_usd": 250,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12250,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12000,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -30350,6 +31050,34 @@
         {
           "price": 26000,
           "date": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "id": "116802151",
+      "title": "Mercedes-Benz GLA 45 AMG edition 1",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-gla-45-amg-edition-1-ID116802151.html",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 26000,
+      "current_price": 25500,
+      "drop_usd": 500,
+      "drop_pct": 1.9,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 26000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 25500,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -31234,6 +31962,38 @@
       ]
     },
     {
+      "id": "116866215",
+      "title": "2018 NISSAN ROGUE SL,65000 MLS ONLY 4WD",
+      "url": "https://www.olx.com.lb/ad/2018-nissan-rogue-sl65000-mls-only-4wd-ID116866215.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 65000,
+      "transmission": "Steptronic",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 17500,
+      "current_price": 17200,
+      "drop_usd": 300,
+      "drop_pct": 1.7,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17300,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 17200,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116801660",
       "title": "Mitsubishi Eclipse cross 2018 زوائد الفئة الاولى مصدر و صيانة الشركة",
       "url": "https://www.olx.com.lb/ad/mitsubishi-eclipse-cross-2018-زوائد-الفئة-الاولى-مصدر-و-صيانة-الشركة-ID116801660.html",
@@ -31434,6 +32194,38 @@
         {
           "price": 12300,
           "date": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "116871201",
+      "title": "Hyundai I10 2016",
+      "url": "https://www.olx.com.lb/ad/hyundai-i10-2016-ID116871201.html",
+      "make": "Hyundai",
+      "model": "I10",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 194000,
+      "transmission": "Manual",
+      "location": "Blat, Jbeil",
+      "original_price": 6200,
+      "current_price": 6100,
+      "drop_usd": 100,
+      "drop_pct": 1.6,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 6200,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 6300,
+          "date": "2026-04-27"
+        },
+        {
+          "price": 6100,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -31754,6 +32546,38 @@
         {
           "price": 13300,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116848055",
+      "title": "Mercedes-Benz C-Class  300 look AMG 2017 convertible very clean",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-300-look-amg-2017-convertible-very-clean-ID116848055.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Convertible",
+      "year": 2017,
+      "mileage": 88000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 25900,
+      "current_price": 25500,
+      "drop_usd": 400,
+      "drop_pct": 1.5,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 25900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 25800,
+          "date": "2026-04-15"
+        },
+        {
+          "price": 25500,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -32986,34 +33810,6 @@
       ]
     },
     {
-      "id": "116813638",
-      "title": "Nissan Rogue model 2019 4wd Panoramic super clean",
-      "url": "https://www.olx.com.lb/ad/nissan-rogue-model-2019-4wd-panoramic-super-clean-ID116813638.html",
-      "make": "Nissan",
-      "model": "Rogue",
-      "body_type": "SUV",
-      "year": 2019,
-      "mileage": 0,
-      "transmission": "Steptronic",
-      "location": "Zgharta Town, Zgharta",
-      "original_price": 17000,
-      "current_price": 16800,
-      "drop_usd": 200,
-      "drop_pct": 1.2,
-      "last_drop_date": "2026-03-16",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 17000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 16800,
-          "date": "2026-03-16"
-        }
-      ]
-    },
-    {
       "id": "116787817",
       "title": "Suzuki Swift GLX -  2026 MY - All Colors Available  - Brand New !!!",
       "url": "https://www.olx.com.lb/ad/suzuki-swift-glx-2026-my-brand-new-ID116787817.html",
@@ -33906,30 +34702,30 @@
       ]
     },
     {
-      "id": "116866215",
-      "title": "2018 NISSAN ROGUE SL,65000 MLS ONLY 4WD",
-      "url": "https://www.olx.com.lb/ad/2018-nissan-rogue-sl65000-mls-only-4wd-ID116866215.html",
-      "make": "Nissan",
-      "model": "Rogue",
+      "id": "116866851",
+      "title": "Pajero GLS 2017 Company Source",
+      "url": "https://www.olx.com.lb/ad/pajero-gls-2017-company-source-ID116866851.html",
+      "make": "Mitsubishi",
+      "model": "Pajero",
       "body_type": "SUV",
-      "year": 2018,
-      "mileage": 65000,
-      "transmission": "Steptronic",
-      "location": "Jbeil Town, Jbeil",
-      "original_price": 17500,
-      "current_price": 17300,
+      "year": 2017,
+      "mileage": 137000,
+      "transmission": "Automatic",
+      "location": "Mazraat Yachouh, Metn",
+      "original_price": 19000,
+      "current_price": 18800,
       "drop_usd": 200,
       "drop_pct": 1.1,
-      "last_drop_date": "2026-04-25",
+      "last_drop_date": "2026-04-27",
       "first_seen": "2026-03-01",
       "price_history": [
         {
-          "price": 17500,
+          "price": 19000,
           "date": "2026-03-01"
         },
         {
-          "price": 17300,
-          "date": "2026-04-25"
+          "price": 18800,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -34714,34 +35510,6 @@
       ]
     },
     {
-      "id": "116811044",
-      "title": "Nissan Rogue 2018 SV 4wd 75000 miles super clean",
-      "url": "https://www.olx.com.lb/ad/nissan-rogue-2018-sv-4wd-75000-miles-super-clean-ID116811044.html",
-      "make": "Nissan",
-      "model": "Rogue",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 0,
-      "transmission": "Steptronic",
-      "location": "Other in Zgharta, Zgharta",
-      "original_price": 15000,
-      "current_price": 14900,
-      "drop_usd": 100,
-      "drop_pct": 0.7,
-      "last_drop_date": "2026-04-13",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 15000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 14900,
-          "date": "2026-04-13"
-        }
-      ]
-    },
-    {
       "id": "116813508",
       "title": "Nissan Rogue 2018 4x4 Sv Full options cameras sensors CLEAN CAR FAX!!",
       "url": "https://www.olx.com.lb/ad/nissan-rogue-2018-4x4-sv-full-options-cameras-sensors-clean-car-fax-ID116813508.html",
@@ -34850,6 +35618,34 @@
         {
           "price": 54500,
           "date": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "id": "116808378",
+      "title": "Kia Rio 2018",
+      "url": "https://www.olx.com.lb/ad/kia-rio-2018-ID116808378.html",
+      "make": "Kia",
+      "model": "Rio",
+      "body_type": "Hatchback",
+      "year": 2018,
+      "mileage": 151037,
+      "transmission": "Automatic",
+      "location": "Baabda Town, Baabda",
+      "original_price": 13800,
+      "current_price": 13700,
+      "drop_usd": 100,
+      "drop_pct": 0.7,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 13700,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -35426,34 +36222,6 @@
       ]
     },
     {
-      "id": "116848055",
-      "title": "Mercedes-Benz C-Class  300 look AMG 2017 convertible very clean",
-      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-300-look-amg-2017-convertible-very-clean-ID116848055.html",
-      "make": "Mercedes-Benz",
-      "model": "C-Class",
-      "body_type": "Convertible",
-      "year": 2017,
-      "mileage": 88000,
-      "transmission": "Steptronic",
-      "location": "Sin El Fil, Metn",
-      "original_price": 25900,
-      "current_price": 25800,
-      "drop_usd": 100,
-      "drop_pct": 0.4,
-      "last_drop_date": "2026-04-15",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 25900,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 25800,
-          "date": "2026-04-15"
-        }
-      ]
-    },
-    {
       "id": "116756851",
       "title": "2020 Mercedes-Benz CLA 200 Orange Edition AMG-Line",
       "url": "https://www.olx.com.lb/ad/2020-mercedes-benz-cla-200-orange-edition-amg-line-ID116756851.html",
@@ -35734,6 +36502,34 @@
         {
           "price": 17999,
           "date": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "116870232",
+      "title": "BMW Other 2006",
+      "url": "https://www.olx.com.lb/ad/bmw-other-2006-ID116870232.html",
+      "make": "BMW",
+      "model": "Other",
+      "body_type": "Other",
+      "year": 2006,
+      "mileage": 130000,
+      "transmission": "Steptronic",
+      "location": "Borj El Chmali, Tyre",
+      "original_price": 6300,
+      "current_price": 6299,
+      "drop_usd": 1,
+      "drop_pct": 0.0,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 6300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 6299,
+          "date": "2026-04-27"
         }
       ]
     }
