@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T18:12:50.990533",
-  "total_tracked": 37240,
-  "total_drops": 662,
-  "avg_drop_pct": 9.5,
+  "generated_at": "2026-04-28T07:40:24.965218",
+  "total_tracked": 37382,
+  "total_drops": 672,
+  "avg_drop_pct": 9.4,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -8526,6 +8526,30 @@
       ]
     },
     {
+      "id": "116815368",
+      "title": "apartments for sale in makdisi hamra شقق للبيع في حمرا بيروت",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-makdisi-hamra-شقق-للبيع-في-حمرا-بيروت-ID116815368.html",
+      "type": "Apartment",
+      "location": "Hamra, Beirut",
+      "sqm": 201,
+      "original_price": 450000,
+      "current_price": 420000,
+      "drop_usd": 30000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 420000,
+          "date": "2026-04-28"
+        }
+      ]
+    },
+    {
       "id": "116815286",
       "title": "apartments for sale in manara Beirut شقق للبيع في منارة بيروت",
       "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-manara-beirut-شقق-للبيع-في-منارة-بيروت-ID116815286.html",
@@ -10134,6 +10158,30 @@
       ]
     },
     {
+      "id": "116856419",
+      "title": "apartment for Sale in Badaro شقة للبيع في بدارو",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-badaro-شقة-للبيع-في-بدارو-ID116856419.html",
+      "type": "Apartment",
+      "location": "Badaro, Beirut",
+      "sqm": 165,
+      "original_price": 370000,
+      "current_price": 350000,
+      "drop_usd": 20000,
+      "drop_pct": 5.4,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 370000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 350000,
+          "date": "2026-04-28"
+        }
+      ]
+    },
+    {
       "id": "116768236",
       "title": "Terrace, Swimming Pool,Sea View, Rmeileh/الرميلة  REF#DI132116",
       "url": "https://www.olx.com.lb/ad/terrace-swimming-poolsea-view-rmeilehالرميلة-refdi132116-ID116768236.html",
@@ -10674,6 +10722,30 @@
         {
           "price": 95000,
           "date": "2026-04-09"
+        }
+      ]
+    },
+    {
+      "id": "116163484",
+      "title": "Daraya 900m2 | 350m2 Building | Troc Available | Garden Available |A",
+      "url": "https://www.olx.com.lb/ad/daraya-900m2-350m2-building-troc-available-garden-available-a-ID116163484.html",
+      "type": "Building",
+      "location": "Darayia, Keserouan",
+      "sqm": 900,
+      "original_price": 400000,
+      "current_price": 380000,
+      "drop_usd": 20000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 400000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 380000,
+          "date": "2026-04-28"
         }
       ]
     },
@@ -12894,6 +12966,30 @@
       ]
     },
     {
+      "id": "116704819",
+      "title": "Under Market Price! Dik el Mehdi 250 sqm + 70 sqm terrace for 259.000",
+      "url": "https://www.olx.com.lb/ad/under-market-price-dik-el-mehdi-250-sqm-100-sqm-terrace-for-259000-ID116704819.html",
+      "type": "Apartment",
+      "location": "Dik El Mehdi, Metn",
+      "sqm": 250,
+      "original_price": 259000,
+      "current_price": 250000,
+      "drop_usd": 9000,
+      "drop_pct": 3.5,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 259000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 250000,
+          "date": "2026-04-28"
+        }
+      ]
+    },
+    {
       "id": "116842339",
       "title": "Apartment for sale Achrafieh Ref#RS113 شقة للبيع في الأشرفية",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-achrafieh-refrs113-شقة-للبيع-في-الأشرفية-ID116842339.html",
@@ -13230,6 +13326,30 @@
       ]
     },
     {
+      "id": "116853461",
+      "title": "RWK637CA - Exclusive! Apartment for Sale in Sahel Alma",
+      "url": "https://www.olx.com.lb/ad/rwk637ca-exclusive-apartment-for-sale-in-sahel-alma-ID116853461.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 220,
+      "original_price": 460000,
+      "current_price": 445000,
+      "drop_usd": 15000,
+      "drop_pct": 3.3,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 460000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 445000,
+          "date": "2026-04-28"
+        }
+      ]
+    },
+    {
       "id": "116555716",
       "title": "Apartmnet for Sale in Jdeideh شقة للبيع في الجديدة",
       "url": "https://www.olx.com.lb/ad/apartmnet-for-sale-in-jdeideh-شقة-للبيع-في-الجديدة-ID116555716.html",
@@ -13406,6 +13526,30 @@
       ]
     },
     {
+      "id": "116853990",
+      "title": "155 SQM Indoor Duplex In Fanar With Panoramic View",
+      "url": "https://www.olx.com.lb/ad/155-sqm-indoor-duplex-in-fanar-with-panoramic-view-ID116853990.html",
+      "type": "Duplex",
+      "location": "Fanar, Metn",
+      "sqm": 155,
+      "original_price": 248000,
+      "current_price": 240000,
+      "drop_usd": 8000,
+      "drop_pct": 3.2,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 248000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 240000,
+          "date": "2026-04-28"
+        }
+      ]
+    },
+    {
       "id": "116811210",
       "title": "Unique Investment Opportunity | Apartment For Sale In Achrafieh",
       "url": "https://www.olx.com.lb/ad/unique-investment-opportunity-apartment-for-sale-in-achrafieh-ID116811210.html",
@@ -13570,6 +13714,30 @@
         {
           "price": 1550000,
           "date": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "id": "116857532",
+      "title": "Prime Investment Land for Sale Zahle Ref#MK122أرض استثمارية للبيع زحلة",
+      "url": "https://www.olx.com.lb/ad/prime-investment-land-for-sale-zahle-refmk122أرض-استثمارية-للبيع-زحلة-ID116857532.html",
+      "type": "Land",
+      "location": "Ksara, Zahle",
+      "sqm": 890,
+      "original_price": 640000,
+      "current_price": 620000,
+      "drop_usd": 20000,
+      "drop_pct": 3.1,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 640000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 620000,
+          "date": "2026-04-28"
         }
       ]
     },
@@ -14002,6 +14170,30 @@
         {
           "price": 144900,
           "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116841483",
+      "title": "Building for sale in Zahle Ref#MK106 مبنى للبيع في زحلة",
+      "url": "https://www.olx.com.lb/ad/building-for-sale-in-zahle-refmk106-مبنى-للبيع-في-زحلة-ID116841483.html",
+      "type": "Building",
+      "location": "Zahle Town, Zahle",
+      "sqm": 800,
+      "original_price": 360000,
+      "current_price": 350000,
+      "drop_usd": 10000,
+      "drop_pct": 2.8,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 360000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 350000,
+          "date": "2026-04-28"
         }
       ]
     },
@@ -14534,6 +14726,30 @@
         {
           "price": 830000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116851857",
+      "title": "Great Deal , Prime And Calm area of Safra/ صفرا REF#CO134762",
+      "url": "https://www.olx.com.lb/ad/great-deal-prime-and-calm-area-of-safra-صفرا-refco134762-ID116851857.html",
+      "type": "Apartment",
+      "location": "Safra, Keserouan",
+      "sqm": 135,
+      "original_price": 85000,
+      "current_price": 83000,
+      "drop_usd": 2000,
+      "drop_pct": 2.4,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 83000,
+          "date": "2026-04-28"
         }
       ]
     },
@@ -16018,6 +16234,30 @@
         {
           "price": 179000,
           "date": "2026-04-09"
+        }
+      ]
+    },
+    {
+      "id": "116805107",
+      "title": "180SQM Apartment for sale in Furn El Chebbak",
+      "url": "https://www.olx.com.lb/ad/180sqm-apartment-for-sale-in-furn-el-chebbak-ID116805107.html",
+      "type": "Apartment",
+      "location": "Furn El Chebbak, Baabda",
+      "sqm": 180,
+      "original_price": 250000,
+      "current_price": 249000,
+      "drop_usd": 1000,
+      "drop_pct": 0.4,
+      "last_drop_date": "2026-04-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 249000,
+          "date": "2026-04-28"
         }
       ]
     },
