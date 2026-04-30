@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T07:37:27.175561",
-  "total_tracked": 38092,
-  "total_drops": 716,
-  "avg_drop_pct": 9.3,
+  "generated_at": "2026-04-30T18:19:48.625750",
+  "total_tracked": 38214,
+  "total_drops": 728,
+  "avg_drop_pct": 9.4,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -646,6 +646,30 @@
       ]
     },
     {
+      "id": "116674398",
+      "title": "Near the highway, prime location, jounieh/جونيه REF#BJ129061",
+      "url": "https://www.olx.com.lb/ad/near-the-highway-prime-location-jouniehجونيه-refbj129061-ID116674398.html",
+      "type": "Apartment",
+      "location": "Jounieh, Keserouan",
+      "sqm": 300,
+      "original_price": 135000,
+      "current_price": 95000,
+      "drop_usd": 40000,
+      "drop_pct": 29.6,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 95000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116526482",
       "title": "500 SQM Land for SALE in Miyasse-Bikfaya!",
       "url": "https://www.olx.com.lb/ad/500-sqm-land-for-sale-in-miyasse-bikfaya-ID116526482.html",
@@ -786,6 +810,30 @@
         {
           "price": 120000,
           "date": "2026-04-27"
+        }
+      ]
+    },
+    {
+      "id": "116707547",
+      "title": "Prime Location 40 sqm Shop For Sale in Zalka زلقا",
+      "url": "https://www.olx.com.lb/ad/prime-location-40-sqm-shop-for-sale-in-zalka-زلقا-ID116707547.html",
+      "type": "Commercial",
+      "location": "Zalka, Metn",
+      "sqm": 40,
+      "original_price": 95000,
+      "current_price": 70000,
+      "drop_usd": 25000,
+      "drop_pct": 26.3,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 95000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 70000,
+          "date": "2026-04-30"
         }
       ]
     },
@@ -2678,6 +2726,30 @@
       ]
     },
     {
+      "id": "116836719",
+      "title": "RWB153DL - Offices for sale or rent in Batroun",
+      "url": "https://www.olx.com.lb/ad/rwb153dl-offices-for-sale-or-rent-in-batroun-ID116836719.html",
+      "type": "Commercial",
+      "location": "Other in Batroun, Batroun",
+      "sqm": 1861,
+      "original_price": 3410000,
+      "current_price": 2900000,
+      "drop_usd": 510000,
+      "drop_pct": 15.0,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3410000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 2900000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "115703867",
       "title": "400SQ IN ADMA SUPER PRIME LOCATION SPACIOUS , AD-157",
       "url": "https://www.olx.com.lb/ad/400sq-in-adma-super-prime-location-spacious-ad-157-ID115703867.html",
@@ -4410,6 +4482,30 @@
       ]
     },
     {
+      "id": "116836860",
+      "title": "great deal, prime location, keserwan, Adonis/أدونيس REF#CI134430",
+      "url": "https://www.olx.com.lb/ad/great-deal-prime-location-keserwan-adonisأدونيس-refci134430-ID116836860.html",
+      "type": "Apartment",
+      "location": "Adonis, Keserouan",
+      "sqm": 500,
+      "original_price": 350000,
+      "current_price": 310000,
+      "drop_usd": 40000,
+      "drop_pct": 11.4,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 350000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 310000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116738380",
       "title": "Land for Sale in Halat REF#86645131KJأرض للمشاركة للبيع في حالات",
       "url": "https://www.olx.com.lb/ad/land-for-sale-in-halat-ref86645131kjأرض-للمشاركة-للبيع-في-حالات-ID116738380.html",
@@ -5550,6 +5646,34 @@
       ]
     },
     {
+      "id": "116833834",
+      "title": "gated community,covered parking,chimney,Faitroun,SatellityREF#ML134360",
+      "url": "https://www.olx.com.lb/ad/gated-communitycovered-parkingchimneyfaitrounsatellityrefml134360-ID116833834.html",
+      "type": "Apartment",
+      "location": "Faitroun, Keserouan",
+      "sqm": 100,
+      "original_price": 150000,
+      "current_price": 135000,
+      "drop_usd": 15000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-04-01"
+        },
+        {
+          "price": 135000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116697935",
       "title": "Office for sale in Jounieh RB282 مكتب للبيع في جونيه",
       "url": "https://www.olx.com.lb/ad/office-for-sale-in-jounieh-rb282-مكتب-للبيع-في-جونيه-ID116697935.html",
@@ -5618,6 +5742,30 @@
         {
           "price": 45000,
           "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116139408",
+      "title": "Apartment For Sale In Broumana",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-broumana-ID116139408.html",
+      "type": "Apartment",
+      "location": "Broummana, Metn",
+      "sqm": 264,
+      "original_price": 550000,
+      "current_price": 495000,
+      "drop_usd": 55000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 550000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 495000,
+          "date": "2026-04-30"
         }
       ]
     },
@@ -6174,6 +6322,30 @@
         {
           "price": 39000,
           "date": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "116514955",
+      "title": "Apartment For SALE In Blat شقة للبيع #ES",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-blat-شقة-للبيع-es-ID116514955.html",
+      "type": "Apartment",
+      "location": "Blat, Jbeil",
+      "sqm": 190,
+      "original_price": 259999,
+      "current_price": 235999,
+      "drop_usd": 24000,
+      "drop_pct": 9.2,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 259999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 235999,
+          "date": "2026-04-30"
         }
       ]
     },
@@ -7918,6 +8090,30 @@
       ]
     },
     {
+      "id": "116824495",
+      "title": "Apartment with Sea View For SALE In Bsalim شقة للبيع #SS",
+      "url": "https://www.olx.com.lb/ad/apartment-with-sea-view-for-sale-in-bsalim-شقة-للبيع-ss-ID116824495.html",
+      "type": "Apartment",
+      "location": "Bsalim, Metn",
+      "sqm": 170,
+      "original_price": 199999,
+      "current_price": 184999,
+      "drop_usd": 15000,
+      "drop_pct": 7.5,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 199999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 184999,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116664232",
       "title": "200SQ +120SQ TERRACE IN  ADMA PRIME WITH PANORAMIC VIEW . (AD-183)",
       "url": "https://www.olx.com.lb/ad/200sq-120sq-terrace-in-adma-prime-with-panoramic-view-ad-183-ID116664232.html",
@@ -8082,6 +8278,30 @@
         {
           "price": 360000,
           "date": "2026-04-19"
+        }
+      ]
+    },
+    {
+      "id": "116852150",
+      "title": "2 rooms office 4sale in Corniche Al Mazraa-Near Abdul Nasser Mosque",
+      "url": "https://www.olx.com.lb/ad/2-rooms-office-4sale-in-corniche-al-mazraa-near-abdul-nasser-mosque-ID116852150.html",
+      "type": "Commercial",
+      "location": "Mazraa, Beirut",
+      "sqm": 55,
+      "original_price": 125000,
+      "current_price": 116000,
+      "drop_usd": 9000,
+      "drop_pct": 7.2,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 125000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 116000,
+          "date": "2026-04-30"
         }
       ]
     },
@@ -8374,6 +8594,30 @@
         {
           "price": 130000,
           "date": "2026-04-27"
+        }
+      ]
+    },
+    {
+      "id": "116837974",
+      "title": "Shop for sale in baouchrieh",
+      "url": "https://www.olx.com.lb/ad/shop-for-sale-in-baouchrieh-ID116837974.html",
+      "type": "Commercial",
+      "location": "Baouchriye, Metn",
+      "sqm": 65,
+      "original_price": 70000,
+      "current_price": 65000,
+      "drop_usd": 5000,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 70000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 65000,
+          "date": "2026-04-30"
         }
       ]
     },
@@ -9174,30 +9418,6 @@
         {
           "price": 140000,
           "date": "2026-04-22"
-        }
-      ]
-    },
-    {
-      "id": "116833834",
-      "title": "gated community,covered parking,chimney,Faitroun,SatellityREF#ML134360",
-      "url": "https://www.olx.com.lb/ad/gated-communitycovered-parkingchimneyfaitrounsatellityrefml134360-ID116833834.html",
-      "type": "Apartment",
-      "location": "Faitroun, Keserouan",
-      "sqm": 100,
-      "original_price": 150000,
-      "current_price": 140000,
-      "drop_usd": 10000,
-      "drop_pct": 6.7,
-      "last_drop_date": "2026-04-01",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 150000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 140000,
-          "date": "2026-04-01"
         }
       ]
     },
@@ -11594,6 +11814,30 @@
       ]
     },
     {
+      "id": "116862766",
+      "title": "Fully Decorated Apartment With Terrace For Sale In Beit Mery | CPCC157",
+      "url": "https://www.olx.com.lb/ad/fully-decorated-apartment-with-terrace-for-sale-in-beit-mery-cpcc157-ID116862766.html",
+      "type": "Apartment",
+      "location": "Beit Mery, Metn",
+      "sqm": 235,
+      "original_price": 400000,
+      "current_price": 380000,
+      "drop_usd": 20000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 400000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 380000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116805419",
       "title": "HOT DEAL! Office For Sale In The Heart Of Saifi Village.",
       "url": "https://www.olx.com.lb/ad/hot-deal-office-for-sale-in-the-heart-of-saifi-village-ID116805419.html",
@@ -12654,6 +12898,30 @@
       ]
     },
     {
+      "id": "116860694",
+      "title": "2 parking, elevator, balconies, Horsh Tabet/حرش تابت REF#LT135150",
+      "url": "https://www.olx.com.lb/ad/2-parking-elevator-balconies-horsh-tabetحرش-تابت-reflt135150-ID116860694.html",
+      "type": "Apartment",
+      "location": "Horsh Tabet, Metn",
+      "sqm": 310,
+      "original_price": 480000,
+      "current_price": 460000,
+      "drop_usd": 20000,
+      "drop_pct": 4.2,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 480000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 460000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116820464",
       "title": "Apartment for sale in Achrafieh Ref#PA118 شقة للبيع في الأشرفية",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-refpa118-شقة-للبيع-في-الأشرفية-ID116820464.html",
@@ -13350,6 +13618,30 @@
         {
           "price": 260000,
           "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116850180",
+      "title": "Fully renovated Apartment for sale in Dawhet Aaramoun, Aley",
+      "url": "https://www.olx.com.lb/ad/ready-to-move-in-apartment-for-sale-in-dawhet-aaramoun-aley-ID116850180.html",
+      "type": "Apartment",
+      "location": "Dawhet Aaramoun, Aley",
+      "sqm": 200,
+      "original_price": 135000,
+      "current_price": 130000,
+      "drop_usd": 5000,
+      "drop_pct": 3.7,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 130000,
+          "date": "2026-04-30"
         }
       ]
     },
