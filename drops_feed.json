@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-01T18:08:26.658347",
-  "total_tracked": 38464,
-  "total_drops": 752,
+  "generated_at": "2026-05-02T07:09:43.517580",
+  "total_tracked": 38561,
+  "total_drops": 757,
   "avg_drop_pct": 9.5,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -6050,6 +6050,30 @@
       ]
     },
     {
+      "id": "116875853",
+      "title": "Warehouse For Sale -Horsh Tabet- مستودع للبيع في حورش تابت",
+      "url": "https://www.olx.com.lb/ad/warehouse-for-sale-horsh-tabet-مستودع-للبيع-في-حورش-تابت-ID116875853.html",
+      "type": "Villa",
+      "location": "Horsh Tabet, Metn",
+      "sqm": 1100,
+      "original_price": 750000,
+      "current_price": 675000,
+      "drop_usd": 75000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-05-02",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 750000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 675000,
+          "date": "2026-05-02"
+        }
+      ]
+    },
+    {
       "id": "116805886",
       "title": "apartments for sale in Hazmiyeh mar takla شقق للبيع في حازمية بعبدا",
       "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-hazmiyeh-mar-takla-شقق-للبيع-في-حازمية-بعبدا-ID116805886.html",
@@ -10686,6 +10710,30 @@
         {
           "price": 160000,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116773437",
+      "title": "Apartment For Sale In Rabieh - CPTA69",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-rabieh-cpta69-ID116773437.html",
+      "type": "Apartment",
+      "location": "Rabieh, Metn",
+      "sqm": 530,
+      "original_price": 850000,
+      "current_price": 800000,
+      "drop_usd": 50000,
+      "drop_pct": 5.9,
+      "last_drop_date": "2026-05-02",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 850000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 800000,
+          "date": "2026-05-02"
         }
       ]
     },
@@ -17406,6 +17454,30 @@
       ]
     },
     {
+      "id": "116876062",
+      "title": "Ajaltoun 210m2 | Renovated Flat | Prime Location | Calm Street | EL/DA",
+      "url": "https://www.olx.com.lb/ad/ajaltoun-210m2-renovated-flat-prime-location-calm-street-elda-ID116876062.html",
+      "type": "Apartment",
+      "location": "Ajaltoun, Keserouan",
+      "sqm": 210,
+      "original_price": 165000,
+      "current_price": 162000,
+      "drop_usd": 3000,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-05-02",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 165000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 162000,
+          "date": "2026-05-02"
+        }
+      ]
+    },
+    {
       "id": "116827341",
       "title": "Jeita 120m2 | 40m2 Terrace | Well Maintained | Furnished | View |EL/TO",
       "url": "https://www.olx.com.lb/ad/jeita-120m2-40m2-terrace-well-maintained-furnished-view-elto-ID116827341.html",
@@ -17430,6 +17502,30 @@
         {
           "price": 118000,
           "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116665884",
+      "title": "Spain Get your residency! apartment 80 meters from beach RML-02763",
+      "url": "https://www.olx.com.lb/ad/spain-get-your-residency-apartment-80-meters-from-beach-rml-02763-ID116665884.html",
+      "type": "Apartment",
+      "location": "Spain, International",
+      "sqm": 105,
+      "original_price": 139900,
+      "current_price": 137500,
+      "drop_usd": 2400,
+      "drop_pct": 1.7,
+      "last_drop_date": "2026-05-02",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 139900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 137500,
+          "date": "2026-05-02"
         }
       ]
     },
@@ -17990,6 +18086,30 @@
         {
           "price": 119000,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116518024",
+      "title": "Apartment For Sale in Achrafieh - شقة للبيع في الأشرفية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID116518024.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 165,
+      "original_price": 595000,
+      "current_price": 590000,
+      "drop_usd": 5000,
+      "drop_pct": 0.8,
+      "last_drop_date": "2026-05-02",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 595000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 590000,
+          "date": "2026-05-02"
         }
       ]
     },
