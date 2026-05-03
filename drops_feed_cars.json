@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-02T17:58:02.005349",
-  "total_tracked": 11969,
-  "total_drops": 1434,
+  "generated_at": "2026-05-03T07:29:17.236622",
+  "total_tracked": 12000,
+  "total_drops": 1441,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 184000,
   "drops": [
@@ -1050,6 +1050,34 @@
         {
           "price": 3000,
           "date": "2026-04-28"
+        }
+      ]
+    },
+    {
+      "id": "116875930",
+      "title": "BMW Other 1985",
+      "url": "https://www.olx.com.lb/ad/bmw-other-1985-ID116875930.html",
+      "make": "BMW",
+      "model": "Other",
+      "body_type": "Sports / Coupe",
+      "year": 1985,
+      "mileage": 1,
+      "transmission": "Manual",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 2000,
+      "current_price": 1500,
+      "drop_usd": 500,
+      "drop_pct": 25.0,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 2000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1500,
+          "date": "2026-05-03"
         }
       ]
     },
@@ -3910,6 +3938,34 @@
       ]
     },
     {
+      "id": "116839416",
+      "title": "Land Rover Range Rover Sport 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-ID116839416.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 95000,
+      "transmission": "Automatic",
+      "location": "Kaslik, Keserouan",
+      "original_price": 35900,
+      "current_price": 31800,
+      "drop_usd": 4100,
+      "drop_pct": 11.4,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 35900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 31800,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116774538",
       "title": "Land Rover Range Rover Sport 2020",
       "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2020-ID116774538.html",
@@ -6494,6 +6550,34 @@
         {
           "price": 3000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116750346",
+      "title": "Audi Q7 S Line 2009",
+      "url": "https://www.olx.com.lb/ad/audi-q7-2009-ID116750346.html",
+      "make": "Audi",
+      "model": "Q7",
+      "body_type": "SUV",
+      "year": 2009,
+      "mileage": 180000,
+      "transmission": "Automatic",
+      "location": "Mar Moussa, Metn",
+      "original_price": 11000,
+      "current_price": 10000,
+      "drop_usd": 1000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 10000,
+          "date": "2026-05-03"
         }
       ]
     },
@@ -22502,6 +22586,34 @@
       ]
     },
     {
+      "id": "116835852",
+      "title": "لاند روفر رنج روفر سبورت 2006",
+      "url": "https://www.olx.com.lb/ad/لاند-روفر-رنج-روفر-سبورت-2006-ID116835852.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2006,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Sodeco, Beirut",
+      "original_price": 12500,
+      "current_price": 12000,
+      "drop_usd": 500,
+      "drop_pct": 4.0,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12000,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116747182",
       "title": "Mercedes-Benz C-Class 2012",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2012-ID116747182.html",
@@ -23498,6 +23610,34 @@
         {
           "price": 50000,
           "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116831162",
+      "title": "2017 Porsche Cayenne S – Platinum Edition | Black on Black | Like New",
+      "url": "https://www.olx.com.lb/ad/2017-porsche-cayenne-s-platinum-edition-black-on-black-like-new-ID116831162.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 98588,
+      "transmission": "Automatic",
+      "location": "Sassine, Beirut",
+      "original_price": 40000,
+      "current_price": 38500,
+      "drop_usd": 1500,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 40000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 38500,
+          "date": "2026-05-03"
         }
       ]
     },
@@ -25218,6 +25358,34 @@
         {
           "price": 18800,
           "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116879263",
+      "title": "Hyundai Sonata 2019 Limited +sport",
+      "url": "https://www.olx.com.lb/ad/hyundai-sonata-2019-limited-sport-ID116879263.html",
+      "make": "Hyundai",
+      "model": "Sonata",
+      "body_type": "Sports / Coupe",
+      "year": 2019,
+      "mileage": 62000,
+      "transmission": "Automatic",
+      "location": "Aabra, Saida",
+      "original_price": 14000,
+      "current_price": 13500,
+      "drop_usd": 500,
+      "drop_pct": 3.6,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 14000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 13500,
+          "date": "2026-05-03"
         }
       ]
     },
@@ -36098,6 +36266,34 @@
         {
           "price": 28000,
           "date": "2026-04-29"
+        }
+      ]
+    },
+    {
+      "id": "116804138",
+      "title": "2018 Mercedes-Benz GLE43 AMG Coupe (CLEANCARFAX)",
+      "url": "https://www.olx.com.lb/ad/2018-mercedes-benz-gle43-amg-coupe-cleancarfax-ID116804138.html",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 57000,
+      "current_price": 56000,
+      "drop_usd": 1000,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 57000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 56000,
+          "date": "2026-05-03"
         }
       ]
     },
