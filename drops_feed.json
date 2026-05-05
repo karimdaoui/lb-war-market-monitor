@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-05T07:28:16.452701",
-  "total_tracked": 39422,
-  "total_drops": 812,
+  "generated_at": "2026-05-05T18:20:59.620579",
+  "total_tracked": 39621,
+  "total_drops": 821,
   "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -342,6 +342,34 @@
         {
           "price": 55000,
           "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116697935",
+      "title": "Office for sale in Jounieh RB282 مكتب للبيع في جونيه",
+      "url": "https://www.olx.com.lb/ad/office-for-sale-in-jounieh-rb282-مكتب-للبيع-في-جونيه-ID116697935.html",
+      "type": "Commercial",
+      "location": "Jounieh, Keserouan",
+      "sqm": 65,
+      "original_price": 200000,
+      "current_price": 125000,
+      "drop_usd": 75000,
+      "drop_pct": 37.5,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-04-06"
+        },
+        {
+          "price": 125000,
+          "date": "2026-05-05"
         }
       ]
     },
@@ -1082,6 +1110,30 @@
         {
           "price": 75000,
           "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116655261",
+      "title": "مكتب للبيع في جونية Decorated Office for sale in Jounieh",
+      "url": "https://www.olx.com.lb/ad/مكتب-للبيع-في-جونية-decorated-office-for-sale-in-jounieh-ID116655261.html",
+      "type": "Commercial",
+      "location": "Jounieh, Keserouan",
+      "sqm": 110,
+      "original_price": 150000,
+      "current_price": 113000,
+      "drop_usd": 37000,
+      "drop_pct": 24.7,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 113000,
+          "date": "2026-05-05"
         }
       ]
     },
@@ -5466,6 +5518,30 @@
       ]
     },
     {
+      "id": "116840082",
+      "title": "Land for sale in Zahle Ref#MK104 أرض للبيع في زحلة",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-zahle-refmk104-أرض-للبيع-في-زحلة-ID116840082.html",
+      "type": "Land",
+      "location": "Other in Zahle, Zahle",
+      "sqm": 37404,
+      "original_price": 673000,
+      "current_price": 600000,
+      "drop_usd": 73000,
+      "drop_pct": 10.8,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 673000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 600000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
       "id": "116812151",
       "title": "Apartment for sale in Ramlet El Bayda/ Spacious",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-ramlet-el-bayda-spacious-ID116812151.html",
@@ -6202,30 +6278,6 @@
         {
           "price": 450000,
           "date": "2026-05-04"
-        }
-      ]
-    },
-    {
-      "id": "116697935",
-      "title": "Office for sale in Jounieh RB282 مكتب للبيع في جونيه",
-      "url": "https://www.olx.com.lb/ad/office-for-sale-in-jounieh-rb282-مكتب-للبيع-في-جونيه-ID116697935.html",
-      "type": "Commercial",
-      "location": "Jounieh, Keserouan",
-      "sqm": 65,
-      "original_price": 200000,
-      "current_price": 180000,
-      "drop_usd": 20000,
-      "drop_pct": 10.0,
-      "last_drop_date": "2026-04-06",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 200000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 180000,
-          "date": "2026-04-06"
         }
       ]
     },
@@ -7506,6 +7558,34 @@
       ]
     },
     {
+      "id": "116852268",
+      "title": "Prime Location 45 sqm Office For Sale in Jal El Dib جل الديب",
+      "url": "https://www.olx.com.lb/ad/prime-location-45-sqm-office-for-sale-in-jal-el-dib-جل-الديب-ID116852268.html",
+      "type": "Commercial",
+      "location": "Jal El Dib, Metn",
+      "sqm": 45,
+      "original_price": 68000,
+      "current_price": 62000,
+      "drop_usd": 6000,
+      "drop_pct": 8.8,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 68000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 64000,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 62000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
       "id": "116555126",
       "title": "Apartment for Sale in Bellevue Beit El Chaar شقة للبيع في بيت الشعار",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bellevue-beit-el-chaar-شقة-للبيع-في-بيت-الشعار-ID116555126.html",
@@ -7774,6 +7854,30 @@
         {
           "price": 220000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116698565",
+      "title": "High-End Apartment for Sale in Haret Sakher REF#HN130073",
+      "url": "https://www.olx.com.lb/ad/high-end-apartment-for-sale-in-haret-sakher-refhn130073-ID116698565.html",
+      "type": "Apartment",
+      "location": "Haret Sakher, Keserouan",
+      "sqm": 330,
+      "original_price": 360000,
+      "current_price": 330000,
+      "drop_usd": 30000,
+      "drop_pct": 8.3,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 360000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 330000,
+          "date": "2026-05-05"
         }
       ]
     },
@@ -9886,6 +9990,30 @@
       ]
     },
     {
+      "id": "116750988",
+      "title": "Spacious Apartment for Sale in Zouk Mikael – CPFY113",
+      "url": "https://www.olx.com.lb/ad/spacious-apartment-for-sale-in-zouk-mikael-cpfy113-ID116750988.html",
+      "type": "Apartment",
+      "location": "Zouk Mikael, Keserouan",
+      "sqm": 175,
+      "original_price": 145000,
+      "current_price": 135000,
+      "drop_usd": 10000,
+      "drop_pct": 6.9,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 145000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 135000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
       "id": "116706955",
       "title": "L19940 - Spacious Apartment With Open View For Sale in Zalka",
       "url": "https://www.olx.com.lb/ad/l19940-spacious-apartment-with-open-view-for-sale-in-zalka-ID116706955.html",
@@ -11430,30 +11558,6 @@
       ]
     },
     {
-      "id": "116852268",
-      "title": "Prime Location 45 sqm Office For Sale in Jal El Dib جل الديب",
-      "url": "https://www.olx.com.lb/ad/prime-location-45-sqm-office-for-sale-in-jal-el-dib-جل-الديب-ID116852268.html",
-      "type": "Commercial",
-      "location": "Jal El Dib, Metn",
-      "sqm": 45,
-      "original_price": 68000,
-      "current_price": 64000,
-      "drop_usd": 4000,
-      "drop_pct": 5.9,
-      "last_drop_date": "2026-04-25",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 68000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 64000,
-          "date": "2026-04-25"
-        }
-      ]
-    },
-    {
       "id": "116812384",
       "title": "sea view, fully furnished, security, Safra/صفرا REF#YH133660",
       "url": "https://www.olx.com.lb/ad/sea-view-fully-furnished-security-safraصفرا-refyh133660-ID116812384.html",
@@ -11954,6 +12058,30 @@
         {
           "price": 85000,
           "date": "2026-04-09"
+        }
+      ]
+    },
+    {
+      "id": "116740927",
+      "title": "1432 sqm Land for sale , Calm location in chahtoul/شحتول REF#GO121630",
+      "url": "https://www.olx.com.lb/ad/1432-sqm-land-for-sale-calm-location-in-chahtoulشحتول-refgo121630-ID116740927.html",
+      "type": "Land",
+      "location": "Chahtoul, Keserouan",
+      "sqm": 1432,
+      "original_price": 90000,
+      "current_price": 85000,
+      "drop_usd": 5000,
+      "drop_pct": 5.6,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 90000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 85000,
+          "date": "2026-05-05"
         }
       ]
     },
@@ -15178,6 +15306,30 @@
       ]
     },
     {
+      "id": "116513597",
+      "title": "2floors Shop Half Mezanine High ceiling Mar Mkhayel Mandaloun Beirut",
+      "url": "https://www.olx.com.lb/ad/2floors-shop-half-mezanine-high-ceiling-mar-mkhayel-mandaloun-beirut-ID116513597.html",
+      "type": "Commercial",
+      "location": "Mar Mkhayel, Beirut",
+      "sqm": 40,
+      "original_price": 135000,
+      "current_price": 130000,
+      "drop_usd": 5000,
+      "drop_pct": 3.7,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 130000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
       "id": "116678531",
       "title": "Adonis | 3 Master Bedrooms Apartment w/ Terraces | Prime Location",
       "url": "https://www.olx.com.lb/ad/adonis-3-master-bedrooms-apartment-w-terraces-prime-location-ID116678531.html",
@@ -15870,6 +16022,30 @@
         {
           "price": 145000,
           "date": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "116832744",
+      "title": "Luxury Building , Dekwaneh city rama/الدكوانة REF#EH134304",
+      "url": "https://www.olx.com.lb/ad/luxury-building-dekwaneh-city-ramaالدكوانة-refeh134304-ID116832744.html",
+      "type": "Building",
+      "location": "Dekwaneh, Metn",
+      "sqm": 200,
+      "original_price": 300000,
+      "current_price": 290000,
+      "drop_usd": 10000,
+      "drop_pct": 3.3,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 300000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 290000,
+          "date": "2026-05-05"
         }
       ]
     },
@@ -19094,6 +19270,30 @@
       ]
     },
     {
+      "id": "116840816",
+      "title": "Mezzanine Offices,Sad El Baouchriyeh/سد البوشريه REF#EH134581",
+      "url": "https://www.olx.com.lb/ad/mezzanine-officessad-el-baouchriyehسد-البوشريه-refeh134581-ID116840816.html",
+      "type": "Commercial",
+      "location": "Sad El Baouchriyeh, Metn",
+      "sqm": 210,
+      "original_price": 380000,
+      "current_price": 375000,
+      "drop_usd": 5000,
+      "drop_pct": 1.3,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 380000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 375000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
       "id": "116849219",
       "title": "Apartments for sale Downtown+pool. شقق للبيع وسط المدينة +مسبح",
       "url": "https://www.olx.com.lb/ad/apartments-for-sale-downtownpool-شقق-للبيع-وسط-المدينة-مسبح-ID116849219.html",
@@ -19550,6 +19750,30 @@
         {
           "price": 149000,
           "date": "2026-04-28"
+        }
+      ]
+    },
+    {
+      "id": "116877039",
+      "title": "Fully Furnished 2 bedroom apartment 4sale in Kneitra / kornet chehwen",
+      "url": "https://www.olx.com.lb/ad/fully-furnished-2-bedroom-apartment-4sale-in-kneitra-kornet-chehwen-ID116877039.html",
+      "type": "Villa",
+      "location": "Beit Chabeb, Metn",
+      "sqm": 107,
+      "original_price": 150000,
+      "current_price": 149000,
+      "drop_usd": 1000,
+      "drop_pct": 0.7,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 149000,
+          "date": "2026-05-05"
         }
       ]
     },
