@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-05T18:20:59.620579",
-  "total_tracked": 39621,
-  "total_drops": 821,
+  "generated_at": "2026-05-06T07:40:01.264302",
+  "total_tracked": 39629,
+  "total_drops": 822,
   "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -6598,6 +6598,38 @@
       ]
     },
     {
+      "id": "116343427",
+      "title": "PRIME LOCATION - BRAND NEW- JAL EL DIB -جل الديب  REF#BS120210",
+      "url": "https://www.olx.com.lb/ad/prime-location-brand-new-jal-el-dib-جل-الديب-refbs120210-ID116343427.html",
+      "type": "Apartment",
+      "location": "Jal El Dib, Metn",
+      "sqm": 120,
+      "original_price": 420000,
+      "current_price": 380000,
+      "drop_usd": 40000,
+      "drop_pct": 9.5,
+      "last_drop_date": "2026-05-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 420000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 400000,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 390000,
+          "date": "2026-04-15"
+        },
+        {
+          "price": 380000,
+          "date": "2026-05-06"
+        }
+      ]
+    },
+    {
       "id": "116667629",
       "title": "310 sqm Apartment with  panoramic sea view in Bsalim REF#MZ128817",
       "url": "https://www.olx.com.lb/ad/310-sqm-apartment-with-panoramic-sea-view-in-bsalim-refmz128817-ID116667629.html",
@@ -9450,34 +9482,6 @@
         {
           "price": 260000,
           "date": "2026-05-01"
-        }
-      ]
-    },
-    {
-      "id": "116343427",
-      "title": "PRIME LOCATION - BRAND NEW- JAL EL DIB -جل الديب  REF#BS120210",
-      "url": "https://www.olx.com.lb/ad/prime-location-brand-new-jal-el-dib-جل-الديب-refbs120210-ID116343427.html",
-      "type": "Apartment",
-      "location": "Jal El Dib, Metn",
-      "sqm": 120,
-      "original_price": 420000,
-      "current_price": 390000,
-      "drop_usd": 30000,
-      "drop_pct": 7.1,
-      "last_drop_date": "2026-04-15",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 420000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 400000,
-          "date": "2026-03-23"
-        },
-        {
-          "price": 390000,
-          "date": "2026-04-15"
         }
       ]
     },
@@ -13634,6 +13638,30 @@
         {
           "price": 157000,
           "date": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "id": "116854512",
+      "title": "OPEN SEA VIEW , PAYMENT FACILITIES, JAL EL DIB/ جل الديب REF#BS134928",
+      "url": "https://www.olx.com.lb/ad/open-sea-view-payment-facilities-jal-el-dib-جل-الديب-refbs134928-ID116854512.html",
+      "type": "Apartment",
+      "location": "Jal El Dib, Metn",
+      "sqm": 110,
+      "original_price": 315000,
+      "current_price": 300000,
+      "drop_usd": 15000,
+      "drop_pct": 4.8,
+      "last_drop_date": "2026-05-06",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 315000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 300000,
+          "date": "2026-05-06"
         }
       ]
     },
