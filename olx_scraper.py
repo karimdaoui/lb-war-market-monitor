@@ -140,7 +140,14 @@ def parse_hit(hit):
             sqm = None
 
     title_lower = title.lower()
-    if any(w in title_lower for w in ["villa", "house", "بيت", "فيلا"]):
+    bedrooms = extra.get("rooms")
+    if (
+        bedrooms == "studio"
+        or "studio" in title_lower
+        or "ستوديو" in title_lower
+    ):
+        prop_type = "Studio"
+    elif any(w in title_lower for w in ["villa", "house", "بيت", "فيلا"]):
         prop_type = "Villa"
     elif any(w in title_lower for w in ["penthouse", "بنتهاوس"]):
         prop_type = "Penthouse"
@@ -293,6 +300,7 @@ def generate_drops_feed(db):
                 "type": listing["type"],
                 "location": listing["location"],
                 "sqm": listing.get("sqm"),
+                "bedrooms": listing.get("bedrooms"),
                 "original_price": listing["original_price"],
                 "current_price": listing["current_price"],
                 "drop_usd": listing["drop_usd"],

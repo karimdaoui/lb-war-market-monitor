@@ -59,6 +59,12 @@ header{padding:36px 0 28px;border-bottom:1px solid var(--brd)}
 .sbtn.on{color:var(--red);border-color:var(--red);background:var(--red-d)}
 .area-sel{background:var(--s2);border:1px solid var(--brd);color:var(--tx2);padding:6px 10px;border-radius:5px;font:500 12px/1 'Instrument Sans',sans-serif;cursor:pointer;outline:0}
 .area-sel option{background:var(--s2)}
+.sqm-wrap{display:flex;gap:6px;align-items:center}
+.sqm-lbl{font:500 10px/1 'JetBrains Mono',monospace;color:var(--tx3);text-transform:uppercase;letter-spacing:.5px}
+.sqm-inp{width:76px;background:var(--s2);border:1px solid var(--brd);color:var(--tx2);padding:6px 8px;border-radius:5px;font:500 12px/1 'JetBrains Mono',monospace;outline:0;-moz-appearance:textfield}
+.sqm-inp::-webkit-outer-spin-button,.sqm-inp::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+.sqm-inp::placeholder{color:var(--tx3)}
+.sqm-inp:focus{border-color:var(--brd2);color:var(--tx)}
 
 table{width:100%;border-collapse:collapse}
 thead th{padding:11px 14px;font:600 10px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.7px;color:var(--tx3);text-align:left;border-bottom:1px solid var(--brd);position:sticky;top:0;background:var(--bg);z-index:10}
@@ -74,6 +80,7 @@ td{padding:13px 14px;font-size:14px;vertical-align:middle}
 .t-dup{background:var(--cyn-d);color:var(--cyn);border:1px solid #2dd4bf28}
 .t-land{background:var(--grn-d);color:var(--grn);border:1px solid #00d26a28}
 .t-chal{background:var(--pnk-d);color:var(--pnk);border:1px solid #f472b628}
+.t-studio{background:var(--org-d);color:var(--org);border:1px solid #f9731628}
 .t-sedan{background:var(--blu-d);color:var(--blu);border:1px solid #4488ff28}
 .t-suv{background:var(--pur-d);color:var(--pur);border:1px solid #a855f728}
 .t-hatch{background:var(--cyn-d);color:var(--cyn);border:1px solid #2dd4bf28}
@@ -144,6 +151,12 @@ tbody tr{animation:rowIn .3s ease both}
 <div class="toolbar">
   <div class="filters" id="type-filters"></div>
   <div class="right-tools">
+    <div class="sqm-wrap" id="sqm-filter" style="display:none">
+      <span class="sqm-lbl">Sqm</span>
+      <input class="sqm-inp" id="sqm-min" type="number" min="0" step="1" placeholder="Min" oninput="setSqmMin(this.value)">
+      <span class="sqm-lbl">–</span>
+      <input class="sqm-inp" id="sqm-max" type="number" min="0" step="1" placeholder="Max" oninput="setSqmMax(this.value)">
+    </div>
     <select class="area-sel" id="extra-filter" style="display:none"><option value="all">All Makes</option></select>
     <select class="area-sel" id="area-filter"><option value="all">All Areas</option></select>
     <div>
@@ -165,8 +178,8 @@ tbody tr{animation:rowIn .3s ease both}
 
 <div class="empty" id="empty" style="display:none">
   <div class="empty-i">📉</div>
-  <h3>No price drops detected yet</h3>
-  <p>Tracking 🇱🇧 listings since March 1. Price drops will appear here as sellers reduce prices from the war-start baseline.</p>
+  <h3 id="empty-title">No price drops detected yet</h3>
+  <p id="empty-msg">Tracking 🇱🇧 listings since March 1. Price drops will appear here as sellers reduce prices from the war-start baseline.</p>
 </div>
 
 <footer>
@@ -186,9 +199,24 @@ function esc(s){const d=document.createElement('div');d.textContent=s;return d.i
 let activeTab='re';
 let reData={total_tracked:0,total_drops:0,avg_drop_pct:0,biggest_drop_usd:0,drops:[]};
 let carsData={total_tracked:0,total_drops:0,avg_drop_pct:0,biggest_drop_usd:0,drops:[]};
-let sortBy='pct',typeFilter='all',areaFilter='all',extraFilter='all';
+let sortBy='pct',typeFilter='all',areaFilter='all',extraFilter='all',sqmMin='',sqmMax='',studioOnly=false;
 
-function reTypeClass(t){return{Apartment:'apt',Villa:'villa',Penthouse:'pent',Duplex:'dup',Land:'land',Chalet:'chal'}[t]||'apt'}
+function reTypeClass(t){return{Apartment:'apt',Villa:'villa',Penthouse:'pent',Duplex:'dup',Land:'land',Chalet:'chal',Studio:'studio'}[t]||'apt'}
+function isStudio(d){
+  if(d.type==='Studio')return true;
+  const t=(d.title||'').toLowerCase();
+  if(t.includes('studio')||t.includes('ستوديو'))return true;
+  const br=d.bedrooms;
+  return br==='studio'||br===0||br==='0';
+}
+function matchesSqm(d){
+  if(!sqmMin&&!sqmMax)return true;
+  const sqm=d.sqm;
+  if(!sqm)return false;
+  if(sqmMin&&sqm<parseInt(sqmMin,10))return false;
+  if(sqmMax&&sqm>parseInt(sqmMax,10))return false;
+  return true;
+}
 function carTypeClass(t){
   const m={Sedan:'sedan',SUV:'suv',Hatchback:'hatch',Pickup:'truck',Coupe:'coupe',
     Convertible:'convert',Van:'van','Pick Up Truck':'truck','Sport car':'coupe',
@@ -206,13 +234,13 @@ async function loadData(){
 
 function switchTab(tab){
   activeTab=tab;
-  typeFilter='all';areaFilter='all';extraFilter='all';
+  typeFilter='all';areaFilter='all';extraFilter='all';sqmMin='';sqmMax='';studioOnly=false;
   document.getElementById('tab-re').classList.toggle('on',tab==='re');
   document.getElementById('tab-cars').classList.toggle('on',tab==='cars');
   refresh();
 }
 
-function refresh(){renderStats();buildHeaders();buildFilters();buildExtraFilter();buildAreaFilter();render()}
+function refresh(){renderStats();buildHeaders();buildFilters();buildSqmFilter();buildExtraFilter();buildAreaFilter();render()}
 
 function renderStats(){
   const d=getData();
@@ -237,7 +265,20 @@ function buildFilters(){
   const d=getData();
   const field=activeTab==='re'?'type':'body_type';
   const types=['all',...new Set(d.drops.map(x=>x[field]).filter(Boolean))];
-  document.getElementById('type-filters').innerHTML=types.map(t=>`<button class="fbtn${t===typeFilter?' on':''}" onclick="setType('${t}')">${t==='all'?'All':t}</button>`).join('');
+  let html=types.map(t=>`<button class="fbtn${t===typeFilter&&!studioOnly?' on':''}" onclick="setType('${t.replace(/'/g,"\\'")}')">${t==='all'?'All':t}</button>`).join('');
+  if(activeTab==='re')html+=`<button class="fbtn${studioOnly?' on':''}" onclick="setStudioOnly()">Studios</button>`;
+  document.getElementById('type-filters').innerHTML=html;
+}
+
+function buildSqmFilter(){
+  const wrap=document.getElementById('sqm-filter');
+  if(activeTab==='re'){
+    wrap.style.display='';
+    document.getElementById('sqm-min').value=sqmMin;
+    document.getElementById('sqm-max').value=sqmMax;
+  }else{
+    wrap.style.display='none';
+  }
 }
 
 function buildExtraFilter(){
@@ -261,7 +302,10 @@ function buildAreaFilter(){
   sel.onchange=e=>{areaFilter=e.target.value;render()};
 }
 
-function setType(t){typeFilter=t;buildFilters();render()}
+function setType(t){typeFilter=t;studioOnly=false;buildFilters();render()}
+function setStudioOnly(){studioOnly=!studioOnly;if(studioOnly)typeFilter='all';buildFilters();render()}
+function setSqmMin(v){sqmMin=v.trim();render()}
+function setSqmMax(v){sqmMax=v.trim();render()}
 function setSort(s){sortBy=s;document.querySelectorAll('.sbtn').forEach(b=>b.classList.toggle('on',b.dataset.sort===s));render()}
 
 function render(){
@@ -269,12 +313,21 @@ function render(){
   let items=[...d.drops];
   const typeField=activeTab==='re'?'type':'body_type';
   if(typeFilter!=='all')items=items.filter(x=>x[typeField]===typeFilter);
+  if(activeTab==='re'&&studioOnly)items=items.filter(isStudio);
+  if(activeTab==='re')items=items.filter(matchesSqm);
   if(areaFilter!=='all')items=items.filter(x=>x.location===areaFilter);
   if(activeTab==='cars'&&extraFilter!=='all')items=items.filter(x=>x.make===extraFilter);
   const sorters={pct:(a,b)=>b.drop_pct-a.drop_pct,usd:(a,b)=>b.drop_usd-a.drop_usd,date:(a,b)=>b.last_drop_date.localeCompare(a.last_drop_date),price:(a,b)=>b.current_price-a.current_price};
   items.sort(sorters[sortBy]||sorters.pct);
   const tbody=document.getElementById('tbody'),empty=document.getElementById('empty');
-  if(!items.length){tbody.innerHTML='';empty.style.display='block';return}
+  if(!items.length){
+    tbody.innerHTML='';
+    empty.style.display='block';
+    const hasFilters=typeFilter!=='all'||areaFilter!=='all'||studioOnly||sqmMin||sqmMax||(activeTab==='cars'&&extraFilter!=='all');
+    document.getElementById('empty-title').textContent=hasFilters?'No drops matching filters':'No price drops detected yet';
+    document.getElementById('empty-msg').textContent=hasFilters?'Try adjusting your filters or check back after the next scrape.':'Tracking 🇱🇧 listings since March 1. Price drops will appear here as sellers reduce prices from the war-start baseline.';
+    return;
+  }
   empty.style.display='none';
   const today=todayStr();
 
@@ -284,7 +337,7 @@ function render(){
       const dc=d.drop_pct>=15?'drop-r':'drop-a';
       return`<tr style="animation-delay:${i*30}ms" onclick="window.open('${d.url}','_blank')">
         <td><div class="prop-name">${esc(d.title)}</div><div class="prop-loc">${esc(d.location||'')}${d.sqm?' · '+d.sqm+'sqm':''}</div></td>
-        <td><span class="tbadge t-${reTypeClass(d.type)}">${d.type||'Other'}</span></td>
+        <td><span class="tbadge t-${reTypeClass(isStudio(d)?'Studio':d.type)}">${isStudio(d)?'Studio':(d.type||'Other')}</span></td>
         <td class="hide-m" style="font-size:13px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
         <td><div class="p-now">${fmtUSD(d.current_price)}</div></td>
         <td><div class="p-was">${fmtUSD(d.original_price)}</div></td>
